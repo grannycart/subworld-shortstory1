@@ -1,5 +1,5 @@
-10kstorynotes.md
-Last modified: Sat Jun 19, 2021  12:37PM
+0kstorynotes.md
+Last modified: Sun Sep 12, 2021  12:11PM
 
 
 # 10k-word short story notes
@@ -25,23 +25,28 @@ Last modified: Sat Jun 19, 2021  12:37PM
 
 
 ## Rough layout for plot:
-* A description of submarines as subconsious objects, out there in the world, but never seen, occupying space literally below the surface, below the surface of our consciousness.
-* Maybe a description of the sea as a great black greasy stain on the Earth.
-* On board the Prospect, they are cruising on the surface. On the radar they spot another sub.
+* Start with a description of the sea as a great black greasy stain on the Earth. A pool of filth and oil that sways back and forth around the world, pulled by the invisible grip of the moon.
+* A description of submarines as subconsious objects, out there in the world, below the grease pool surface, never seen, occupying space literally below the surface, below the surface of our consciousness.
+* On board the Prospect, they are cruising on the surface. Stacks blowing flame (see rough description)
+* On the radar they spot a ship -- some kind of Authority enforcer; a non-wartime destroyer.
+	* (Maybe a commericial vessel converted for listening and enforcing.
+	* Perhaps a limited number of armaments for that reason -- they mostly have the power to patrol, and call in more aggressive machines if necessary.
 * It creeps into sight and hits them over the ship-to-ship. (Maybe a slow chase into range?)
 	* It idenfies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components
 	* "Weapons components? We're carrying a shipment of wristwatches" "...intended for distribution to infantry for timing artillery strikes"
-		* "If they board us they will likely seize the shipment. They might sized the whole boat."
+		* "If they board us they will likely seize the shipment. They might seize the whole boat."
 * Percy crash dives the Prospect.
-* She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes, randomly changing direction.
+* She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
 * They slip under the isotherm, and come to a dead stop.
+	* Don't even bother addressing the active-sonar question. For the story, it's all about the surface ship _listening_ for them. 
 * They wait in silence. (build tension from nothing here)
 * Randomly, the ticking of the wristwatches come into sync
 	* Cassandra, swinging the sonar mics around, suddenly hears it when she lines up with the front of the boat.
 	* She describes the ticking in her ears, growing louder.
 * They hold on, panicked, until randomness re-asserts itself and the watches de-sync
-* Somehow this leads to their escape
+	* It's about randomness: it clumps together and endangers them, comes apart and they are free. 
+* They drift off with a deep-water current until they are out of range of the pursuers.
 
 
 

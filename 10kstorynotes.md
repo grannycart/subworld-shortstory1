@@ -1,5 +1,5 @@
 0kstorynotes.md
-Last modified: Sun Sep 12, 2021  12:11PM
+Last modified: Fri Oct 08, 2021  03:49PM
 
 
 # 10k-word short story notes
@@ -22,17 +22,19 @@ Last modified: Sun Sep 12, 2021  12:11PM
 * maybe it through sheer chance that many of the watches start ticking in synchronicity.
 * what are the Authority ships doing? depth charging them? What the consequence of the ticking watches being heard?
 * (See note on Authorities 'pulling over' a sub in main subworld story elements list)
+* Maybe for this story write it as if it _is_ real --- just drop the reader into a filthy cargo-sub filled world
+	* And out there wandering back and forth in that filth are thousands of cargo submarines, pushing their way through that filth, below the surface, below our consciousness. This is how the world's cargo moves, silent, and away from our attention. (it's true even without submarines! also: for reference there's about 10k cargo ships in the world today.) 
 
 
 ## Rough layout for plot:
 * Start with a description of the sea as a great black greasy stain on the Earth. A pool of filth and oil that sways back and forth around the world, pulled by the invisible grip of the moon.
-* A description of submarines as subconsious objects, out there in the world, below the grease pool surface, never seen, occupying space literally below the surface, below the surface of our consciousness.
+* A description of submarines as subconscious objects, out there in the world, below the grease pool surface, never seen, occupying space literally below the surface, below the surface of our consciousness.
 * On board the Prospect, they are cruising on the surface. Stacks blowing flame (see rough description)
 * On the radar they spot a ship -- some kind of Authority enforcer; a non-wartime destroyer.
-	* (Maybe a commericial vessel converted for listening and enforcing.
+	* (Maybe a commercial vessel converted for listening and enforcing.)
 	* Perhaps a limited number of armaments for that reason -- they mostly have the power to patrol, and call in more aggressive machines if necessary.
 * It creeps into sight and hits them over the ship-to-ship. (Maybe a slow chase into range?)
-	* It idenfies itself as an authority boat, tracking them out of port from another authority
+	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components
 	* "Weapons components? We're carrying a shipment of wristwatches" "...intended for distribution to infantry for timing artillery strikes"
 		* "If they board us they will likely seize the shipment. They might seize the whole boat."

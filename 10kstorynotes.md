@@ -1,5 +1,5 @@
 0kstorynotes.md
-Last modified: Sat Oct 09, 2021  06:30PM
+Last modified: Sun Oct 10, 2021  01:34PM
 
 
 # 10k-word short story notes
@@ -34,6 +34,11 @@ Last modified: Sat Oct 09, 2021  06:30PM
 * [ ] On the radar they spot a ship -- some kind of Authority enforcer; a non-wartime destroyer.
 	* (Maybe a commercial vessel converted for listening and enforcing.)
 	* Perhaps a limited number of armaments for that reason -- they mostly have the power to patrol, and call in more aggressive machines if necessary.
+	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge
+		* It becomes clear that the vessel is trying to gain on them; not just randomly going in the same direction
+		* And hours more for the vessel to creep into ship-to-ship range; the whole night basically 
+	* Hemi identifies it as a commercial vessel; not a warship; through the glass; but expresses a misgiving
+		* "It looks like a civilian vessel, cargo ship probably" "yeah, but no fucking surface cargo ship goes anyhere without the blessing and protection of some fucking Authority." 
 * [ ] It creeps into sight and hits them over the ship-to-ship. (Maybe a slow chase into range?)
 	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components

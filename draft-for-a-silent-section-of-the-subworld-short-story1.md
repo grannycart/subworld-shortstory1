@@ -1,0 +1,24 @@
+
+
+[//]: # (what does a slow and silent section read like? What is the written equivalent to the long shot in Stalker?)
+
+Percy felt a cool breeze tickling the hairs on the back of her neck. A faint breeze, that through the vagaries of air pressure and ventilation system and worked its way down from the vigorous life it had outside through the inviting open hatch into the control room and from there in a less-likely feat to stir the air in the sonar compartment, deeper inside the boat. The little zephyr gave some life to the coal of the cigarillo burning in her hand and it glowed with a little more effervescence.
+
+The renewed glow of the coal held between her fingers drew Percy's attention to it, and she lifted the cigarillo to her lips and sucked oxygenated accelerant across the coal giving it even more life. She withdrew the smoldering little stick, and held it out in front of her, the back of her hand facing up, the coal raised up and smoking down towards her fingers. She studied it for a moment without concious thought. The coal burned without sound, consuming its fuel and some of the oxygen she otherwise might put to work in her own lungs. The coal flared up a little, igniting into a brief flame, and then died back to a dull ember. It crawled imperceptibly slowly towards her fingers.
+
+Percy turned away from the sonar unit and the back of her hand, and stepped up to the navigation table behind her. Her hand found the light switch for the navigation table by instinct alone and the cold pale light cut lines down through the dimness of the compartment to bring the chart laid out on the table into the daylight world. She lifted the flat grease pencil sitting in a holder next to the chart and took a straight-edge from the hook it hung on. She laid the tool on the chart and scribbled some nearly-illegible numbers onto a piece of scrap paper. Then she laid down a single hash-mark on the glass that covered the chart, extending their marked course across the ocean by precisely that much.
+
+She tapped the non-marking end of the pencil against the glass for a moment, but the percussive sound was disconcerting, coming as it did over the top of the drowning drone of the diesel engines. She put the pencil down and flipped the navigation table light off.
+
+Her eyes scanned around the compartment. The forward half, where Hemi sat, was stuffed with detection equipment. Steel cases were stacked floor-to-ceiling, and each case protected innards of delicate electronics. Each case was a particular modular unit that either fed information to another unit, or was studded with switches, knobs, dials, and gauges, in some cases accompanied by some kind of main display like the radar scope or the sonar range finder. The unit Hemi sat in front of was like that, but there were dozens more units in place against that front wall of the compartment.
+
+Further back, the equipment got less electronic, but remained technical. The sonar and navigation compartment was the nerve center of the boat after all. The navigation table was surrounded by stacks of rolled charts and lay at the top of a stack of flat files containing more charts. There were other workstations to stand at along the wall, kitted out for various navigation tasks, and for doing the calculations required to keep sharp their sense of where in the world the boat was located.
+
+The walls were run with rusting and painted-over pipes. At various locations along the pipes were valves that could be turned, either by hand or with a wrench. Most of the boat's physical control systems were routed through this room even though they were generally controlled elsewhere, the idea being that in an emergency a single person from the control room could manipulate the boat's actions by pure physical force, if they were desperate. The day-to-day operations happened elsewhere though, mostly in the control room above this compartment, so these particular valves had not been turned in years. Percy was unsure how many of them even could be turned at this point, and hoped she never had to find out.
+
+Toward the rear of the compartment four fat pipes were routed along the wall. Unlike the myriad other pipes of the more minor systems, these were the main ballast blow pipes. They too had big valves set in them, designed to be turned by a large wrench. But these had been used more recently. Testing minor systems was something Percy didn't feel like they had time for, but testing this main safety system --- the only way back to the surface in a real emergency --- was something that she did enforce. Besides that, they had been in a few scrapes in recent years where a main ballast blow was necessary.
+
+She turned to the steel ladder that stood in the middle of the compartment, and slowly climbed it. Up through the average-human-width-sized hole cut in the deck above that led into the control room.
+
+
+

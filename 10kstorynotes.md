@@ -1,5 +1,5 @@
-0kstorynotes.md
-Last modified: Sun Oct 10, 2021  01:34PM
+10kstorynotes.md
+Last modified: Sun Nov 21, 2021  05:54PM
 
 
 # 10k-word short story notes
@@ -19,6 +19,7 @@ Last modified: Sun Oct 10, 2021  01:34PM
 		* make the title visible: but the title will have to have the word 'submarine' in it so people know what the story is about with no visual cover
 		* this will do a nice job of distinguishing it as a 'rougher' 'short story' --- it reads as an opportunity to get at a draft for free of something else maybe
 * they smuggle a hold full of expensive watches. the watches get wound up with the movement of the boat. while running silent under the authority ship the sonar realizes they can hear the watches. down in the silence of the hold with no engine running, the ticking is clearly audible, like the telltale heart. possibly audible to the authority ship.
+* probably should re-read telltale heart to hold a current reference point in my head.
 * the watches are a shipment from one of the authority govts to field troops to use for artillery 
 * maybe it through sheer chance that many of the watches start ticking in synchronicity.
 * what are the Authority ships doing? depth charging them? What the consequence of the ticking watches being heard?
@@ -38,7 +39,7 @@ Last modified: Sun Oct 10, 2021  01:34PM
 		* It becomes clear that the vessel is trying to gain on them; not just randomly going in the same direction
 		* And hours more for the vessel to creep into ship-to-ship range; the whole night basically 
 	* Hemi identifies it as a commercial vessel; not a warship; through the glass; but expresses a misgiving
-		* "It looks like a civilian vessel, cargo ship probably" "yeah, but no fucking surface cargo ship goes anyhere without the blessing and protection of some fucking Authority." 
+		* "It looks like a civilian vessel, cargo ship probably" "yeah, but no fucking surface cargo ship goes anywhere without the blessing and protection of some fucking Authority." 
 * [ ] It creeps into sight and hits them over the ship-to-ship. (Maybe a slow chase into range?)
 	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components

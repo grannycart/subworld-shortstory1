@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sun Nov 28, 2021  06:02PM
+Last modified: Tue Dec 07, 2021  01:49PM
 
 
 # 10k-word short story notes
@@ -35,7 +35,7 @@ Last modified: Sun Nov 28, 2021  06:02PM
 * [X] On the radar they spot a ship 
 * [X] A long slow chase while the contact gains on them (Maybe a slow chase into range?)
 	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge
-* [ ] Percy lowers the boat to decks-awash to reduce the radar signature
+* [X] Percy lowers the boat to decks-awash to reduce the radar signature
 * [ ] At dawn it is 10nm off, and they can see it
 * [ ] some kind of Authority enforcer; a non-wartime destroyer.
 	* (Maybe a commercial vessel converted for listening and enforcing.)
@@ -46,13 +46,14 @@ Last modified: Sun Nov 28, 2021  06:02PM
 		* "It looks like a civilian vessel, cargo ship probably" "yeah, but no fucking surface cargo ship goes anywhere without the blessing and protection of some fucking Authority." 
 * [ ] They dive the Prospect, and try to outrun them submerged.
 	* (Battery considerations -- they can go faster, but it would run down the battery in an hour. Instead they try to go slow and quietly)
-* [ ] The persuing vessel tracks them with active sonar 
+* [ ] The pursuing vessel tracks them with active sonar 
 * [ ] It creeps into half-mile range and hits them over the ship-to-ship.
 	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components
 	* "Weapons components? We're carrying a shipment of wristwatches" "...intended for distribution to infantry for timing artillery strikes"
 		* "If they board us they will likely seize the shipment. They might seize the whole boat."
-* [ ] Perce crash-dives the Prospect deep. She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
+		* (for delivery to an island nation fighting an insurgent war against an oppressive empire?)
+* [ ] Percy crash-dives the Prospect deep. She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
 * [ ] They slip under the isotherm, and come to a dead stop.
 	* Don't even bother addressing the active-sonar question. For the story, it's all about the surface ship _listening_ for them. 
 * [ ] They wait in silence. (build tension from nothing here)

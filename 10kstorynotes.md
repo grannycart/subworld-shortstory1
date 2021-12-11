@@ -1,10 +1,15 @@
 10kstorynotes.md
-Last modified: Tue Dec 07, 2021  01:49PM
+Last modified: Sat Dec 11, 2021  01:27PM
 
 
 # 10k-word short story notes
+[Rough layout for plo](#plot)
+
 
 ## Initial notes
+* You'll probably have to fix the refernces to exhaust --- diesel subs exhausted below the surface
+	* see notes in research files 
+	* but also see note in book1 todos on how maybe this wouldn't apply to a cargo sub
 * promotional:
 	* 10k words
 	* free story on Amazon as a promo/loss leader
@@ -29,6 +34,7 @@ Last modified: Tue Dec 07, 2021  01:49PM
 
 
 ## Rough layout for plot:
+:plot:
 * [X] Start with a description of the sea as a great black greasy stain on the Earth. A pool of filth and oil that sways back and forth around the world, pulled by the invisible grip of the moon.
 * [X] A description of submarines as subconscious objects, out there in the world, below the grease pool surface, never seen, occupying space literally below the surface, below the surface of our consciousness.
 * [X] On board the Prospect, they are cruising on the surface. Stacks blowing flame (see rough description)
@@ -36,7 +42,7 @@ Last modified: Tue Dec 07, 2021  01:49PM
 * [X] A long slow chase while the contact gains on them (Maybe a slow chase into range?)
 	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge
 * [X] Percy lowers the boat to decks-awash to reduce the radar signature
-* [ ] At dawn it is 10nm off, and they can see it
+* [X] At dawn it is 10nm off, and they can see it
 * [ ] some kind of Authority enforcer; a non-wartime destroyer.
 	* (Maybe a commercial vessel converted for listening and enforcing.)
 	* Perhaps a limited number of armaments for that reason -- they mostly have the power to patrol, and call in more aggressive machines if necessary.

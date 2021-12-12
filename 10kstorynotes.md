@@ -1,9 +1,9 @@
 10kstorynotes.md
-Last modified: Sat Dec 11, 2021  01:27PM
+Last modified: Sun Dec 12, 2021  04:57PM
 
 
 # 10k-word short story notes
-[Rough layout for plo](#plot)
+[Rough layout for plot](#plot)
 
 
 ## Initial notes
@@ -43,7 +43,7 @@ Last modified: Sat Dec 11, 2021  01:27PM
 	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge
 * [X] Percy lowers the boat to decks-awash to reduce the radar signature
 * [X] At dawn it is 10nm off, and they can see it
-* [ ] some kind of Authority enforcer; a non-wartime destroyer.
+* [X] some kind of Authority enforcer; a non-wartime destroyer.
 	* (Maybe a commercial vessel converted for listening and enforcing.)
 	* Perhaps a limited number of armaments for that reason -- they mostly have the power to patrol, and call in more aggressive machines if necessary.
 		* It becomes clear that the vessel is trying to gain on them; not just randomly going in the same direction

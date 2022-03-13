@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sat Jan 22, 2022  05:30PM
+Last modified: Sun Mar 13, 2022  12:37PM
 
 
 # 10k-word short story notes
@@ -52,9 +52,8 @@ Last modified: Sat Jan 22, 2022  05:30PM
 		* "It looks like a civilian vessel, cargo ship probably" "yeah, but no fucking surface cargo ship goes anywhere without the blessing and protection of some fucking Authority." 
 * [X] They dive the Prospect, and try to outrun them submerged.
 	* (Battery considerations -- they can go faster, but it would run down the battery in an hour. Instead they try to go slow and quietly)
-* [ ] The pursuing vessel stops engines to listen with sonar; and then turns to follow the Prospect.
+* [X] The pursuing vessel stops engines to listen with sonar; and then turns to follow the Prospect.
 	* This is how they finally learn that it is tracking them, and it has listening gear
-* 
 * [ ] It creeps into half-mile range and hits them over the ship-to-ship.
 	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components

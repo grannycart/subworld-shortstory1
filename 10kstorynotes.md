@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sun Apr 03, 2022  03:46PM
+Last modified: Sun Apr 03, 2022  05:53PM
 
 
 # 10k-word short story notes
@@ -61,12 +61,13 @@ Last modified: Sun Apr 03, 2022  03:46PM
 		* "If they board us they will likely seize the shipment. They might seize the whole boat."
 		* (for delivery to an island nation fighting an insurgent war against an oppressive empire?)
 * [X] Percy crash-dives the Prospect deep. She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
-* [ ] They slip under the thermocline, and come to a dead stop.
+* [X] They slip under the thermocline, and come to a dead stop.
 	* Don't even bother addressing the active-sonar question. For the story, it's all about the surface ship _listening_ for them. 
+	* (Though if I understand correctly a thermocline CAN reflect even active sonar)
 	* If there's no active sonar, you probably don't need to go into any detail about the thermocline.
 	* (On the other hand... it's kinda interesting)
-* [ ] They wait in silence. (build tension from nothing here)
-* [ ] Randomly, the ticking of the wristwatches come into sync
+* [X] They wait in silence. (build tension from nothing here)
+* [X] Randomly, the ticking of the wristwatches come into sync
 	* Cassandra, swinging the sonar mics around, suddenly hears it when she lines up with the front of the boat.
 	* She describes the ticking in her ears, growing louder.
 	* The sound of the ticking came together into loud clicks:
@@ -83,9 +84,9 @@ Last modified: Sun Apr 03, 2022  03:46PM
 		....
 	* Until it was a long string of clicks, like a dolphin makes.
 	* And then it grew softer, until the watches were all ticking softly and randomly to themselves.
-* [ ] They hold on, panicked, until randomness re-asserts itself and the watches de-sync
+* [X] They hold on, panicked, until randomness re-asserts itself and the watches de-sync
 	* It's about randomness: it clumps together and endangers them, comes apart and they are free. 
-* [ ] They drift off with a deep-water current until they are out of range of the pursuers.
+* [X] They drift off with a deep-water current until they are out of range of the pursuers.
 
 
 

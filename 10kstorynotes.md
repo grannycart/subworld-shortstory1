@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sun Mar 13, 2022  12:37PM
+Last modified: Sun Apr 03, 2022  03:46PM
 
 
 # 10k-word short story notes
@@ -54,16 +54,16 @@ Last modified: Sun Mar 13, 2022  12:37PM
 	* (Battery considerations -- they can go faster, but it would run down the battery in an hour. Instead they try to go slow and quietly)
 * [X] The pursuing vessel stops engines to listen with sonar; and then turns to follow the Prospect.
 	* This is how they finally learn that it is tracking them, and it has listening gear
-* [ ] It creeps into half-mile range and hits them over the ship-to-ship.
+* [X] It creeps into half-mile range and hits them over the ship-to-ship.
 	* It identifies itself as an authority boat, tracking them out of port from another authority
 	* It orders them to stop and prepare to be boarded because they are suspected of carrying weapons or weapons components
 	* "Weapons components? We're carrying a shipment of wristwatches" "...intended for distribution to infantry for timing artillery strikes"
 		* "If they board us they will likely seize the shipment. They might seize the whole boat."
 		* (for delivery to an island nation fighting an insurgent war against an oppressive empire?)
-* [ ] Percy crash-dives the Prospect deep. She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
-* [ ] They slip under the isotherm, and come to a dead stop.
+* [X] Percy crash-dives the Prospect deep. She points the boat down, gets some speed, and then kills the motors. They drift downward, guided by the bow planes and inertia, steering the rudder to randomly changing direction.
+* [ ] They slip under the thermocline, and come to a dead stop.
 	* Don't even bother addressing the active-sonar question. For the story, it's all about the surface ship _listening_ for them. 
-	* If there's no active sonar, you probably don't need to go into any detail about the isotherm.
+	* If there's no active sonar, you probably don't need to go into any detail about the thermocline.
 	* (On the other hand... it's kinda interesting)
 * [ ] They wait in silence. (build tension from nothing here)
 * [ ] Randomly, the ticking of the wristwatches come into sync

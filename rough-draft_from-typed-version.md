@@ -35,3 +35,21 @@ Percy pulled at her cigarillo and looked up at the dome of stars above her, made
 Half an hour passed in an uninterrupted sensory blackwash. The diesels hummed their unvarying groan-drone, the soles of Percy's boots vibrated, the ocean chop sloshed in a regular pattern along the semi-exposed hull of the boat.
 
 Percy let the second half of her cigarillo burn away between her fingers without remembering to take a puff from it. She was beginning to love the ability to tell whether she was standing on the bridge of her boat or just dreaming it when at the bottom of the ladder at her feet a circular hatch split open and a hellish red glow poured out.
+
+Nothing came through the hatch though except for the voice of a young man, calling up to Percy from the submarine's control room. "Captain Percy, Cassandra says she's got a blip on the radar."
+
+"OK Owen, thanks. What's the range and direction?" She was unconcerned. The oceans were busy and crowded places --- at least on the surface. It would be unusual to make it through a nighttime surface run without encountering at least a few other vessels, even in the remote parts of the world, which this was not particularly.
+
+"The blip is 22 nautical miles --- behind us." There was a pause while more detail was relayed up to Owen from the radar station three decks below where Percy was sanding. "...Almost directly behind us, a little off to the starboard side." 
+
+Percy didn't bother passing the message on up to Hemi, the range was too far to be seen from the lookout ring. Hemi could probably hear what Owen was saying anyway. The contact was well over the horizon. For the moment, there was nothing else Percy could do to divine any further details about this radar blip. But a good cargo-sub driver didn't take unnecessary risks. Better to leave a contact behind than waste any effort trying to identify it. On a cargo sub it was always best to just be left alone, if one could help it. "Owen, push her up to maximum --- 15 knots if she'll do it tonight."
+
+Within the next minute, Percy's keen sense of the motion of her boat told her that they had put on something like 5 more knots of speed, though the pitch of the diesel engines did not change at all. The *Prospect*, like many submarines, was configured for the diesels to always run at the RPMs that produced the maximum efficiency because their job was the generate electricity, not drive the propeller of the boat. That electricity both charged the batteries, and powered the electric motors that did the actual turning of the props. When Owen increased the throttle, the electric motors started spinning faster, but those motors were so quiet relative to the diesel that from the bridge the could not be detected. For anyone used to operating most ships or land vehicles, the changing of velocity without the accompanying change of pitch was one of the many disconcerting things about working on a diesel submarine like the *Prospect*. 
+
+With the boat now going as fast and it was capable of, there was nothing else to do but wait. "Owen, tell Cassandra to keep tracking the blip on radar for now. And you might as well leave the fuckin' hatch open." 
+
+[//]: # (Maybe further develop this idea that for the first part of this story, the scene is up on the bridge, and there are things going on down below the water line in the hull of the boat, but everything that matters comes up to Percy and Hemi on the bridge.)
+
+
+
+

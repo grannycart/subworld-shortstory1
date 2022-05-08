@@ -50,6 +50,21 @@ With the boat now going as fast and it was capable of, there was nothing else to
 
 [//]: # (Maybe further develop this idea that for the first part of this story, the scene is up on the bridge, and there are things going on down below the water line in the hull of the boat, but everything that matters comes up to Percy and Hemi on the bridge.)
 
+"Sure Percy." The disembodied voice floated up from below.
+
+Percy list another cigarillo and looked up to catch Hemi's eye when he had lowered the binoculars for a moment. She took the glowing wreath from her lips. "I'm sure I don't fuckin' need to tell you to keep a sharp out behind us?"
+
+"That was indeed my intention Sylvia." Hemi lifted the binoculars and made a slow deliberate scan of the 180 degrees to the rear of the *Prospect*. The black-gray line of the horizon remained as unblemished as it had for the last 24 hours, since they had got out of sight of land after loading up their cargo at the mainland pier they had been docked at.
+
+An hour passed. Percy found that while she had been unintentionally and causally facing the rear of the boat before, now she stood with deliberation at the back of the sail, peering at the trailing wake they left behind them. She let Hemi do the concentrated lookout work, and she focused more on her smoking than watching out behind. At the same time she could not let her gaze wander too long from that black vertical line that always followed off in the distance behind.
+
+Bastian unfolded his thin frame from the hatch and gingerly carried to rubber-coated metal cups of coffee up the ladded to the bridge of the sail. He handed one to Percy and held the other up with his arm fully extended to the long-armed reach of the stooping Hemi. Percy gave Bastian a heartfelt 'thanks.' He just nodded and slithered back down the hole he had come up out of.
+
+Twenty minutes later, Captain Percy though enough time had passed that it was reasonably possible the situation with the radar blip had changed. She cupped a hand around her mouth and called down to Owen in the control room for a report. She could hear her request echoed more faintly down to Cassandra at the radar station deeper within the ship.
+
+[//]: # (Above with Owen relaying might be too quickly repeated from earlier in the story.)
+
+A minute later Owen stood under the open hatch in the ceiling of the control room looking up at her. "Cassandra says the blip is gaining on us Cap. They are at something like twenty nautical miles now."
 
 
 

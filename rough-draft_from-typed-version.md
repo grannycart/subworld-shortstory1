@@ -66,5 +66,35 @@ Twenty minutes later, Captain Percy though enough time had passed that it was re
 
 A minute later Owen stood under the open hatch in the ceiling of the control room looking up at her. "Cassandra says the blip is gaining on us Cap. They are at something like twenty nautical miles now."
 
+"Fucking gaining?! Does that mean they are on our heading too?"
+
+A pause, while Owen checked below. "She says she can't tell if they have altered course to follow us, or if they just happen to be going in roughly the same direction. But she is sure they are moving faster than us. If it were someone who is deliberately trying to overtake us, they fucking surely will eventually."
+
+"Eh, fuck Owen, you know we'll dive before we let that happen." She looked up at Hemi. "You better get down there and help Cassandra out on radar, we require a little more fucking precision now than that little waif may be capable of delivering." She turned back to Owen. "Come up and take over for Hemi in the lookout ring Owen."
+
+A minute of sideways scuttling to get past Percy followed --- made slower by Hemi's great bulk --- as Hemi and Owen swapped places on the ship. As Owen moved past her, she warned him: "Be sure to keep a sharp lookout behind --- but don't forget to scan around regularly too Owen."
+
+"I know Captain Percy."
+
+He probably did too. Owen was young, but he was sharp. He wouldn't fuck this up. "Fuckin' good. I'm going down to the control room. You let me know if you see the slightest fuckin' coracle out there, fucking right?"
+
+"I know Captain Percy." Owen said again, with the exact same resolute inflection.
+
+Percy wrapped the toes of her boots around the steel sidebars of the ladder and slid down to the cramped space of the deck below. It could hardly be called a deck, it was just a void inside the sail --- filled with water when they were submerged --- just big enough to let you open and close the hatch to the control room. Holding the hand-grabs, she dangled her boots down into the hatch until they found the familiar perch of the second ladder rung down, and then climbed hand-under-hand down into the red-lit control room.
+
+At the moment, it was just her and Bastian in the small space from which the *Prospect* was run. When the control room had its full complement of Captain Percy, two people at the control seats, and huge Hemi acting in his role as Deck Boss, the small space was extremely crowded. But with auch a small crew managing a 100 meter long boat, it was rare that they had the luxury of everyone in the control room that should be there. Usually it only happened when they need to execute a treacherous maneuver.
+
+Bastian was sitting in the rudder/throttle control chair to the right as one faced the bow of the boat. The planes control seat --- where the angle and depth of the submarine was controlled --- was empty since they didn't need anyone controlling the planes tanks while they ran on the surface. Since the course was set and the throttle at max, Bastian didn't have much to do in the rudder control chair either. He sat looking uncomfortable, with his long legs folded up so he could put his feet on the flat steel panel in front of him and trying to demonstrate a casual, leaned-back pose in the stiffly upright metal chair as he puffed away at a cigarette.
+
+Captain Percy lit another cigarillo off Bastian's coal and reached up to weave her fingers into one of the cracking leather straps that hung above what she considered the "Captain's Station" in the control room --- though in reality that spot on the rear left side was simply the only place one could stand where one could see everything that happened in the space.
+
+Dangling with one arm and smoking with the other, she began another hour's watch uninterrupted by event or report from the crew. The night was getting on and she could feel her eyes drooping even as she stood, which meant it was time for coffee.
+
+She lowered herself gingerly down the ladder into the sonar and navigation compartment. As her head cleared the control-room deck, she habitually scanned the sonar room and noticed Hemi was wearing the sonar headset. She stepped over and tapped him on the shoulder. He looked up at her.
+
+"How can you hear anything with the diesels running?" She asked incredulously. "I thought you were down here to watch the radar?"
+
+Hemi sighed and pulled one of the earpieces back. "I cannot, as you suspect. There is too much noise. I thought if I could filter it I might be able to get a better idea of who the contact is. But it is not working. And they gained another couple of miles on us in the meantime." Hemi pointed to the glowing-and-fading dot on the radar sweep, at just under the 20-nautical-mile range mark.
+
 
 

@@ -96,5 +96,36 @@ She lowered herself gingerly down the ladder into the sonar and navigation compa
 
 Hemi sighed and pulled one of the earpieces back. "I cannot, as you suspect. There is too much noise. I thought if I could filter it I might be able to get a better idea of who the contact is. But it is not working. And they gained another couple of miles on us in the meantime." Hemi pointed to the glowing-and-fading dot on the radar sweep, at just under the 20-nautical-mile range mark.
 
+Hemi replaced the earpiece over his ear and returned his attention to the sonar control panel in front of him. With his eyes closed, his thick brown fingers found the switches and dials of the sonar filters with practiced instinct. Every time he made an adjustment to the sonar's settings the pattern displayed by the conglomeration of thin needles on the sonar's display dials would change subtly. Percy knew that in Hemi's ears the sounds he would be hearing from the sonar would be changing along with the filter adjustments. But from where she stood behind him, there was no sound except the unvarying heavy wash of the diesel engines which swept through all these middle compartments of the boat unrelentingly. That diesel bass-hum would be occupying most of the soundscape in Hemi's ears anyway. No sonar filter was sophisticated enough to do a reasonable job of cutting through all that engine noise. She knew Hemi would keep trying though, because if could pick up even a halfway decent sonar signal he would have a shot at identifying the contact long before it came into visual range.
+
+She considered shutting down the diesel and letting Hemi have a good, clear listen. But if she did that, she might as well dive the boat. And that would mean using up precious batter during the part of the day when they were meant to be charging. Until they knew the pursuers were a genuine threat, it was better to simply try to out-distance them. It was most likely that with time their courses would simply diverge. Hemi was likely being overly cautious.
+
+Still. She appreciated Hemi's caution. The man was a serious professional. They were in a business where taking risks got your killed. Or at least your cargo confiscated.
+
+As was so often the case in submarining, what was called for right now more than anything else was patience. Silence and patience were two qualities that made a top submariner. Though those qualities had to be more than just personality elements. Hemi had a generally quiet demeanor, for example, but when Percy thought of his stealthy qualities it was more about how he never took an action rashly, that is, without considering the acoustic impacts of any action he took --- from the simple quiet care he used when handling tools to bold maneuvers of the whole boat.
+
+Likewise, his patience wasn't just a matter of waiting without complaining. Hemi could *endure* long periods in cold, wet, or dangerous conditions. He wasn't just patient, he could suffer the hard stress of patience without complaint. 
+
+As he was doing right now.
+
+He might be listening to that signal-less, mind-scrambling, interminable noise in the sonar headset for the next many hours. But he would do it without even a second thought to the effort required and discomfort that would go along with it.
+
+Percy wasn't she she was even Hemi's equal when it came to patience.
+
+She lit another cigarillo and placed her hand on Hemi's huge hunched shoulder. She sucked slowly at the tobacco, and her eyes carefully weighted the various signal-strength gauges and dials on the sonar unit trying to read something from these poor visual analogues to the sounds Hemi was hearing. 
+
+But there was nothing there. She exhaled and a long stream of smoke raised up like some post-quake oceanic displacement, and worked its way along the ceiling of the compartment until the sub's ventilation system found it and consumed it.
+
+Time took on the characteristics of the hour hand on a clock. It crept relentlessly forward so that Percy and Hemi, when they considered it, noticed the changing status of their situation. For example: the glowing dot on the radar was measurably closer than it had been. But the hours passed with no distinguishing features to mark them. It was a mental state that was all too common on submarines, and one for which tobacco smoking was a particularly well-adapted pastime.
+
+Captain Percy found herself chain smoking. She smoked her cigarillos slowly, but as the hot coal of one --- with its thin stream of smoke rising up to her nostrils --- burned down enough to start warming her fingertips, she would pull the next from the pack in her chest pocket and place it gently between her lips while holding the smoldering and not-long-for-this-world's forebear to the end of it while drawing air in. A new generation of cigarillo was aflame with its brief and fluorescing life, and Percy would ensure that it slowly and steadily ran the course of its own short life, and made sure it would be ready to pass its flame on to the next generation.
+
+The steady creation of smoke in the cramped space meant the ventilation system had not a chance, even with the hatch above the control room open to the outside air. The compartment was soon filled with a thick haze that did not move or dissipate any faster than their watch on the time.
+
+With nothing in his headphones to cut the grinding never-ending bass of the diesel engines, Hemi had opened his eyes and let them causally wash over the dials and gauges in front of him. He soon realized that his eyes were watering from the smoke in the compartment and from forgetting to blink as the small needles hovered without movement in a cryptic array of silent noise before him.
+
+He took a grease pencil and marked 20-minute increments on the round gauge that was the sonar unit's clock. Every time the hands on the face of the gauge drew even with one of his pencil marks he would do a full 360 degree scan with the sonar, and then point it back at the bearing behind them where the radar indicated the pursuing vessel was located. Then he went through a systematic process of flipping filters on and off to see if he could yet detect the contact on sonar.
+
+
 
 

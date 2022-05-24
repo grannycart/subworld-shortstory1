@@ -174,4 +174,52 @@ She couldn't blame Bastian for getting drowsy. There was currently nothing to do
 
 "They are about 15 nautical miles off. They are gaining on us at a rate of just about one nautical mile every hour." Hemi called back.
 
+"Are they tracking us on radar?"
+"They certainly are. I'm regularly detecting their radar sweep. They are not being shy about their own position."
+
+Percy thought for a minute. "So if you're seeing their radar you have very precise information about their location, heading, and speed?"
+
+"That is correct."
+
+"And they are definitely on our course?"
+
+"Dead on."
+
+Percy knew they had been tracking the contact long enough now that the chances that they just happened to be sharing the same heading were rapidly growing remote. Whoever the other vessel was, they were almost certainly tracking and trying to overtake the *Prospect*. Captain Percy did not like that. Being that the whole point of shipping goods with a cargo submarine was to avoid the attention of other vessels on the ocean, a cargo sub like the *Prospect* had very little chance of interacting with another vessel in what might be described as a 'friendly' way. Particularly if that other vessel was a surface vessel and not another cargo sub.
+
+"OK." Said Percy. "Shut down the radar Hemi. There's no reason we should make this easy for them. Keep trying to pick them up on sonar. Failing that, I'm sure we'll ger a visual on them soon than we would care for."
+
+"I estimate we will be able to see them by dawn." Said Hemi.
+
+Percy stepped up to the panel off to one side that controlled the trim tanks of the boat. She flipped a few switches and opened a valve. Far off in the innards of the *Prospect* she could hear water flowing through pipes. She kept her eye on the depth gauge and watched it rise two meters before she closed the valves to the trim tanks.
+
+"Are we diving Captain Percy?"
+
+She looked up. Owen's head was a dark shadow two decks above her looking down from the bridge of the sail. "No Owen, I would have sounded the alarm if we were diving. I wouldn't have left you up there! No, I wanted to get the deck under water so we make less of a radar target. Get back in the lookout ring and keep a sharp eye out behind us. Hemi estimates we'll be able to see that pursuing contact by morning."
+
+"Right Captain Percy, I will."
+
+With just the sail above water, the *Prospect* could still run on the diesel engines and would be harder to spot on radar. Still, any modern radar unit would likely be good enough to track even the much smaller target of the sail alone. This move was a practical step, but not a permanent solution.
+
+Percy climbed up to the bridge. Nothing had changed above-decks except the main the lookout ring was the much-smaller Owen, and the sound of the water rushing past the boat was much louder and closer now. She looked over the side of the sail and right down into the black liquid cut by white wake rendered a pale gray by the dim star light. With most of the boat underwater, it made it look from her perspective like the small sail she rode atop of was all there was to her vessel. It made her feel small and exposed under that immense dome of stars.
+
+It was also quieter since the engines were now muffled by the meter or so of water covering them. That didn't diminish the bass rumble that escaped from the exhaust plume streaming up from the open pipes behind her, but the more atmospheric bass resonance she was used to when the ran on the surface was gone. It felt peaceful. Or at least peaceful in perspective. Or as peaceful as you could expect when being driven along at a clip by huge engines deriving their power from contained and directed explosions.
+
+Unfortunately, the sound that didn't reach her ears through the air was almost certainly being dispersed through the water instead. Running sail-out might make for a smaller radar target, but they were probably that much easier to track on sonar. There were always trade-offs.
+
+Percy lit another cigarillo and chatted casually with Owen, lifting her voice so he could hear her from the lookout ring. He seemed to be run through with boredom, which made sense since there was nothing to see through the binoculars except for the black line of pitch at the horizon where the dim stars came down to meet the Earth. Percy felt that chatting with Owen would help keep him sharp for a job that was a sure soporific.
+
+But there was only so much to talk about with such little sensory input to spark conversation. It was not long after the glowing butt of her cigarillo had taken off into the wake behind that their conversation dwindled off. Percy lit another and puffed at it slowly, trying to make the smoking consume the time.
+
+She wasn't sure, she may have closed her eyes for a minute. It was an undisciplined thing for a captain to do, but she opened them when the warm glow of her cigarillo burned the back of her fingers.
+
+She tossed the butt out into the pitch, watching the orange glow spark and gain life before going dark, traveling off to some nether-world to find its mate.
+
+After that, it was possible she closed her eyes again.
+
+When she opened them next, the horizon had taken on a soft white glow that washed out the stars and gave the water line a firm twice-penciled-over definition.
+
+Owen coughed. "I've got a shadow on the horizon Captain Percy." He was looking intently through the binoculars at the sea behind them.
+
+
 

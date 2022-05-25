@@ -221,5 +221,47 @@ When she opened them next, the horizon had taken on a soft white glow that washe
 
 Owen coughed. "I've got a shadow on the horizon Captain Percy." He was looking intently through the binoculars at the sea behind them.
 
+"Give me the binoculars Owen."
+
+He squatted down, steadying himself with one hand on the steel of the lookout ring and extending an arm with the binoculars held out to her. Percy took them and lifted them to her eyes. She adjusted the focus while scanning slowly along the black field edge that marked the ocean's horizon.
+
+She wasn't seeing anything. Owen's slightly high vantage might be giving him just the bit of extra sight distance he needed to see the target. From above her he held out an arm with a pointing finger to help narrow down the area she needed to search. 
+
+A few minutes later she had it. For the moment, it was nothing more than a black needle point sticking up from the perfect flatness of the horizon. But even as she watched it was growing and gaining definition. The sky was also shifting from a pale grat to a soft orange as the dawn made its way up. 
+
+Percy leaned over and yelled down to Bastian in the control room: "Send Hemi up." She could hear some further indistinguishable shouts further down in the boat. Then silence for a minute, followed shortly after by a big man squeezing through the hatch at the top of the control room as he made his way up to the bridge. As he got his feet under him and rose to his full height, Percy handed him the binoculars while pointing out the direction he should look with her free hand. He only peered through the binoculars for a minute before asking Owen to let him have the lookout ring.
+
+Hemi got situated and Percy let Owen go below deck for coffee. Hemi Peered silently and steadfastly behind them. Minutes went by before Percy realized it could be a while before Hemi had anything to report. She lit another cigarillo.
+
+A full twenty minutes passed, during which the sky flooded with glowing liquid orange and red. Percy could now make out the shadow-spot that was their persuers with her naked eye.
+
+"Well Hemi?"
+
+Without lowering the binoculars, Hemi gave the best report he could. "I am not sure Sylvia. To the best of my knowledge it is a civilian vessel, not military. It has the basic shape of a cargo ship. A bulk hauler or possibly an oiler. I cannot really make that jibe with the distinct sense I have that they are on our tail though."
+
+"I've heard that sometimes civilian ships are shanghaied by Authorities for doing tracking and reporting work. The Authorities deputize them and give them the power to call in a true warship if a situation needs it."
+
+"I have heard that too. But it remains uncommon. It angers the ship owners when Authorities cut into their profits by using their ships for surveillance work."
+
+"That might be, but it's also a fact that no surface vessel moves anywhere without the blessing of an Authority. And those fuckers have already convinced me that they are well out of the realm of pure fucking chance that they are following precisely the same course as us. Those two things together have me wanting to lose those assholes as fast as possible."
+
+"I would call it dawn now anyway."
+
+"Fuckin' true, that is.. We should have a full charge on the batteries by now. Let's go fuckin' quiet, deep, and slow before they get any closer." She punched the dive alarm button tucked under the fairing of the sail and a loud electric buzzer sounded through the boat in a way that was impossible to ignore.
+
+Hemi slid with more grace than would seem possible down from the lookout ring and followed Percy down the ladder and through the hatch into the control room. Hemi sealed the hatch above his head. He was tall enough to do it without standing on the lower rungs of the ladder, unlike Percy. Percy flipped the white lights on in the control room and sonar compartment and simultaneously turned off the red night lighting.
+
+Owen arrived in the control room with a cup of coffee in a metal cup, summoned by the dive alarm from which he knew he would be needed to sit in one of the control chairs.
+
+"Bastian, take the dive planes. Owen, you're on rudder."
+
+Bastian shifted his skinny body over to the chair to his left without fully standing erect and sat cracking his knuckles in anticipation while Owen slipped into the rudder control seat Bastian had just vacated. Hemi stood behind the two men, and Captain Percy took her position at the back of the small compartment.
+
+"Owen, shut down the diesels. Switch us to battery."
+
+Owen half-stood and flipped the big power switches to the diesel engines. The bass rumble that had pervaded their environment for long hours sputtered and faded away leaving on the faint background hum of the electric motors, now driven by the huge banks of batteries buried deep in the belly of the *Prospect*. Percy knew the humming electric motors would soon seem plenty loud enough to be terrifying, but in the wake of the diesel rumble so recently extinguished they seemed like a blessed and sacred silent penance.
+
+"Open the main ballast valved. Bastian, give us a couple of degrees down on the dive planes. Owen, slow us to three knots."
+
 
 

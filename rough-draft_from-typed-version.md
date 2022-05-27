@@ -263,5 +263,31 @@ Owen half-stood and flipped the big power switches to the diesel engines. The ba
 
 "Open the main ballast valved. Bastian, give us a couple of degrees down on the dive planes. Owen, slow us to three knots."
 
+Hemi stepped to Bastian's left where the tank trim control panel was mounted to the wall. The switches that controlled the main ballast valves were large recessed switches set in the lower right quarter of the tank trim control panel among dozens of other switches that controlled valves to less critical tanks and other elements of the boat's buoyancy system. Hemi' hand was large enough that by splaying two of his thick brown fingers he could operate the two switches simultaneously. As he propped them up a loud electro-magnetic clank echoed through the steel hull into the control room. This was followed by a much louder hiss of hair as the gas that had held them aloft at the surface of the ocean escaped up into the atmosphere above.
+
+Bastian eased the dive plan control wheel around and the bow of the boat nosed downward in front of them. They traveled gently downhill like this for a few minutes. Owen watched the depth gauge with his fingers wrapped around the throttle lever. He knew the boat needed a little momentum to drive it downward, so he didn't want to cut the throttle back yet. When the depth showed twenty meters, he eased back the throttle and the electric motor hum died away to almost inaudible.
+
+The angle of the boat gave them all the distinct sensation of sinking, but it was a gradual and controlled dive. Hemi watched the gauges and when the boat had achieved approximately neutral buoyancy, he flipped closed the main ballast valves. This left the main ballast tanks partially filled with air. If it had been an emergency dive, he would have let the tanks fill completely with water.
+
+At fifty meters, Percy had Bastian level the boat off. Hemi went to work at the tank trim control panel. He spent the next twenty minutes making minor adjustments --- pushing compressed air into some of the smaller trim tanks and releasing it from others until he was satisfied that the *Prospect* would float evenly starboard to port and bow to stern regardless of whether any other force was applied to the boat.
+
+By the time Hemi had the boat trimmed, the quiet ennui of slow cruising had set in. Operating a submarine was a difficult-to-adapt-to mix of passive quiet focus punctuated at random intervals by the active attention required to execute a maneuver. Few people haf the personality to switch smoothly between those two modes.
+
+Half an hour after the descent from the surface, the control room was filled with smoke from half-consumed tobacco products, and gauges on the wall held all their little black needles at an unmoving attention. Bastian and Owen had slouched into vaguely more comfortable positions in the metal chairs designed to be uncomfortable so the person sitting in them would not doze off. Owen help his empty coffee cup in front of him and tapped his fingernails quietly against it. Bastian had a cigarette smoking between his fingers, but he seemed to more or less have forgotten it was there.
+
+Captain Percy had one arm up, her wrist again slung from the leather strap hanging from the ceiling. With her other hand she sucked at her mostly-smoked cigarillo. She kept her hand int he strap above nos so much for support as a way to keep her free hand from fidgeting with anything else. There was nothing for her to do at the moment. But she was nervous. She had sent Hemi down to the sonar station as soon as he had trimmed the boat. If anything were to come of the cargo ship that seemed to be uncannily locked onto the same course as the *Prospect*, they would most likely learn about it from Hemi's sonar tracking that he was doing righ tnow. With the only background noise being the nearly silent, slow-moving electric motors, he would have a much more clear picture of what the cargo ship was doing.
+
+In the sonar compartment directly below the control room, Hemi sat hunched over the sonar unit with the large headset of the sonar covering his ears and his eyes closed. His heavy fingers lay on top of the stainless steel wheel that controlled the directional underwater microphones of the sonar equipment. He slowly eased the small wheel back and forth across the bearing directly to their stern. There was noise from the turning prop in that direction, but a cargo ship is no clandestine or subversive vessel. He could easily track the noise of the quickly spinning double-props and the louder bunker-fuel burning engines.
+
+"Sylvia," Hemi called up to the control room, "I am sure you already know that the contact has been steadily gaining on us since we slowed."
+
+"What's the range now?" She called back.
+
+"Only five nautical miles or so." Said Hemi with a glance at the ranging equipment to confirm what he already knew from the signal in his earphones. "I would suggest a course change is in order."
+
+"I'm fuckin' with you on that Hemi. Though... there is no way they have any actual idea where we are now. Cargo ship is unlikely to be equipped with sonar, and even if they were they could hardly be tracking us over their own engine noise. Owen, make it 0-2-2."
+
+Owen sat up straight in his chair and eased the rudder control wheel half way around to the starboard side. They could all feel the gentle turning motion of the boat, and Owen kept his eyes on the gauge directly in front of his eyes that showed their course --- the compass. Its black needle, lit by a yellow light from below, climbed up and over the apex of the dial and made it steady way into the double-digits. Owen turned the rudder control back the other way, slightly past the zero mark to take some of the impetus off their turn, and then centered the rudder leaving the *Prospect* dead on an 0-2-2 course.
+
 
 

@@ -4,6 +4,10 @@
 
 
 
+
+[//]: # (One possibility for this story: it could be entirely set in sonar)
+
+
 Contrary to conventional notions, the oceans of our world are in fact vast slow-moving cauldrons of pitch and oil. A viscous and black liquid into which the light of the sun barely seeps, penetrating only enough to create a dim penumbra glow at the very edges if one were taking the totality of the ocean's mass into account when one considered them. Which is how one should consider the oceans. They are not separate basins slowly dribbling back and forth from one to the other, but a single huge mass of greasy black lubricant, malevolently yanked bodily back and forth by the moon twice a day. The oceans are no some porpoise-filled, cycle-of-life-affirming, three-dimensional, Earth-in-its-natural-state playground, they are the greatest force of never-ending darkness in our world. For that reason we rarely think about them. What oceans actually are is literally out-of-sight, and out of mind.
 
 For most of us.
@@ -337,6 +341,63 @@ Whispering now, even though it was unnecessary: "give me the possibilities Hemi.
 
 Hemi nodded. "With our motor shut down, we are playing a hole in the water. There is nothing for them to hear even if they have listening equipment."
 
+"Precisely my intention. There's nothing fuckin' for it now but to wait and see what their next move is. You keep on 'em. Let me know as soon as they do any fucking thing."
+
+"Right, Sylvia." Hemi lowered the earpieces back over his ears, and his fingers found the sonar directional-control wheel. He closed his eyes and slowly started scanning the underwater microphones back and forth across the direction he last heard the engines of the cargo ship.
+
+Percy picked up her journey to her captain's quarters through the now dark and perfectly silent submarine. She stepped forward through the compartment ahead of sonar. She didn't bother flipping on the lights even though that would be good practice --- something she might give any other crew member a hard time about. But she knew her boat well enough to find the forward stair well, narrow and steep as it was, without the aid of the overhead lights.
+
+She rolled up into her rack without turning on the lights in her captain's quarters either. She was asleep in a matter of seconds, taking advantage of the ideal sleeping conditions. A submarine could sometimes be profoundly dark and quiet. 
+
+Less than fifteen minutes passed before she was awakened by Cassandra standing over her, he head the only thing between Percy and the glaring overhead light Cassandra had flipped on when she came in the room. 
+
+"Captain?" Cassandra hesitated. "Are you awake?"
+
+"Fuck no I am not, Cassandra."
+
+"Hemi asked me to tell you that they have started their engines again."
+
+"Fuck. I guess I should have fucking suspected that." She groaned her way to an upright position.
+
+"Do you want this cup of coffee?" Cassandra extended a hand with a scorching hot metal mug.
+
+Percy took it and raised it to her lips. She looked down at it through squinting eyes as she blew the steam off the surface. "Smells like fucking asphalt and shitberries. Did Hemi suggest you bring the coffee when you woke me up?"
+
+"No, I just figured..."
+
+"Well, you figured fucking right. Nice work. Let's go see what the fuck Hemi is on to."
+
+Cassandra stood to one side to let Percy pass and lead the way back up to sonar.
+
+Hemi sat with his eyes closed, listening. But as soon as Cassandra and Percy entered the room he could sense their presence and he opened his eyes and pulled back one earphone.
+
+"What's the status Hemi?" Percy asked, holding her coffee cup with the tips of her fingers clipped to the edges to keep from burning herself.
+
+"They are moving again... and they turned right towards us."
+
+"Motherfuckers. Well, that answers that. They definitely have listening gear, and they are absolutely fucking tracking us."
+
+"But why?" Cassandra asked.
+
+"Fuck if I know." Said Percy. "But now I'm absolutely fucking sure I want to lose them. What's the range Hemi?"
+
+"They are about two miles off."
+
+"Virtually fucking on top of us. But... my guess is they do not have a very precise fix on us. We went dead quiet very shortly after they stopped their engines. Does that seem right Hemi?"
+
+"I concur."
+
+"Alright, Then let's stay put. Stay silent. Maybe they'll shoot right over the top of us."
+
+Hemi nodded.
+
+"Hemi, keep tracking them. Give me updates every five minutes. Cassandra, sit and listen with Hemi. Can't hurt to have two sets of ears on this."
+
+Cassandra lifted the second headset and got the earpieces settled around her ears as Percy climbed the ladder to the control room.
+
+Another cigarillo was picked from the pack in Percy's pocket and made its way to her lips. From lighting it, she lifted her eyes and scanned them across the wall of dials and gauges looking for anything that might be off from where it should be. But nothing had changed since she had last checked the boat's status. Bastian and Owen both had their feet up and Owen's eyes were closed as he sat uncomfortably in the rudder-control chair. Bastian's eyes were open, but just barely.
+
+Percy let her mind wander. She pictured her submarine's position in the water relative to the cargo ship that was flying above her head. On the one hand, she felt fairly secure. It was unlikely the cargo ship had sophisticated detection equipment, and that left her with a few viable options for sneaking away from them. On the other hand, if the cargo ship called in support from other Authority warships, they could be in a lot of trouble quickly. 
 
 
 

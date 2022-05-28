@@ -289,5 +289,55 @@ In the sonar compartment directly below the control room, Hemi sat hunched over 
 
 Owen sat up straight in his chair and eased the rudder control wheel half way around to the starboard side. They could all feel the gentle turning motion of the boat, and Owen kept his eyes on the gauge directly in front of his eyes that showed their course --- the compass. Its black needle, lit by a yellow light from below, climbed up and over the apex of the dial and made it steady way into the double-digits. Owen turned the rudder control back the other way, slightly past the zero mark to take some of the impetus off their turn, and then centered the rudder leaving the *Prospect* dead on an 0-2-2 course.
 
+Without the *Prospect's* prop noise in the way, and considering the close range to the contact, Hemi could now hear the cargo ship with exceptional clarity. By shifting the sonar direction back and forth, he could listen to each of the ship's two props individually. He centered the mics on the ship and listened to the sound of their engines for a while. In his head he categorized their power and configuration among all he knew about ship engines from many years of listening to them. He could hear the sound of the water as it slid along the hull. Nothing he heard gave any indication that the ship wasn't exactly what it appeared to be: a totally unexceptional heavy-hauler, right down to the lack of maintenance that had left its port-side prop dented and cavitating noisily.
+
+The only strange thing about the ship was its dead-on course towards the *Prospect*.
+
+After 10 minutes Captain Percy checked in. "Hemi, have they changed direction?" She almost hesitated to ask, knowing that there was no mechanism other than random chance that could steer them more directly towards her boat now.
+
+[//]: # (^- what?)
+
+"No Sylvia. But they have gained another mile towards us, more or less."
+
+"Yeah, well we're hardly screaming out of this area going three knots."
+
+"Should we put some more speed on Cap?" Owen asked, his fingers pressed against the back of the throttle control stick. "Even if they're equipped with sonar for some reason, they couldn't hear us over the noise of their own engines."
+
+"Yeah, but you know how the batteries are Owen. If we go buzzing out of here at top fuckin' speed we'll run the batteries down in an hour or two. We keep it slow and steady, we can maneuver down here for 24 hours or more. Silent and slow while submerged is the name of the game kid."
+
+Silence settled back down on them. Another half hour passed, and Hemi reported that the contact had gained three miles in its original direction, while the *Prospect* had moved off a mile and a half in its new direction. There was now only a total distance of two miles between the two vessels. But if the cargo ship didn't change course it would soon be passing far out into its own range.
+
+Percy was beginning to relax into her normal state of quiet patience for submerged daytime running. She was even considering hitting the rack for a few hours of sleep. Fifteen silent minutes passed as she worked steadily on a cigarillo. But the tobacco wasn't doing what she needed it to. She gave up on it and stubbed the coal out against the sole of her boot. She tossed the cold remaining stump at an empty and rusting tomato can strapped to a post near Owen's feet. In her head she made the call --- it was the rack for her. She hooked the toes of her boots around the rails of the ladder and slipped down to the sonar compartment below.
+
+Hemi's bulk say stone still at the sonar station. He had the big earpieces clamped tightly to his ears. PErcy was about to step past him, making her way to the narrow forward stair that would take her down to her captain's quarters when he slowly raised one hand. SHe stopped in her track, staring at the back of his massive head. 
+
+Three seconds passed.
+
+"They shut down their engines Sylvia."
+
+"You're fucking kidding me, just now?"
+
+Hemi nodded.
+
+She thought for just a few seconds more than shouted up to the control room. "Owen, full stop." Two seconds after that the gentle whine of the *Prospect's* electric motors faded away leaving her boat in absolute silence.
+
+Whispering now, even though it was unnecessary: "give me the possibilities Hemi. Why would they have shut down?" This exercise was more about being thorough and rational than because she didn't know what was going on.
+
+"Well," Hemi spoke softly, as was his manner, though not at a whisper, "engine trouble is always a possibility. But I was tracking them very closely when they shut down. It sounded like a clean shutdown to me, not something mechanical failing. Also... they shut down at what is very likely the last location they would have been able to hear out diesels when they were running."
+
+"Right. Other possibilities?"
+
+"Could be that they need some kind of Authority authorization before moving into a different sector. The bureaucracies of many Authorities don't move fast enough to keep up with much of their condoned surface shipping."
+
+"Possible. But that doesn't seem likely to me. What else?"
+
+"The only other possibility that comes to mind, and unfortunately what seems the most likely to me, is they are equipped with some kind of sophisticated passive sonar unit, and they have stopped to listen to us."
+
+"Which means they weren't tailing us... they were *hunting* us."
+
+Hemi nodded. "With our motor shut down, we are playing a hole in the water. There is nothing for them to hear even if they have listening equipment."
+
+
+
 
 

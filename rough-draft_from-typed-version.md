@@ -399,6 +399,58 @@ Another cigarillo was picked from the pack in Percy's pocket and made its way to
 
 Percy let her mind wander. She pictured her submarine's position in the water relative to the cargo ship that was flying above her head. On the one hand, she felt fairly secure. It was unlikely the cargo ship had sophisticated detection equipment, and that left her with a few viable options for sneaking away from them. On the other hand, if the cargo ship called in support from other Authority warships, they could be in a lot of trouble quickly. 
 
+By the time she had smoked down this cigarillo, Hemi had already reported twice that there had been no change in their pursuer's course or speed. They would be directly over the *Prospect's* position in a matter of minutes.
 
+As she tossed the snuffed butt at the can, one of the radios mounted to the ceiling of the compartment above her head suddenly lit up and started squawking noisily. Everyone in the control room jumped.
+
+[//]: # (I think they cargo ship would have to have their engines off to use ship-to-ship... check above to see if you said they restarted them.)
+
+"To the submerged submarine: You are ordered to surface and pop hatches and prepare for inspection. This order is given under the authority of the Alliance of Northern Empires..."
+
+"Shit... they are close enough for ship-to-ship radio? We're fucked." Said Owen.
+
+"Shut the fuck up." Said Bastian.
+
+"Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force and the recruitment of more significant anti-submarine forces to use against your ship. ...Message repeats..." Percy dialed down the volume on the radio.
+
+"Weapons?" Owen asked skeptically, "I thought we were hauling a shipment of wristwatches?"
+
+"Indeed we are." Said Percy. "The only trouble is the watches are going to the Independent Island Pact forces... for distribution to infantry who need them to time artillery strikes."
+
+"Hardly *weapons* though..." Said Owen.
+
+"It does explain why we have a converted freighter tailing us though." Said Bastian. "If we were hauling actual weapons, they'd have a destroyer over us right now raining down charges on our delicate fucking heads."
+
+"It hardly fucking matters." Said Percy. "We could be hauling blankets and bandaids, if they know our deliver is to their enemies in the Island Pact, they will seize the cargo, probably our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured."
+
+"So what are we going to do Captain?" Asked Owen.
+
+"We're going to do what a submarine does best Owen: run and fucking hide." She picked the mic off the ship-to-ship radio and put it to her lips before keying the transmit button. "Ship on the surface, this is submerged sub. Acknowledged receipt of transmission. Preparing to surface, please stand by."
+
+Percy reached up and replaced the mic on its peg before snapping off the power to the ship-to-ship radio.
+
+"We're going to dive?" Bastian asked, his hand raising towards the valves that would flood the main ballast in anticipation of Percy's next move.
+
+"Hold that fuckin' hand Bastian. If we flood the tanks they'll probably hear it and know we're going down not up. Owen, give us five knots forward. Bastian, full down plane. This way the won't know if we're driving up towards them or downwards away from them."
+
+Bastian nodded as he turned the dive-plane control wheel full over to its stop. They could hear the muffled whine as the electric motors wound up down in the engine room in response to Owen's forward push of the throttle levers. A gentle momentum game on the boat. Accompanied by the sinking bow driven down by the angle of the dive planes.
+
+"It won't be long before they figure out we're moving away from them." Said Owen doubtfully.
+
+"Fucking trust your Captain Owen." Said Percy. "It's not like I haven't been driving subs for decades now is it?" She was counting softly to herself. "OK, twenty degrees port rudder Owen. Make it look like we're going to execute a Williamson turn or something, like we'll come back around to meet them at their position."
+
+Owen hand-over-handed the rudder wheel around, and the boat leaned over to the left in response.
+
+Percy kept counting and then stepped forward between the two men at the control chairs. One of her arms stretched across Owen's body, and he leaned back to give her room to maneuver the boat herself. She reached a count of which she was the only person in the control room who was aware of the significance of, and then she eased back on the throttle levers to the zero notch.
+
+The boat went silent, still gliding forward under inertia, the bow still pointed down to the depths.
+
+Percy put her right hand on the rudder wheel and her left on the dive-plane control wheel. Her eyes tracked the depth gauge and the pitch gauge. She backed the dive-plane control wheel until the boat was not in quite such a steep dive. Then she turned the rudder hard around to starboard, and felt her boat swing in response. She started a new count under her breath.
+
+She reached one-hundred and twenty before she swung the rudder back around to some point to port. She stepped back, still watching the depth gauge.
+
+At 190 meters she said "level us off Bastian."
+
+He put his hands on the dive-plane control wheel and adjusted it gently back and a little forth until the boat was sitting level.
 
 

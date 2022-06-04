@@ -453,4 +453,34 @@ At 190 meters she said "level us off Bastian."
 
 He put his hands on the dive-plane control wheel and adjusted it gently back and a little forth until the boat was sitting level.
 
+"Let her drift boys." Percy said. She switched the lighting to red night-time lighting so no one would forget the tenuousness of their situation. "With any luck we'll have slipped under a thermocline and this cold deep water will make it much harder for them to hear us."
+
+She slid down the ladder and stood behind Cassandra and Hemi. Hemi pulled an earphone back and looked at her.
+
+"Just keep listening Hemi. Tell me what they are doing."
+
+Hemi nodded.
+
+"And.. definitely keep an ear out for any new contacts. They worst thing that could happen to use right now is they make good on their threat and bring in support."
+
+Hemi nodded again and replaced the earpiece. The pads of this big fingers settled into place on the sonar direction control wheel and scanned back and forth across the contact.
+
+Captain Percy stepped back and leaned against the navigation table. She pulled yet another cigarillo from her pocket and lit it. Its orange glow fluorescing more brightly red than the red lighting that bathed her. She smoked slowly, estimating that about the time she completed the cigarillo --- having heard no response on the ship-to-ship and not sighted the *Prospect* on the surface --- their hunters above would begin to suspect she had no intention of surfacing.
+
+She sucked the coal down until it burned against the back of her fingers. She stubbed the tiny bit out in a pinching motion against her boot and tossed it into the can at Hemi's feet. She put a hand on his shoulder. "What are they up to Hemi?"
+
+"They have started their engines again. They are circling very slowly."
+
+"Bah. Fuck that, the morons. They'll never hear anything with the diesels running, even slowly."
+
+"Yes. I assume their plan is to stop and listen at intervals."
+
+Percy settled in. She calmly paced the length of the sonar compartment for the next half hour, silently chain-smoking except for the occasional check-ins with Hemi. With a few notes on bearings scratched onto a pad with a pencil, Hemi soon established that the ship above them was searching with a slowly growing figure-8 pattern that revolved around and centered on the spot they had last contact with the *Prospect*. They were stopping every few minutes --- though with a deliberately random frequency in the hopes of catching the *Prospect* in the act of motoring away --- to listen on their sonar unit.
+
+Percy was not willing to take the rise of motoring away, at least not yet. They had put 1000 meters or so between themselves and the point the ship above had contact with them by their first move. When the ship was at their furthest apogee of their figure-8 pattern, they were now almost a quarter nautical mile away. Percy figured that with patience an opportunity to sneak away silently would inevitably present itself.
+
+[//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
+
+
+
 

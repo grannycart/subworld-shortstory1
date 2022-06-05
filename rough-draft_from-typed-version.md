@@ -5,7 +5,7 @@
 
 
 
-[//]: # (One possibility for this story: it could be entirely set in sonar)
+[//]: # (One possibility for this story: it could be entirely set in sonar. Also, I think the ship on the surface HAS to be an armed ship. The tension is not high enough when there is no risk of the Prospect being blown out of the water. I like the ending to this as it is, but I think for a short story to suck people in enough to want to read the novel, this has to be more exciting, and let the philosophical stuff take a back seat instead of foregrounding it like the current ending does.)
 
 
 Contrary to conventional notions, the oceans of our world are in fact vast slow-moving cauldrons of pitch and oil. A viscous and black liquid into which the light of the sun barely seeps, penetrating only enough to create a dim penumbra glow at the very edges if one were taking the totality of the ocean's mass into account when one considered them. Which is how one should consider the oceans. They are not separate basins slowly dribbling back and forth from one to the other, but a single huge mass of greasy black lubricant, malevolently yanked bodily back and forth by the moon twice a day. The oceans are no some porpoise-filled, cycle-of-life-affirming, three-dimensional, Earth-in-its-natural-state playground, they are the greatest force of never-ending darkness in our world. For that reason we rarely think about them. What oceans actually are is literally out-of-sight, and out of mind.
@@ -509,6 +509,108 @@ Percy stood up, handing him back the headset as she took a hot tin cup of coffee
 Hemi put the headset on and watched Cassandra's pencil work. The pattern was steadily shifting, becoming more defined:
 
 ... ... .... ... ... ... .... ... .. ... ...
+
+Hemi listened for a few seconds.
+
+"What is that Hemi?" Percy asked.
+
+"I believe it is..."
+
+"I know what it is..." said Cassandra. "It's the wristwatches in the hold, ticking."
+
+"Can't fucking be... there's no way they would be so loud. And they would have wound down in storage."
+
+Hemi was listening intently. "No... Sylvia, I believe Cassandra is correct. The watches may have been wound up by some of the motion of the boat... and improbable as it may be, the ticking is slowly coming into alignment --- a single wristwatch would never be loud enough to be heard, but crates and crates of them --- if they were all ticking precisely at the same rate --- could potentially be heard on the sonar..."
+
+"Could potentially give us the fuck away Hemi! What are the fucking chances? This is some vengeful wrath-out-of-hell level shit. Like the rules of the games, strategy and cunning, don't fucking matter an iota if shit like this is going to happen to us!"
+
+"Randomness often aligns to some kind of order." Said Hemi.
+
+"What do we do?" Cassandra asked.
+
+"Call upon patience and luck." Said Hemi. "Order can arise from randomness, but entropy will re-assert itself eventually."
+
+Cassandra key tapping, the beats coming together into a regular rhythm:
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+Percy watched the signal strength indicator on the sonar unit. With each pulse, it climbed a little higher. There was some point --- she could hardly guess where --- that it would cross into an amplitude that the sonar operator on the ship above them would be able to hear.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+In the old days many submariners and sailors had been devoutly religious. It made sense: in a world of huge external forces, it was helpful to believe that one of those huge forces could be brought over to your side. "But," Percy thought to herself, "what kind of irony is it that now I need the forced of chaos to save us? I'm pretty sure no old sailor ever called on their got to impost chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
+
+.
+.
+.
+.
+..
+
+"I've got a double-beat." Said Cassandra.
+
+"That is almost certainly the beginning of the end of it..." Said Hemi.
+
+"Keep tapping for me Cassandra." Said Percy.
+
+.
+..
+.
+.
+..
+.
+.
+...
+..
+.
+
+The beats slowly incorporated a chaotic rhythm into their pattern. And as each tick asserted its independence, the signal lost power.
+
+..
+...
+..
+....
+..
+.
+.....
+....
+...
+..
+
+"The ship on the surface has started their engines again." Said Cassandra. She swung the sonar direction over to the bearing of the engine noise.
+
+"Can you still hear the watches?"
+
+"No. Not at all." Said Hemi.
+
+"Captain Percy..." Cassandra was listening carefully to the headset.
+
+"What? More fucking back news?"
+
+"No... in fact it seems like we are quite a bit further from the contact than when they stopped their engines... nearly a quarter mile now."
+
+"We must have picked up a strong current in the depth Sylvia." Said Hemi.
+
+"So if we sit tight, we will float right away from those fuckers."
+
+"That seems right." Said Hemi.
+
+"Or, you might say randomness and chaos saved our ass twice in a matter of minutes."
+
+She lit a cigarillo and climbed to the control room. She smoked it down slowly while staring at the unmoving gauges on the wall in front of her."
 
 
 

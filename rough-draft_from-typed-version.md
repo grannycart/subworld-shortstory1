@@ -481,6 +481,35 @@ Percy was not willing to take the rise of motoring away, at least not yet. They 
 
 [//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
 
+She tapped Hemi on the shoulder. "Go get us some coffee Hemi, I don't want anyone falling asleep." This was true, but she also knew operating the sonar was mind-numbing work, and even a few minutes off the headset would have Hemi back sharper than before. As he rose, she took the headset from him and sat down in the chair next to Cassandra.
+
+She let Cassandra do the operating. It would be bad practice to take over when she didn't have the full picture of the sound environment around her boat. Cassandra was carefully tracking the bearing of the ship's engines, now only a little more than 1000 meters off as they approached the closest point in their search patter. It was only a few tens of seconds after Percy sat down that the engines went silent. Cassandra took advantage of the pause in their search and the silence it yielded to scan around and search for any new contacts. She slowly turned the directional control wheel of the sonar around, her eyes closed, listening intently.
+
+Suddenly she opened her big eyes and looked at Percy. "What's that?" She whispered almost to herself. 
+
+Percy turned up the volume on her headset. "I don't hear anything." Percy said. The younger woman had phenomenal ears, and Percy knew that.
+
+"Directly towards out bow. It's some kind of regular clicking."
+
+"Not a new contact then?"
+
+"Could be... but that doesn't feel right. Maybe something organic... like a dolphin or something." Cassandra picked up Hemi's pencil and tapped it lightly against the steel of the directional wheel in time to what she was hearing. It was a rapid beat with an irregular pattern:
+
+.... ...... ...  .... ..... ....... .. .....
+
+
+She tapped away vigorously. After a minute the patter had started to shift:
+
+..... ..... .... ..... .... ...... ....
+
+Hemi returned with the coffee and looked questioningly at Cassandra's pencil drumming.
+
+Percy stood up, handing him back the headset as she took a hot tin cup of coffee from him. "Cassandra says she's got something weird. Certainly not like anything I've ever heard described before. You should definitely listen to it with your expert ears Hemi."
+
+Hemi put the headset on and watched Cassandra's pencil work. The pattern was steadily shifting, becoming more defined:
+
+... ... .... ... ... ... .... ... .. ... ...
+
 
 
 

@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sat Sep 03, 2022  01:40PM
+Last modified: Sat Sep 03, 2022  04:26PM
 
 
 # 10k-word short story notes
@@ -48,9 +48,7 @@ Last modified: Sat Sep 03, 2022  01:40PM
 
 ## Second rough layout for plot
 :secondplot:
-* She hates when the diesels are running: the sensory deprivation of the all-pervading noise that makes her feel numb, feeling blind because she can't hear. (Maybe this stuff only in dialog though -- no inside-the-head description? Or do you need that for listening anyway?)
-* She watches the endless radar sweep. The painful glow of the streaming line.
-* A blip appears. Hemi and Percy discuss possibilities -- someone followed them out of port? They shut down the radar so not to be detected.
+* Start in the sonar (skip radar entirely) -- They stop engines so Cassandra can listen.
 * A long slow chase while the contact gains on them (Maybe a slow chase into range?)
 	* They don't want to submerge because at submerged speeds they will be overtaken rapidly
 	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge

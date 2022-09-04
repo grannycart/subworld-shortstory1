@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sat Sep 03, 2022  04:26PM
+Last modified: Sun Sep 04, 2022  03:49PM
 
 
 # 10k-word short story notes
@@ -93,6 +93,7 @@ Last modified: Sat Sep 03, 2022  04:26PM
 * They hold on, panicked, until randomness re-asserts itself and the watches de-sync
 	* It's about randomness: it clumps together and endangers them, comes apart and they are free. 
 * They drift off with a deep-water current until they are out of range of the pursuers.
+	* Cassandra can hear the passing current, it sounds like the wind
 
 
 

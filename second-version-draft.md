@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Sep 04, 2022  06:00PM
+Last modified: Sun Sep 04, 2022  07:55PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -44,6 +44,12 @@ Hemi returned and tapped her shoulder. "Sylvia wants to run on diesels to try to
 "Also see if you can calculate their heading. It would be useful to know if they are going in the same direction as us, or just happened to wander into your sonar range."
 
 "Alright Hemi." She pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on nearly-silent batteries all the time.
+
+She also wished Captain Percy would engage the red night lighting. The blare of the fluorescent white daytime running light penetrated through her closed eyes. Half dozed off in her chair, she imagined the color of the fluorescent lights was somehow an exact visual representation of the unceasing and penetrating drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
+
+The thought floated through her dazed mind that she could ask Captain Percy to switch on the red lights. But as the thought came up, Hemi was shaking her shoulder and she sat upright. The diesels died away. It was her turn to work again.
+
+Back went on the headset. She immediately turned the microphones to the bearing of the sound she had detected earlier. It was still there. Had it changed? Increased in amplitude? Her ears said maybe, but that was based on a memory of the sound from 20 minutes earlier. If it had gotten stronger, the change was still within the wavering variation of the signal-strength needle, which was not registering any stronger than before. With a dull pencil nub she scratched out a note on a piece of scrap paper clipped to the sill with her coffee cup. She put down the signal strength and the bearing, and a few cryptic marks of her own private notation about the quality of the sound and what direction she thought it might be headed in.
 
 
 

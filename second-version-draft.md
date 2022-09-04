@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Sep 04, 2022  12:53PM
+Last modified: Sun Sep 04, 2022  06:00PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -27,8 +27,23 @@ She closed her eyes and with barely perceptible movements turned the directional
 
 As if sensing something, the control room requested a report from her. "Anything on the sonar Cassandra?"
 
-"Quiet." An order, not a report. The sonar operator was not in control of the boat, but her job was so critical that she retained the prerogative to give single-word commands in order to get the most ideal conditions in which to operate her rig.
+"Quiet." An order, not a report. The sonar operator was not in control of the boat, but her job was so critical that she retained the prerogative to give single-word commands that yielded the most ideal conditions in which to operate her rig.
 
+The directional wheel slipped between her fingers. Back and forth, inching across the location of the signal. The sound there was just strong enough to register on some of the more sensitive gauges, popping the thin black needle up a few ticks each time the mics passed over the sound. To her ears it sounded like some kind of distant music, the hum and thrum of an orchestra heard through marble walls and from down a city block. But she knew what the sound really was: a ship.
+
+She slipped one headphone off an ear and leaned back in her chair to call up through the hatch to the control room. "I've got a contact."
+
+Hemi --- he of the thick fingers that had brought her the coffee earlier --- slipped his bulk down the steel ladder and stepped up to the sonar rig. As he put the second set of headphones over his ears, Cassandra rolled the directional control wheel back and forth, and pointed to the signal popping up on the indicator gauges. Hemi listened for a minute and then nodded to her. "Alright. Nice work. That signal is barely there. I am sure it is too far off for us to get an accurate distance from the ranging equipment, and too far to see from the lookout ring. But we know what direction to look in. I will speak to Sylvia and see if she wants to re-start the diesels."
+
+Cassandra nodded and returned her attention to her contact. A minute latter she heard the popping whine of compressed air turning over the diesels. She winced and yanked the headset off her ears before the diesels fired and washed out all the ambient noise in both the compartment and her headset.
+
+Hemi returned and tapped her shoulder. "Sylvia wants to run on diesels to try to out-distance that contact. Her plan is to stop the diesels every twenty minutes or so, and let you have a listen on the sonar."
+
+"Obviously she wants to know if we lose the contact, or if they gain on us."
+
+"Also see if you can calculate their heading. It would be useful to know if they are going in the same direction as us, or just happened to wander into your sonar range."
+
+"Alright Hemi." She pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on nearly-silent batteries all the time.
 
 
 

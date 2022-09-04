@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Sep 04, 2022  11:48AM
+Last modified: Sun Sep 04, 2022  12:53PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -32,5 +32,16 @@ As if sensing something, the control room requested a report from her. "Anything
 
 
 
+
+
+[//]: # (From first draft: see section where boat is lowered to decks-awash --- retain note about how decks-awash is louder on sonar maybe)
+
+[//]: # (See from first draft, section: Hemi tracks the other ship on sonar)
+
+[//]: # (You might be able to use some of the ship-to-ship dialog see ship-to-ship note in first draft -- Cassandra would be able to hear it in the sonar unit maybe, or she has her own ship-to-ship unit at the sonar station.)
+
+[//]: # (See ticking watches section --- you might be able to lift whole sections of dialog from there)
+
+[//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
 
 

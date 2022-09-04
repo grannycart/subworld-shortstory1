@@ -1,5 +1,5 @@
 README.md
-Last modified: Sat Jun 19, 2021  11:57AM
+Last modified: Sun Sep 04, 2022  12:24PM
 
 # Sub World Short Story 1 
 * By Mort Rye
@@ -11,6 +11,15 @@ Last modified: Sat Jun 19, 2021  11:57AM
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
+## Files
+* 10kstorynotes.md
+	* Notes for content, plot outlines 
+* rough-draft_from-typed-version.md
+	* This was the first version, typed on the typewriter and then entered as an .md file
+	* Includes a long chase scene, mostly set on the bridge (could be used in another story since it isn't really connected in any way to the sonar scenes)
+	* Also the first draft version of listening to the watches ticking through the sonar.
+* second-version-draft.md
+	* First draft of an all-Cassandra/sonar set story. Starts with sonar and skips the radar chase section. 
 
 ## Compilation notes:
 * Compiled using pandoc-ebook-template. For instructions see:

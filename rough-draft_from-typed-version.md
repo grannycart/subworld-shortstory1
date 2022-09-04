@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Sat Sep 03, 2022  01:44PM
+Last modified: Sun Sep 04, 2022  12:53PM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -192,9 +192,11 @@ Percy thought for a minute. "So if you're seeing their radar you have very preci
 
 Percy knew they had been tracking the contact long enough now that the chances that they just happened to be sharing the same heading were rapidly growing remote. Whoever the other vessel was, they were almost certainly tracking and trying to overtake the *Prospect*. Captain Percy did not like that. Being that the whole point of shipping goods with a cargo submarine was to avoid the attention of other vessels on the ocean, a cargo sub like the *Prospect* had very little chance of interacting with another vessel in what might be described as a 'friendly' way. Particularly if that other vessel was a surface vessel and not another cargo sub.
 
-"OK." Said Percy. "Shut down the radar Hemi. There's no reason we should make this easy for them. Keep trying to pick them up on sonar. Failing that, I'm sure we'll ger a visual on them soon than we would care for."
+"OK." Said Percy. "Shut down the radar Hemi. There's no reason we should make this easy for them. Keep trying to pick them up on sonar. Failing that, I'm sure we'll get a visual on them sooner than we would care for."
 
 "I estimate we will be able to see them by dawn." Said Hemi.
+
+[//]: # (Percy lowers the boat to decks-awash)
 
 Percy stepped up to the panel off to one side that controlled the trim tanks of the boat. She flipped a few switches and opened a valve. Far off in the innards of the *Prospect* she could hear water flowing through pipes. She kept her eye on the depth gauge and watched it rise two meters before she closed the valves to the trim tanks.
 
@@ -206,7 +208,7 @@ She looked up. Owen's head was a dark shadow two decks above her looking down fr
 
 With just the sail above water, the *Prospect* could still run on the diesel engines and would be harder to spot on radar. Still, any modern radar unit would likely be good enough to track even the much smaller target of the sail alone. This move was a practical step, but not a permanent solution.
 
-Percy climbed up to the bridge. Nothing had changed above-decks except the main the lookout ring was the much-smaller Owen, and the sound of the water rushing past the boat was much louder and closer now. She looked over the side of the sail and right down into the black liquid cut by white wake rendered a pale gray by the dim star light. With most of the boat underwater, it made it look from her perspective like the small sail she rode atop of was all there was to her vessel. It made her feel small and exposed under that immense dome of stars.
+Percy climbed up to the bridge. Nothing had changed above-decks except the man the lookout ring was the much-smaller Owen, and the sound of the water rushing past the boat was much louder and closer now. She looked over the side of the sail and right down into the black liquid cut by white wake rendered a pale gray by the dim star light. With most of the boat underwater, it made it look from her perspective like the small sail she rode atop of was all there was to her vessel. It made her feel small and exposed under that immense dome of stars.
 
 It was also quieter since the engines were now muffled by the meter or so of water covering them. That didn't diminish the bass rumble that escaped from the exhaust plume streaming up from the open pipes behind her, but the more atmospheric bass resonance she was used to when the ran on the surface was gone. It felt peaceful. Or at least peaceful in perspective. Or as peaceful as you could expect when being driven along at a clip by huge engines deriving their power from contained and directed explosions.
 
@@ -232,13 +234,13 @@ He squatted down, steadying himself with one hand on the steel of the lookout ri
 
 She wasn't seeing anything. Owen's slightly high vantage might be giving him just the bit of extra sight distance he needed to see the target. From above her he held out an arm with a pointing finger to help narrow down the area she needed to search. 
 
-A few minutes later she had it. For the moment, it was nothing more than a black needle point sticking up from the perfect flatness of the horizon. But even as she watched it was growing and gaining definition. The sky was also shifting from a pale grat to a soft orange as the dawn made its way up. 
+A few minutes later she had it. For the moment, it was nothing more than a black needle point sticking up from the perfect flatness of the horizon. But even as she watched it was growing and gaining definition. The sky was also shifting from a pale gray to a soft orange as the dawn made its way up. 
 
 Percy leaned over and yelled down to Bastian in the control room: "Send Hemi up." She could hear some further indistinguishable shouts further down in the boat. Then silence for a minute, followed shortly after by a big man squeezing through the hatch at the top of the control room as he made his way up to the bridge. As he got his feet under him and rose to his full height, Percy handed him the binoculars while pointing out the direction he should look with her free hand. He only peered through the binoculars for a minute before asking Owen to let him have the lookout ring.
 
 Hemi got situated and Percy let Owen go below deck for coffee. Hemi Peered silently and steadfastly behind them. Minutes went by before Percy realized it could be a while before Hemi had anything to report. She lit another cigarillo.
 
-A full twenty minutes passed, during which the sky flooded with glowing liquid orange and red. Percy could now make out the shadow-spot that was their persuers with her naked eye.
+A full twenty minutes passed, during which the sky flooded with glowing liquid orange and red. Percy could now make out the shadow-spot that was their pursuers with her naked eye.
 
 "Well Hemi?"
 
@@ -254,6 +256,8 @@ Without lowering the binoculars, Hemi gave the best report he could. "I am not s
 
 "Fuckin' true, that is.. We should have a full charge on the batteries by now. Let's go fuckin' quiet, deep, and slow before they get any closer." She punched the dive alarm button tucked under the fairing of the sail and a loud electric buzzer sounded through the boat in a way that was impossible to ignore.
 
+[//]: # (They dive the boat.)
+
 Hemi slid with more grace than would seem possible down from the lookout ring and followed Percy down the ladder and through the hatch into the control room. Hemi sealed the hatch above his head. He was tall enough to do it without standing on the lower rungs of the ladder, unlike Percy. Percy flipped the white lights on in the control room and sonar compartment and simultaneously turned off the red night lighting.
 
 Owen arrived in the control room with a cup of coffee in a metal cup, summoned by the dive alarm from which he knew he would be needed to sit in one of the control chairs.
@@ -266,7 +270,7 @@ Bastian shifted his skinny body over to the chair to his left without fully stan
 
 Owen half-stood and flipped the big power switches to the diesel engines. The bass rumble that had pervaded their environment for long hours sputtered and faded away leaving on the faint background hum of the electric motors, now driven by the huge banks of batteries buried deep in the belly of the *Prospect*. Percy knew the humming electric motors would soon seem plenty loud enough to be terrifying, but in the wake of the diesel rumble so recently extinguished they seemed like a blessed and sacred silent penance.
 
-"Open the main ballast valved. Bastian, give us a couple of degrees down on the dive planes. Owen, slow us to three knots."
+"Open the main ballast valves. Bastian, give us a couple of degrees down on the dive planes. Owen, slow us to three knots."
 
 Hemi stepped to Bastian's left where the tank trim control panel was mounted to the wall. The switches that controlled the main ballast valves were large recessed switches set in the lower right quarter of the tank trim control panel among dozens of other switches that controlled valves to less critical tanks and other elements of the boat's buoyancy system. Hemi' hand was large enough that by splaying two of his thick brown fingers he could operate the two switches simultaneously. As he propped them up a loud electro-magnetic clank echoed through the steel hull into the control room. This was followed by a much louder hiss of hair as the gas that had held them aloft at the surface of the ocean escaped up into the atmosphere above.
 
@@ -280,7 +284,9 @@ By the time Hemi had the boat trimmed, the quiet ennui of slow cruising had set 
 
 Half an hour after the descent from the surface, the control room was filled with smoke from half-consumed tobacco products, and gauges on the wall held all their little black needles at an unmoving attention. Bastian and Owen had slouched into vaguely more comfortable positions in the metal chairs designed to be uncomfortable so the person sitting in them would not doze off. Owen help his empty coffee cup in front of him and tapped his fingernails quietly against it. Bastian had a cigarette smoking between his fingers, but he seemed to more or less have forgotten it was there.
 
-Captain Percy had one arm up, her wrist again slung from the leather strap hanging from the ceiling. With her other hand she sucked at her mostly-smoked cigarillo. She kept her hand int he strap above nos so much for support as a way to keep her free hand from fidgeting with anything else. There was nothing for her to do at the moment. But she was nervous. She had sent Hemi down to the sonar station as soon as he had trimmed the boat. If anything were to come of the cargo ship that seemed to be uncannily locked onto the same course as the *Prospect*, they would most likely learn about it from Hemi's sonar tracking that he was doing righ tnow. With the only background noise being the nearly silent, slow-moving electric motors, he would have a much more clear picture of what the cargo ship was doing.
+Captain Percy had one arm up, her wrist again slung from the leather strap hanging from the ceiling. With her other hand she sucked at her mostly-smoked cigarillo. She kept her hand int he strap above not so much for support as a way to keep her free hand from fidgeting with anything else. There was nothing for her to do at the moment. But she was nervous. She had sent Hemi down to the sonar station as soon as he had trimmed the boat. If anything were to come of the cargo ship that seemed to be uncannily locked onto the same course as the *Prospect*, they would most likely learn about it from Hemi's sonar tracking that he was doing right now. With the only background noise being the nearly silent, slow-moving electric motors, he would have a much more clear picture of what the cargo ship was doing.
+
+[//]: # (Hemi tracks the other ship on sonar)
 
 In the sonar compartment directly below the control room, Hemi sat hunched over the sonar unit with the large headset of the sonar covering his ears and his eyes closed. His heavy fingers lay on top of the stainless steel wheel that controlled the directional underwater microphones of the sonar equipment. He slowly eased the small wheel back and forth across the bearing directly to their stern. There was noise from the turning prop in that direction, but a cargo ship is no clandestine or subversive vessel. He could easily track the noise of the quickly spinning double-props and the louder bunker-fuel burning engines.
 
@@ -314,7 +320,7 @@ Silence settled back down on them. Another half hour passed, and Hemi reported t
 
 Percy was beginning to relax into her normal state of quiet patience for submerged daytime running. She was even considering hitting the rack for a few hours of sleep. Fifteen silent minutes passed as she worked steadily on a cigarillo. But the tobacco wasn't doing what she needed it to. She gave up on it and stubbed the coal out against the sole of her boot. She tossed the cold remaining stump at an empty and rusting tomato can strapped to a post near Owen's feet. In her head she made the call --- it was the rack for her. She hooked the toes of her boots around the rails of the ladder and slipped down to the sonar compartment below.
 
-Hemi's bulk say stone still at the sonar station. He had the big earpieces clamped tightly to his ears. PErcy was about to step past him, making her way to the narrow forward stair that would take her down to her captain's quarters when he slowly raised one hand. SHe stopped in her track, staring at the back of his massive head. 
+Hemi's bulk stayed stone still at the sonar station. He had the big earpieces clamped tightly to his ears. Percy was about to step past him, making her way to the narrow forward stair that would take her down to her captain's quarters when he slowly raised one hand. She stopped in her track, staring at the back of his massive head. 
 
 Three seconds passed.
 
@@ -478,13 +484,13 @@ She sucked the coal down until it burned against the back of her fingers. She st
 
 Percy settled in. She calmly paced the length of the sonar compartment for the next half hour, silently chain-smoking except for the occasional check-ins with Hemi. With a few notes on bearings scratched onto a pad with a pencil, Hemi soon established that the ship above them was searching with a slowly growing figure-8 pattern that revolved around and centered on the spot they had last contact with the *Prospect*. They were stopping every few minutes --- though with a deliberately random frequency in the hopes of catching the *Prospect* in the act of motoring away --- to listen on their sonar unit.
 
-Percy was not willing to take the rise of motoring away, at least not yet. They had put 1000 meters or so between themselves and the point the ship above had contact with them by their first move. When the ship was at their furthest apogee of their figure-8 pattern, they were now almost a quarter nautical mile away. Percy figured that with patience an opportunity to sneak away silently would inevitably present itself.
+[//]: # (Here begins the ticking watches section)
 
-[//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
+Percy was not willing to take the risk of motoring away, at least not yet. They had put 1000 meters or so between themselves and the point the ship above had contact with them by their first move. When the ship was at their furthest apogee of their figure-8 pattern, they were now almost a quarter nautical mile away. Percy figured that with patience an opportunity to sneak away silently would inevitably present itself.
 
 She tapped Hemi on the shoulder. "Go get us some coffee Hemi, I don't want anyone falling asleep." This was true, but she also knew operating the sonar was mind-numbing work, and even a few minutes off the headset would have Hemi back sharper than before. As he rose, she took the headset from him and sat down in the chair next to Cassandra.
 
-She let Cassandra do the operating. It would be bad practice to take over when she didn't have the full picture of the sound environment around her boat. Cassandra was carefully tracking the bearing of the ship's engines, now only a little more than 1000 meters off as they approached the closest point in their search patter. It was only a few tens of seconds after Percy sat down that the engines went silent. Cassandra took advantage of the pause in their search and the silence it yielded to scan around and search for any new contacts. She slowly turned the directional control wheel of the sonar around, her eyes closed, listening intently.
+She let Cassandra do the operating. It would be bad practice to take over when she didn't have the full picture of the sound environment around her boat. Cassandra was carefully tracking the bearing of the ship's engines, now only a little more than 1000 meters off as they approached the closest point in their search pattern. It was only a few tens of seconds after Percy sat down that the engines went silent. Cassandra took advantage of the pause in their search and the silence it yielded to scan around and search for any new contacts. She slowly turned the directional control wheel of the sonar around, her eyes closed, listening intently.
 
 Suddenly she opened her big eyes and looked at Percy. "What's that?" She whispered almost to herself. 
 
@@ -599,7 +605,7 @@ The beats slowly incorporated a chaotic rhythm into their pattern. And as each t
 
 "Captain Percy..." Cassandra was listening carefully to the headset.
 
-"What? More fucking back news?"
+"What? More fucking bad news?"
 
 "No... in fact it seems like we are quite a bit further from the contact than when they stopped their engines... nearly a quarter mile now."
 

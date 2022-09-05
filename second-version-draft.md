@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Mon Sep 05, 2022  11:55AM
+Last modified: Mon Sep 05, 2022  04:36PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -47,9 +47,9 @@ Hemi returned and tapped her shoulder. "Sylvia wants to run on diesels to try to
 
 Hemi climbed the ladder back up to the control room.
 
-Cassandra pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on nearly-silent batteries all the time.
+Cassandra pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on its nearly-silent batteries all the time.
 
-She also wished Captain Percy would engage the red night lighting. The blare of the fluorescent white daytime running light penetrated through her closed eyes. Half dozed off in her chair, she imagined the color of the fluorescent lights was somehow an exact visual representation of the unceasing and penetrating drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
+Since darkness had fallen hours ago, the compartment was lit up with the red night lighting. The glow of it penetrated through her closed eyelids. Half dozed off in her chair, she imagined the color of the red lights was somehow an exact visual representation of the unceasing and penetrating drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
 
 The thought floated through her dazed mind that she could ask Captain Percy to switch on the red lights. But as the thought came up, Hemi was shaking her shoulder and she sat upright. The diesels died away. It was her turn to work again.
 
@@ -61,18 +61,41 @@ Twenty more minutes passed and she repeated this process. Then another twenty mi
 
 "And you can't determine range?"
 
-"No. The signal is at the very limits of detectability with sonar. Roughly, that puts the range at something like 12-15 nautical miles." According to the readings off the gauges, the signal had no change in characteristics in the last hour she had been tracking it. But looking over her notation, Cassandra was concerned by what her instincts were telling her about the subtle qualities of the sound. She took this last minute of silence before the diesels started again to listen deeply to the signal. To her ear it felt like the sound of powerful engines. And it felt like the prop wash was moving away from her. No serious sonar operator would claim to be able to hear that kind of detail at the distance she was listening at, but Cassandra felt there were both signal qualities that were empirically verifiable --- the stuff detected by the gauges on the wall, the stuff that could be reported to one's captain --- and then there were signal qualities that were understood more instinctually. These were the things that she made her private little marks about.
+"No. The signal is at the very limits of detectability with sonar. Roughly, that puts the range at something like 12-15 nautical miles." According to the readings off the gauges, the signal had no change in characteristics in the last hour she had been tracking it. But looking over her notation, Cassandra was concerned by what her instincts were telling her about the subtle qualities of the sound. She took this last minute of silence before the diesels started again to listen deeply to the signal. To her ear it felt like the sound of powerful engines. And it felt like the prop wash was moving away from her, meaning the ship was moving towards her. No serious sonar operator would claim to be able to hear that kind of detail at the distance she was listening at, but Cassandra felt there were both signal qualities that were empirically verifiable --- the stuff detected by the gauges on the wall, the stuff that could be reported to one's captain --- and then there were signal qualities that were understood more instinctively. These were the things that she made her private little marks about.
 
 Her instincts were telling her that this signal was tracking them.
 
-The diesels started again and blew away any further consideration of the signal for the time being. But the next relief from the diesel noise came sooner than she had expected. With the diesels stopped she could hear Captain Percy in the control room above her yelling a conversation up through the hatch to the topside bridge where the lookout was. Cassandra put aside her questions for the moment and turned to her job at the sonar station. Even a su
+The diesels started again and blew away any further consideration of the signal for the time being. It was only a few minutes later when Cassandra heard a mild commotion in the control room above. Captain Percy was shouting questions up to the topside bridge --- presumably to Hemi, or whoever else might be up in the lookout ring. Since the questions were directed upwards, Cassandra could not make out what was being discussed.
 
-[//]: # (Percy probably wouldn't shut down the engines just for a lookout report. Maybe instead Cassandra notices the boat lowering in the water, and understands that is about reducing radar signature.)
+The drone of the diesels was suddenly punctuated by the sound of water rushing through the pipes that lined the walls of the sonar compartment. Cassandra sensed a sinking motion in the boat. Were they diving? The motion gradual and slight --- not a dive then. After a few seconds of flushing in the pipes, she could hear a change in the sound of the water that ran along the hull, now it was muted and flowing where previously it had been slapping and rushing with a more chaotic energy.
+
+Hemi came back down the ladder. "The lookouts finally got a shadow of your sonar contact in sight against the horizon. Captain Percy is up on the bridge making observations. She was not pleased with the profile of your contact: it has a militant shape to it."
+
+"And you lowered the boat to create less of a radar profile?"
+
+"Correct. We are running sail-out now. Though that likely means we lost the visual back over the horizon since we are lower in the water. The plan is to continue to give you an opportunity to listen every twenty minutes or so."
+
+Cassandra nodded. Lowering the boat would make their boat more difficult to track on radar while still allowing them to run at the higher speeds provided by the powerful diesels over the electric motors running on batteries. But it also put more of the diesels engine noise underwater, they may in fact be easier to track on sonar now.
+
+The next time the diesels shut down, Cassandra quickly found the contact and could clearly see that the signal had gained strength --- meaning it had closed some of the distance between them.
+
+"Signal strengthened since last contact." She reported up to the control room. She took a grease pencil and made a mark on the signal-strength gauge at the point where the needle now stood quivering. "Still too far to estimate range with any precision."
+
+The increased signal strength was unfortunate but not unexpected. If the ship behind was tracking them on radar, then seeing the radar signal weaken or disappear would spur them to close the distance to the point where they lost contact. Cassandra no longer had any doubt that they were being pursued. Speed was not the submarine's strong suit. If their pursuers were some kind of official or military vessel, they were going to overrun the submarine eventually. If they must lose these pursuers, other tactics would be required.  But it was likely Captain Percy was hoping to make it to dawn before employing those tactics.
+
+For the next four hours it was start and stop with the diesels. Cassandra tracked the two vessels in her head from nothing but the sounds in her ears and the marks in her notes and on her gauges. 
+
+Each time the diesels stopped, Hemi would slide down the ladder, take her readings and mark down the relative positions of the two vessels on the navigation chart. When Cassandra looked at the chart she was pleased to see the hash marks coincided precisely with what she was holding in her mind's eye. But Hemi's hash marks marched steadily towards each other across the chart. There was no question that their pursuers were gaining on them.
+
+"This is unproductive Hemi. We can keep the wheels turning at full RPMs, and they can chase us across the open ocean for days. Eventually they will catch us though, don't you think?
+
+"There is no question about it. It would not be days. Look at the math: they would catch us before noon tomorrow. Even in the days when ships had sails it was often just a matter of physics in a chase. Two ships rig for their fastest possible speeds, and the faster ship --- even if just slightly faster --- would eventually win out. It is not like a footrace where there is no telling the endurance of the other person."
+
+"But that is where we can take advantage of being a submarine --- we have other options we can employ."
+
+"We will dive sometime in the next hour, I think." Said Hemi. "I am sure Captain Percy will want to get under before the dawn light rises."
 
 
-
-
-[//]: # (From first draft: see section where boat is lowered to decks-awash --- retain note about how decks-awash is louder on sonar maybe)
 
 [//]: # (See from first draft, section: Hemi tracks the other ship on sonar)
 

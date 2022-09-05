@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Mon Sep 05, 2022  11:46AM
+Last modified: Mon Sep 05, 2022  11:55AM
 
 # Subworld Short Story #1 -- Second version
 
@@ -59,18 +59,15 @@ The headset went back on. She immediately turned the microphones to the bearing 
 
 Twenty more minutes passed and she repeated this process. Then another twenty minutes. And another. Each time the signal behind stubbornly refused to have much change to its characteristics. But the unchanging nature of the sound already told her something. "Signal remains unchanged." She reported. "Therefore they must be on, or close to, our own course."
 
-[//]: # (Delete next graf)
-
-It wasn't unusual for two ships to share a similar course, sometimes for days at a time. And certainly the ship she was hearing on sonar was not gaining on them --- at least not quickly --- which was a comforting sign. But the other possibility was that this was no coincidence. It was possible the ship was tracking them via radar. There were many ships backed by many various legal and state entities that were tasked with inspecting and potentially commandeering a cargo sub like the *Prospect*. 
-
 "And you can't determine range?"
 
 "No. The signal is at the very limits of detectability with sonar. Roughly, that puts the range at something like 12-15 nautical miles." According to the readings off the gauges, the signal had no change in characteristics in the last hour she had been tracking it. But looking over her notation, Cassandra was concerned by what her instincts were telling her about the subtle qualities of the sound. She took this last minute of silence before the diesels started again to listen deeply to the signal. To her ear it felt like the sound of powerful engines. And it felt like the prop wash was moving away from her. No serious sonar operator would claim to be able to hear that kind of detail at the distance she was listening at, but Cassandra felt there were both signal qualities that were empirically verifiable --- the stuff detected by the gauges on the wall, the stuff that could be reported to one's captain --- and then there were signal qualities that were understood more instinctually. These were the things that she made her private little marks about.
 
 Her instincts were telling her that this signal was tracking them.
 
-The diesels started again and blew away any further consideration of the signal for the time being.
+The diesels started again and blew away any further consideration of the signal for the time being. But the next relief from the diesel noise came sooner than she had expected. With the diesels stopped she could hear Captain Percy in the control room above her yelling a conversation up through the hatch to the topside bridge where the lookout was. Cassandra put aside her questions for the moment and turned to her job at the sonar station. Even a su
 
+[//]: # (Percy probably wouldn't shut down the engines just for a lookout report. Maybe instead Cassandra notices the boat lowering in the water, and understands that is about reducing radar signature.)
 
 
 

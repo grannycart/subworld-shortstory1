@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Sun Sep 04, 2022  12:53PM
+Last modified: Mon Sep 05, 2022  11:55AM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -232,7 +232,7 @@ Owen coughed. "I've got a shadow on the horizon Captain Percy." He was looking i
 
 He squatted down, steadying himself with one hand on the steel of the lookout ring and extending an arm with the binoculars held out to her. Percy took them and lifted them to her eyes. She adjusted the focus while scanning slowly along the black field edge that marked the ocean's horizon.
 
-She wasn't seeing anything. Owen's slightly high vantage might be giving him just the bit of extra sight distance he needed to see the target. From above her he held out an arm with a pointing finger to help narrow down the area she needed to search. 
+She wasn't seeing anything. Owen's slightly higher vantage might be giving him just the bit of extra sight distance he needed to see the target. From above her he held out an arm with a pointing finger to help narrow down the area she needed to search. 
 
 A few minutes later she had it. For the moment, it was nothing more than a black needle point sticking up from the perfect flatness of the horizon. But even as she watched it was growing and gaining definition. The sky was also shifting from a pale gray to a soft orange as the dawn made its way up. 
 

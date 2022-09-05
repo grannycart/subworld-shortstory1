@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Sep 04, 2022  07:55PM
+Last modified: Mon Sep 05, 2022  11:46AM
 
 # Subworld Short Story #1 -- Second version
 
@@ -43,13 +43,33 @@ Hemi returned and tapped her shoulder. "Sylvia wants to run on diesels to try to
 
 "Also see if you can calculate their heading. It would be useful to know if they are going in the same direction as us, or just happened to wander into your sonar range."
 
-"Alright Hemi." She pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on nearly-silent batteries all the time.
+"Alright Hemi." 
+
+Hemi climbed the ladder back up to the control room.
+
+Cassandra pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on nearly-silent batteries all the time.
 
 She also wished Captain Percy would engage the red night lighting. The blare of the fluorescent white daytime running light penetrated through her closed eyes. Half dozed off in her chair, she imagined the color of the fluorescent lights was somehow an exact visual representation of the unceasing and penetrating drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
 
 The thought floated through her dazed mind that she could ask Captain Percy to switch on the red lights. But as the thought came up, Hemi was shaking her shoulder and she sat upright. The diesels died away. It was her turn to work again.
 
-Back went on the headset. She immediately turned the microphones to the bearing of the sound she had detected earlier. It was still there. Had it changed? Increased in amplitude? Her ears said maybe, but that was based on a memory of the sound from 20 minutes earlier. If it had gotten stronger, the change was still within the wavering variation of the signal-strength needle, which was not registering any stronger than before. With a dull pencil nub she scratched out a note on a piece of scrap paper clipped to the sill with her coffee cup. She put down the signal strength and the bearing, and a few cryptic marks of her own private notation about the quality of the sound and what direction she thought it might be headed in.
+The headset went back on. She immediately turned the microphones to the bearing of the sound she had detected earlier. It was still there. Had it changed? Increased in amplitude? Her ears said maybe, but that was based on a memory of the sound from 20 minutes earlier. If it had gotten stronger, the change was still within the wavering variation of the signal-strength needle, which was not registering any further along the graduated scale than before. With a dull pencil nub she scratched out a note on a piece of scrap paper clipped to the sill with her coffee cup. She put down the signal strength and the bearing, and a few cryptic marks of her own private notation about the quality of the sound and what direction she thought it might be headed in. To be thorough, she swung the microphones in a full 360-degree scan to make sure there were no other surprise signals popping up out there in the expanse of water she could hear surrounding her.
+
+"Signal unchanged." She reported upwards to the control room above her. A moment later the compressed air system hissed and the diesels rolled up to their usual all-engulfing sound. Cassandra returned the sonar headset to the peg and closed her eyes again.
+
+Twenty more minutes passed and she repeated this process. Then another twenty minutes. And another. Each time the signal behind stubbornly refused to have much change to its characteristics. But the unchanging nature of the sound already told her something. "Signal remains unchanged." She reported. "Therefore they must be on, or close to, our own course."
+
+[//]: # (Delete next graf)
+
+It wasn't unusual for two ships to share a similar course, sometimes for days at a time. And certainly the ship she was hearing on sonar was not gaining on them --- at least not quickly --- which was a comforting sign. But the other possibility was that this was no coincidence. It was possible the ship was tracking them via radar. There were many ships backed by many various legal and state entities that were tasked with inspecting and potentially commandeering a cargo sub like the *Prospect*. 
+
+"And you can't determine range?"
+
+"No. The signal is at the very limits of detectability with sonar. Roughly, that puts the range at something like 12-15 nautical miles." According to the readings off the gauges, the signal had no change in characteristics in the last hour she had been tracking it. But looking over her notation, Cassandra was concerned by what her instincts were telling her about the subtle qualities of the sound. She took this last minute of silence before the diesels started again to listen deeply to the signal. To her ear it felt like the sound of powerful engines. And it felt like the prop wash was moving away from her. No serious sonar operator would claim to be able to hear that kind of detail at the distance she was listening at, but Cassandra felt there were both signal qualities that were empirically verifiable --- the stuff detected by the gauges on the wall, the stuff that could be reported to one's captain --- and then there were signal qualities that were understood more instinctually. These were the things that she made her private little marks about.
+
+Her instincts were telling her that this signal was tracking them.
+
+The diesels started again and blew away any further consideration of the signal for the time being.
 
 
 

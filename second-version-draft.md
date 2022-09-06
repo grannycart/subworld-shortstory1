@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Mon Sep 05, 2022  08:21PM
+Last modified: Tue Sep 06, 2022  12:12PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -123,11 +123,13 @@ It was only seconds before she heard the valves above the main buoyancy tanks sn
 
 She focussed her attention on the sounds around the boat rather than the boat itself. The spatial quality she could hear had changed --- it now felt more three-dimensional. She could hear the surface farther away above her head, and the bottomless hole underneath her. Cassandra set her filters to block boat noises and circled the microphones around. The water was completely empty. She had lost her contact.
 
-That was impossible though. They were too close to disappear. They could have stopped their engines, but that didn't seem likely to Cassandra. She called up to the control room. "Captain Percy, I need you to steer a course that puts our following ship off at an angle. I suspect they are dead astern right now, and I've lost them"
+That was impossible though. They were too close to disappear. They could have stopped their engines, but that didn't seem likely. She called up to the control room. "Captain Percy, I need you to steer a course that puts our following ship off at an angle. I suspect they are dead astern right now, and I've lost them"
 
 "I'll see what I can do Cassandra."
 
-She could hear Captain Percy giving muffled instructions to the guys who sat at the rudder controls. And a moment later the boat was swinging to port.
+She could hear Captain Percy giving muffled instructions to the guys who sat at the rudder controls. And a moment later the boat was swinging to port. As the props swung out of the way Cassandra was quickly able to pick up the contact again.
+
+It was much closer now. She eased the directional control wheel back and forth across the target. The sound of it described an image in her head. She could see the two props of the ship spinning. She could see the relatively shallow draft --- it was defintely not some heavy cargo ship. She could see the bow-wave curled up against both sides of its hull. It was close enough now that she could see its direction, pointed right towards her.
 
 
 

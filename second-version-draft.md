@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Mon Sep 05, 2022  04:36PM
+Last modified: Mon Sep 05, 2022  08:21PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -89,11 +89,47 @@ Each time the diesels stopped, Hemi would slide down the ladder, take her readin
 
 "This is unproductive Hemi. We can keep the wheels turning at full RPMs, and they can chase us across the open ocean for days. Eventually they will catch us though, don't you think?
 
-"There is no question about it. It would not be days. Look at the math: they would catch us before noon tomorrow. Even in the days when ships had sails it was often just a matter of physics in a chase. Two ships rig for their fastest possible speeds, and the faster ship --- even if just slightly faster --- would eventually win out. It is not like a footrace where there is no telling the endurance of the other person."
+"There is no question about it. Though it would not be days. Look at the math: if you run out the speed they are gaining on us, they would catch us before noon tomorrow. Even in the days when ships had sails a sea chase was often just a matter of physics. Two ships rig for their fastest possible speeds, and the faster ship --- even if just slightly faster --- will eventually win out. It is not like a footrace where there is no telling the endurance of your opponent."
 
 "But that is where we can take advantage of being a submarine --- we have other options we can employ."
 
-"We will dive sometime in the next hour, I think." Said Hemi. "I am sure Captain Percy will want to get under before the dawn light rises."
+"And because of that we will dive sometime in the next hour, I think." Said Hemi. "I am sure Captain Percy will want to get under before the dawn light comes up."
+
+Cassandra was exhausted. The only sleep she had gotten in the last twenty-four hours was the little naps while the diesels were running. That was not the kind of sleep she needed by any means. As soon as the boat submerged she would lose even those little interstitial breaks. She would be expected to giving the sonar her full attention, without breaks.
+
+Two more more of the twenty-minute cycles passed. During each Cassandra dutifully reported the closing distance of the following ship. Between listening sessions Hemi came down and told her that the contact was close enough that they could make out the shadow of the superstructure against the horizon from the bridge now. Hemi was convinced it was some kind of military enforcer ship. He was sure it was an armed warship of some kind. Hemi was not often wrong about that kind of thing.
+
+"Would you believe they even turned a spotlight on? Played it out over the water, clearly searching for us. Clearly not concerned about us knowing where they are."
+
+"That's a terrifying thought. It means they know we're unarmed."
+
+"It also means that they do not know precisely where we are --- it is likely they are only tracking us via radar, so as soon as we dive we have a good chance of losing them."
+
+"The sooner the better then."
+
+As if Captain Percy had been listening to their conversation, word came down to prepare to dive. The diesels died away one final time to leave the blessed silence behind them. But this time they left behind the more subtle hum of the electric motors --- still turning the props, but powered by the batteries now.
+
+This was the configuration that Cassandra was most comfortable with. While running on batteries there was still plenty of sonic room for her to listen carefully to the water all around them. And she knew precisely which filters she liked to have applied to drain out the buzzing electric motors from her headset and leave behind the swishing and washing sound of just the ocean. At least in every direction except dead astern, where the turning props stirred up enough noise that it clipped off the distance she could hear at just the length of the boat.
+
+The boat hadn't dived yet though. They were still running on the surface even though they were now powered by the batteries. Apparently Captain Percy was going to make sure everything was in the best order it could be before the boat submerged potentially for the next twelve hours of daylight. This was no emergency dive. They would go down slowly, with deliberation and full control.
+
+But after ten minutes or so the pipes in the sonar compartment once again were pressed through with thousands of gallons of water. This time, without the diesels running, Cassandra could hear the operations of the ship through her headset. She turned the directional wheel around listening to the machines do its work, making sure everything was happening the way it was supposed to, mostly to reassure herself. She was sure if something went wrong the system alarms in the control room would indicate it before she heard anything amiss. 
+
+She could hear the valves at the top of the buoyancy tanks pop open, and the rush of air escaping from the top of the boat as the water flowed into the tanks from underneath. She turned the mics and could hear the servos driving the dive planes into a downward setting.
+
+The bottom dropped out from under her and the boat sank.
+
+It was only seconds before she heard the valves above the main buoyancy tanks snap closed again --- neutral buoyancy only required them to be partially full of water --- and the dive plane servos whirred slightly as the boat leveled off at a couple of hundred feet down. For the next few minutes she heard various pumps come on and off and valves open and close as Hemi trimmed the boat front to back and side to side by making adjustments to how much water was in the smaller buoyancy tanks that controlled trim.
+
+She focussed her attention on the sounds around the boat rather than the boat itself. The spatial quality she could hear had changed --- it now felt more three-dimensional. She could hear the surface farther away above her head, and the bottomless hole underneath her. Cassandra set her filters to block boat noises and circled the microphones around. The water was completely empty. She had lost her contact.
+
+That was impossible though. They were too close to disappear. They could have stopped their engines, but that didn't seem likely to Cassandra. She called up to the control room. "Captain Percy, I need you to steer a course that puts our following ship off at an angle. I suspect they are dead astern right now, and I've lost them"
+
+"I'll see what I can do Cassandra."
+
+She could hear Captain Percy giving muffled instructions to the guys who sat at the rudder controls. And a moment later the boat was swinging to port.
+
+
 
 
 

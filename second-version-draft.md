@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 06, 2022  12:12PM
+Last modified: Tue Sep 06, 2022  01:19PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -48,6 +48,8 @@ Hemi returned and tapped her shoulder. "Sylvia wants to run on diesels to try to
 Hemi climbed the ladder back up to the control room.
 
 Cassandra pulled the headphones off her head and hung them on the peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesel engines, but they were loud enough that she felt like they had swallowed her whole body. Unlike on a surface ship and some other sub, the diesels on this submarine had no direct drive to the props. Instead they just acted as huge generators when they were running --- at the same time charging the boat's batteries and generating electricity that powered the huge electric motors that turned the props. Due to this configuration, the diesels were set to run at one consistent RPM range that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the intensity of the diesels. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. That was on top of the fact that the engine noise was loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on its nearly-silent batteries all the time.
+
+[//]: # (Somewhere in here you need to name Cassandras sub as the *Prospect* -- its necessary for telling other elements of the story later, particularly the maneuvering between the two vessels)
 
 Since darkness had fallen hours ago, the compartment was lit up with the red night lighting. The glow of it penetrated through her closed eyelids. Half dozed off in her chair, she imagined the color of the red lights was somehow an exact visual representation of the unceasing and penetrating drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
 
@@ -129,9 +131,17 @@ That was impossible though. They were too close to disappear. They could have st
 
 She could hear Captain Percy giving muffled instructions to the guys who sat at the rudder controls. And a moment later the boat was swinging to port. As the props swung out of the way Cassandra was quickly able to pick up the contact again.
 
-It was much closer now. She eased the directional control wheel back and forth across the target. The sound of it described an image in her head. She could see the two props of the ship spinning. She could see the relatively shallow draft --- it was defintely not some heavy cargo ship. She could see the bow-wave curled up against both sides of its hull. It was close enough now that she could see its direction, pointed right towards her.
+It was much closer now. She eased the directional control wheel back and forth across the contact. The sound described an image in her head --- the pursuing ship, as seen from the underside. She could see the two props of the ship spinning. She could see the relatively shallow draft --- it was definitely not some heavy cargo ship displacing a massive amount of water. She could see the bow-wave curled up against both sides of its hull. It was close enough now that she could see its direction, pointed directly towards her.
 
+"They have increased speed Captain Percy. They are closing much faster now. They are within ten nautical miles."
 
+"And we're moving slower now. Give me a report every five minutes Cassandra."
+
+At the speed the pursuing ship was moving their engines would be making far too much noise to track anything on sonar. Now that the target they had been tracking with radar had disappeared, they were trying to close the distance as quickly as possible to the last point where they were sure the sub had been. Presumably they would resume their search with sonar when they felt they had a better chance at detection. But the high speed provided a short window where their pursuers were essentially blind. 
+
+In Cassandra's ears she could hear the pursuing ship slipping off to her side. She adjusted the directional wheel, keeping the signal strength at its maximum. For a few breaths she thought the contact was turning for some reason. It was a couple more moments before she reoriented herself and realized that the *Prospect* was turning, not the contact. Captain Percy was taking the opportunity offered to her by their pursuer's temporary blindness to make an evasive maneuver and head her boat off in some presumably random direction from where she had submerged.
+
+The situation between the two vessels had changed significantly from the grinding chase they had been in all night. The distance closed shockingly fast. Within 15 minutes the pursuing ship was within five nautical miles. With each passing minute, Cassandra could hear more detail and got a clearer picture of their pursuer's ship --- at least of the bottom side of it. They were equipped with a powerful set of engines, and large props shaped for torque and power without much regard for noise. The left propeller was slightly damaged and cavitated somewhat excessively. These were all hallmarks of a warship, or at least of some kind of official vessel tasked with enforcement. Enforcing... what? It was not something the bottom side of the ship could tell Cassandra, no matter how good the resolution of its sounds got.
 
 
 

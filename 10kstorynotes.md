@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Sun Sep 04, 2022  03:49PM
+Last modified: Tue Sep 06, 2022  01:19PM
 
 
 # 10k-word short story notes
@@ -54,8 +54,9 @@ Last modified: Sun Sep 04, 2022  03:49PM
 	* Something like: the Prospect is running at maximum speed (see notes); the mysterious chasing boat gains on them slightly faster. It takes hours for the vessel to get into a 10nm range where they can see its shadow --- black against the starlit sky --- from the bridge
 * Percy lowers the boat to decks-awash to reduce the radar signature -- Cassandra can hear the change in the sonar as she's starting to listen to see if she can hear anything above the noise of the diesels.
 * At dawn it is 10nm off, and they can see it. The Prospect crew don't like the looks of it, even though it's mostly still just a shadow on the horizon.
-* There's a ping. Now they know they are being tracked. Percy orders a dive.
+* Percy orders a dive.
 * Now Cassandra turns on the sonar equipment, she can hear the ship on the sonar.
+* There's a ping. Now they know they are being tracked.
 * They make evasive maneuvers.
 * But the other ship pursues them with pings. With each ping, the ranging equipment reports the other ship's precise location and distance to Cassandra. (Someone comments: they have no fear of the Prospect)
 	* Cassandra feels like there's no escaping that pinging -- it overwhelms her sound environment, and washes out all her equipment.

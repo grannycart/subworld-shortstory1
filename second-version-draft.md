@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 06, 2022  05:00PM
+Last modified: Tue Sep 06, 2022  06:53PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -151,6 +151,21 @@ Then the engines of the pursuing ship dropped off. Cassandra watched the needle 
 
 Captain Percy's voice filled the sonar compartment, amplified over the submarine's PA. "Until further notice, keep it quiet if you please. I would like to avoid an encounter with any authority figures today. Thank you."
 
+The extra quiet without the electric motors running gave Cassandra an opportunity to really listen closely to the contact. She put little hash marks down on the scrap paper on the sill in front of her, carefully tracking the ship's movements. They had begun a slow turn to starboard. That was a good sign, being that it was the opposite direction from the way the *Prospect* had turned. But it was also likely that it was just a short jog to enable the ship to listen behind their propellers and make sure they hadn't directly overshot the target they were looking for.
+
+In a matter of a few minutes her suspicions were confirmed as she could hear the propellers coming back towards her, the strength of the signal increasing. They put themselves right back on their previous course towards the point where the *Prospect* had submerged. Now within two nautical miles.
+
+That was when Cassandra heard what she could only describe as a pulse of energy escape from the hull of the ship. She yanked the headphones off her head and a second later a loud ping resonated off of and right through the hull of the submarine.
+
+There was a commotion up in the control room. They had apparently not been expecting to be pinged.
+
+Active sonar. That resolved any questions about whether the ship was military or civilian. There was no reason for a civilian ship to be equipped with active sonar. It was a tool only for searching for submerged craft, something that only a vessel with some kind of enforcement mission would have call for.
+
+Cassandra glanced at the ranging gear. It was lit up with the range and bearing of the source of the ping. It automatically engaged whenever it detected a signal as energetic as an active ping. 
+
+"1.73 nautical miles, bearing 0-2-5." She read off the ranging gear for the control room to hear. Hemi would probably appreciate the precision. Active sonar had the property of both revealing their location and also giving them precise information on the location of their pursuers.
+
+[//]: # (Cassandra hears the boat turn towards their location.)
 
 
 

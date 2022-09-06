@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 06, 2022  01:19PM
+Last modified: Tue Sep 06, 2022  05:00PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -139,9 +139,19 @@ It was much closer now. She eased the directional control wheel back and forth a
 
 At the speed the pursuing ship was moving their engines would be making far too much noise to track anything on sonar. Now that the target they had been tracking with radar had disappeared, they were trying to close the distance as quickly as possible to the last point where they were sure the sub had been. Presumably they would resume their search with sonar when they felt they had a better chance at detection. But the high speed provided a short window where their pursuers were essentially blind. 
 
-In Cassandra's ears she could hear the pursuing ship slipping off to her side. She adjusted the directional wheel, keeping the signal strength at its maximum. For a few breaths she thought the contact was turning for some reason. It was a couple more moments before she reoriented herself and realized that the *Prospect* was turning, not the contact. Captain Percy was taking the opportunity offered to her by their pursuer's temporary blindness to make an evasive maneuver and head her boat off in some presumably random direction from where she had submerged.
+In the headset she could hear the pursuing ship slipping off to her side. She adjusted the directional wheel, keeping the signal strength at its maximum. For a few breaths she thought the contact was turning for some reason. It was a couple more moments before she reoriented herself and realized that the *Prospect* was turning, not the contact. Captain Percy was taking the opportunity offered to her by their pursuer's temporary blindness to make an evasive maneuver and head her boat off in some presumably random direction from where she had submerged.
 
-The situation between the two vessels had changed significantly from the grinding chase they had been in all night. The distance closed shockingly fast. Within 15 minutes the pursuing ship was within five nautical miles. With each passing minute, Cassandra could hear more detail and got a clearer picture of their pursuer's ship --- at least of the bottom side of it. They were equipped with a powerful set of engines, and large props shaped for torque and power without much regard for noise. The left propeller was slightly damaged and cavitated somewhat excessively. These were all hallmarks of a warship, or at least of some kind of official vessel tasked with enforcement. Enforcing... what? It was not something the bottom side of the ship could tell Cassandra, no matter how good the resolution of its sounds got.
+The situation between the two vessels had changed significantly from the grinding chase they had been engaged in overnight. The distance closed shockingly fast. Within 15 minutes the pursuing ship was within five nautical miles. With each passing minute, Cassandra could hear more detail and got a clearer picture of their pursuer's ship --- at least of the bottom side of it. They were equipped with a powerful set of engines, and large props shaped for torque and power without much regard for noise. The left propeller was slightly damaged and cavitated somewhat excessively. These were all hallmarks of a warship, or at least of some kind of official vessel tasked with enforcement. Enforcing... what? It was not something the bottom side of the ship could tell Cassandra, no matter how good the resolution of its sounds got.
+
+The signal grew in intensity. The ranging equipment was estimating within two nautical miles now. Cassandra scratched out a number of notes describing the characteristics of the signal and what those characteristics said about the ship that made them. It was often the case that at some future point notes like that could help identify a questionable signal, or provide a useful reference when it came to choosing maneuvers to elude their pursuers. 
+
+Then the engines of the pursuing ship dropped off. Cassandra watched the needle on the signal strength gauge rapidly fall until it was hovering with a slight quiver at only one-tenth the intensity it had been indicating only moments before.
+
+"Captain Percy, they've slowed dramatically. I estimate they have reduced speed to under five knots." Cassandra's report was followed almost immediately by the dwindling away of the *Prospect's* electric motors.
+
+Captain Percy's voice filled the sonar compartment, amplified over the submarine's PA. "Until further notice, keep it quiet if you please. I would like to avoid an encounter with any authority figures today. Thank you."
+
+
 
 
 

@@ -1,9 +1,11 @@
 second-version-draft.md
-Last modified: Wed Sep 07, 2022  12:20PM
+Last modified: Wed Sep 07, 2022  01:16PM
 
 # Subworld Short Story #1 -- Second version
 
 [//]: # (Think of the story as a sculpture.)
+
+[//]: # (When reviewing: make sure you are staying in Cassandras ears. Dont slip into telling whats happening, describe it via sound.)
 
 A cup of coffee appeared in the space before her eyes, suspended from thick fingertips by the rim of the cup. The skin of of those fingers were dry and cracked, each crack lined in black from grease that seemed unlikely to ever be completely scrubbed away. She took the metal cup from and realized that it was too hot to be held by anything but the rim. She moved it from one hand to the other, and then brought it up to send a pursed-lip cooling breath across the surface. Small chunks of gray creamer that had remained undissolved scattered across the rippling off-white liquid. 
 
@@ -185,14 +187,25 @@ The two vessels again locked into a struggle of nearly-matched capabilities. Cas
 
 Cassandra had to carefully maintain her track of the contact back and forth across a wide range of bearings behind the *Prospect* as Captain Percy plowed out a zigzag course intended to trip up their pursuers. Things were going in their pursuer's favor though. In under an hour they had closed to within a quarter of a nautical mile of the *Prospect*. Their signal when their engines were running was so overwhelming that it drove all of Cassandra's signal gauges up into the far range of their scales.
 
+The next time their engine noise dropped off, Cassandra realized that the *Prospect's* own motor noise had disappeared too. The *Prospect* had stopped and was hanging suspended in the water column, a couple of hundred feet down.
 
+"I've stopped the boat Cassandra. They're too close. Let's see what their next move is."
 
+Their next move, unsurprisingly, was a ping. Cassandra anticipated its arrival and popped the headset off once again. The ring of it ricocheted around inside the *Prospect's* hollow hull. Cassandra had the thought that if the technology improved in the next few years, active sonar units might gain in resolution to the point where they would be able count the number of people aboard a submarine.
 
+Cassandra slipped the headphones over her head and set the directional control wheel to track the contact. Their engine noise wound up. They were moving again. More slowly this time, moving into position nearly over their location.
 
+"Contact moving closer." It was hardly necessary for her to tell Captain Percy this, the sound of the surface ship's screws was clearly audible through the hull of the *Prospect* without the aid of amplification technology. Cassandra pulled the headphones off again and listened to the whirring sound growing louder. Exceptional sound quality, transmitted through the thick water and resonated by the steel tube of the *Prospect's* hull. The ship moved directly above them and she could hear the engine snap into idle.
 
-[//]: # (See from first draft, section: Hemi tracks the other ship on sonar)
+[//]: # (Next up: ship to ship call)
 
 [//]: # (You might be able to use some of the ship-to-ship dialog see ship-to-ship note in first draft -- Cassandra would be able to hear it in the sonar unit maybe, or she has her own ship-to-ship unit at the sonar station.)
+
+
+
+
+
+
 
 [//]: # (See ticking watches section --- you might be able to lift whole sections of dialog from there)
 

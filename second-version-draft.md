@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 06, 2022  06:53PM
+Last modified: Wed Sep 07, 2022  12:20PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -163,9 +163,29 @@ Active sonar. That resolved any questions about whether the ship was military or
 
 Cassandra glanced at the ranging gear. It was lit up with the range and bearing of the source of the ping. It automatically engaged whenever it detected a signal as energetic as an active ping. 
 
-"1.73 nautical miles, bearing 0-2-5." She read off the ranging gear for the control room to hear. Hemi would probably appreciate the precision. Active sonar had the property of both revealing their location and also giving them precise information on the location of their pursuers.
+"1.73 nautical miles, bearing 0-2-5." She read off the ranging gear loud enough for the control room to hear. Hemi would probably appreciate the precision. Active sonar had the dual properties of both revealing their location and also giving them precise information on the location of their pursuers.
 
-[//]: # (Cassandra hears the boat turn towards their location.)
+It was only moments after the ping that Cassandra heard one of the pursuing ship's prop noise increase in pitch. She could hear the water pushing with more force off the wing of the ship's rudder. The ship was turning. In under a minute she had confirmed its new course as the signal strength increased. The ship was turning from a course towards where the *Prospect* had submerged towards their current location. The ping had lit up the *Prospect's* exact location in the water.
+
+"Captain Percy: the ship has adjusted its course directly towards our location."
+
+"Got it, thanks. Keep on them."
+
+Two seconds later the *Prospect's* electric motors whirred up to a pitch indicating a moderate speed and Cassandra felt a mild jolt from the forward acceleration. The contact began a progression across bearings, and Cassandra kept the directional control wheel moving to track it. Captain Percy was turning to a new course following the ping to try to keep their perusers guessing at their location. The contact soon disappeared directly astern into the noise of the *Prospect's* Propellers. The contact remained lost in the wash for a minute, then came out the far side.
+
+Cassandra yanked the headset off her ears and another ping rang the hull of the *Prospect*.
+
+Evasive maneuvers were going to be useless if there was nothing to restrain their use of active sonar. As if to emphasize that point the pings started to come regularly: every thirty seconds or so. Cassandra now engaged in a nearly continuous battle to protect her hearing. The effort of removing the headphones and replacing them everything thirty seconds with each incoming ping --- a gesture that as a single instance was second nature --- began to weigh heavily on her already exhausted attention. 
+
+The pitch of the *Prospect's* propellers whined a little higher. Captain Percy was putting on a little more speed. Cassandra estimated by the sound of the props that they were moving at ten knots or so now. If their pursuers increased speed their engine noise would degrade the resolution of the returns from their pings. Active sonar became useless above 15 knots or so. The problem was that the *Prospect* could only maintain 15 knots submerged for an hour or two before completely depleting their battery leaving them dead in the water. At ten knots Captain Percy was trying to split the difference on burning up battery power and sneaking away from the penetrating gaze of the pings.
+
+It was only a matter of a couple of minutes and a handful of further pings that their pursuers also put on more speed so as to not let their quarry slip away. With the increased speed the pinging stopped and as soon as it did Cassandra had to resume tracking the moving contact --- losing it as always as it crossed the stern  --- as Captain Percy executed another turn. 
+
+The two vessels again locked into a struggle of nearly-matched capabilities. Cassandra could hear the engines of the following ship rev up as they put on a burst of speed towards the *Prospect*. The sound of their engines was loud enough to overpower anything else she could hear in her headset, even the sound of the *Prospect's* motors. After ten minutes, their diesels would fall back to a pattering churn, and a ping would come. The ping would be followed by a course-correction to point their bows at the *Prospect's* location and then another driving forward of the engines. 
+
+Cassandra had to carefully maintain her track of the contact back and forth across a wide range of bearings behind the *Prospect* as Captain Percy plowed out a zigzag course intended to trip up their pursuers. Things were going in their pursuer's favor though. In under an hour they had closed to within a quarter of a nautical mile of the *Prospect*. Their signal when their engines were running was so overwhelming that it drove all of Cassandra's signal gauges up into the far range of their scales.
+
+
 
 
 

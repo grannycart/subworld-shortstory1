@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Mon Sep 05, 2022  11:55AM
+Last modified: Thu Sep 08, 2022  12:51PM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -418,7 +418,7 @@ As she tossed the snuffed butt at the can, one of the radios mounted to the ceil
 
 "Shut the fuck up." Said Bastian.
 
-"Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force and the recruitment of more significant anti-submarine forces to use against your ship. ...Message repeats..." Percy dialed down the volume on the radio.
+Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force and the recruitment of more significant anti-submarine forces to use against your ship. ...Message repeats..." Percy dialed down the volume on the radio.
 
 "Weapons?" Owen asked skeptically, "I thought we were hauling a shipment of wristwatches?"
 

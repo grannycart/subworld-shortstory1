@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Wed Sep 07, 2022  01:16PM
+Last modified: Thu Sep 08, 2022  12:51PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -195,9 +195,27 @@ Their next move, unsurprisingly, was a ping. Cassandra anticipated its arrival a
 
 Cassandra slipped the headphones over her head and set the directional control wheel to track the contact. Their engine noise wound up. They were moving again. More slowly this time, moving into position nearly over their location.
 
-"Contact moving closer." It was hardly necessary for her to tell Captain Percy this, the sound of the surface ship's screws was clearly audible through the hull of the *Prospect* without the aid of amplification technology. Cassandra pulled the headphones off again and listened to the whirring sound growing louder. Exceptional sound quality, transmitted through the thick water and resonated by the steel tube of the *Prospect's* hull. The ship moved directly above them and she could hear the engine snap into idle.
+"Contact moving closer." It was hardly necessary for her to tell Captain Percy this, the sound of the surface ship's screws was clearly audible through the hull of the *Prospect* without the aid of amplification technology. Cassandra pulled the headphones off again and listened to the whirring sound growing louder. Exceptional sound quality, transmitted through the dense water and resonated by the steel tube of the *Prospect's* hull. The ship moved until the sound of the propellers would indicate that it was located directly above them. She could hear the engine snap into idle.
 
-[//]: # (Next up: ship to ship call)
+Cassandra's peripheral vision was caught by the sudden movement of the signal needles on a rarely-used piece of equipment: the ship-to-ship radio. She flipped the switch that piped the sound from the ship-to-ship into her headset.
+
+"...To the submerged submarine: You are hereby ordered to surface immediately, open your hatches, and prepare for inspection. This order is given under the authority of the Alliance of Northern Empires..."
+
+Cassandra turned her head and called up to the control room. "Captain Percy, we're receiving a message on the ship-to-ship." Captain Percy's boots almost immediately appeared on the steel ladder from the control room. The toes of the boots hooked around the side rails and slipped down to land with a smack on the deck of the sonar compartment. Hemi followed behind, more carefully and deliberately climbing down the ladded rung under rung.
+
+"Put it on the speaker Cassandra."
+
+Another click of a switch and the transmission from the pursuing ship filled the sonar compartment.
+
+Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force. ...Repeating message..." Percy reached over and dialed down the volume on the radio.
+
+"Weapons?" Owen asked skeptically, "I thought we were hauling a shipment of wristwatches?"
+
+"Indeed we are." Said Percy. "The only trouble is the watches are going to the Independent Island Pact forces... for distribution to infantry who need them to time artillery strikes."
+
+"Hardly *weapons* though..." Said Owen.
+
+
 
 [//]: # (You might be able to use some of the ship-to-ship dialog see ship-to-ship note in first draft -- Cassandra would be able to hear it in the sonar unit maybe, or she has her own ship-to-ship unit at the sonar station.)
 

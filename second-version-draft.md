@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 08, 2022  12:51PM
+Last modified: Thu Sep 08, 2022  01:20PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -207,17 +207,25 @@ Cassandra turned her head and called up to the control room. "Captain Percy, we'
 
 Another click of a switch and the transmission from the pursuing ship filled the sonar compartment.
 
-Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force. ...Repeating message..." Percy reached over and dialed down the volume on the radio.
+Captain Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. "...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force. ...Repeating message..." Percy reached over and dialed down the volume on the radio.
 
-"Weapons?" Owen asked skeptically, "I thought we were hauling a shipment of wristwatches?"
+"Weapons?" Cassandra asked skeptically, "I thought we were hauling a shipment of wristwatches?"
 
-"Indeed we are." Said Percy. "The only trouble is the watches are going to the Independent Island Pact forces... for distribution to infantry who need them to time artillery strikes."
+"Indeed we are." Said Percy. "The only trouble is the watches are going to the Independent Island Pact forces... for distribution to infantry who need them for timing artillery strikes."
 
-"Hardly *weapons* though..." Said Owen.
+"Hardly *weapons* though..." Said Cassandra.
+
+"Indeed." Said Hemi. "If we had actual weapons in our hold, they likely would have already fired on us instead of requesting we surface."
+
+"What can they do to us if we don't surface?"
+
+"Depends on how fucking violently inclined they are and what they are armed with." Said Percy. "Torpedoes, depth bombs --- all manner of hell fire they could rain down on our delicate little heads."
+
+"On an unarmed cargo sub?"
+
+"They know we are unarmed or they wouldn't have been so free with using the fucking active sonar. On the other hand, if they thought we were armed they would already be firing on us. But we could be hauling blankets and bandaids, if they know our delivery is for their enemies in the Island Pact they might try to seize the cargo, maybe our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured. A fine way to end a career in submarine logistics"
 
 
-
-[//]: # (You might be able to use some of the ship-to-ship dialog see ship-to-ship note in first draft -- Cassandra would be able to hear it in the sonar unit maybe, or she has her own ship-to-ship unit at the sonar station.)
 
 
 

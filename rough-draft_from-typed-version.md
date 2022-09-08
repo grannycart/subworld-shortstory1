@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Thu Sep 08, 2022  12:51PM
+Last modified: Thu Sep 08, 2022  01:20PM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -428,7 +428,7 @@ Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit. 
 
 "It does explain why we have a converted freighter tailing us though." Said Bastian. "If we were hauling actual weapons, they'd have a destroyer over us right now raining down charges on our delicate fucking heads."
 
-"It hardly fucking matters." Said Percy. "We could be hauling blankets and bandaids, if they know our deliver is to their enemies in the Island Pact, they will seize the cargo, probably our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured."
+"It hardly fucking matters." Said Percy. "We could be hauling blankets and bandaids, if they know our delivery is for their enemies in the Island Pact, they will seize the cargo, probably our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured."
 
 "So what are we going to do Captain?" Asked Owen.
 

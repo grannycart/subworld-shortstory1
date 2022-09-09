@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 08, 2022  01:20PM
+Last modified: Fri Sep 09, 2022  01:24PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -217,15 +217,29 @@ Captain Percy's eyes tracked the bouncing signal needle on the ship-to-ship radi
 
 "Indeed." Said Hemi. "If we had actual weapons in our hold, they likely would have already fired on us instead of requesting we surface."
 
+"But we could be hauling blankets and bandaids, if they know our delivery is for their enemies in the Island Pact, they'll do everything they can to surface us --- might try to seize the cargo, maybe our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured. A fine way to wrap up a career in submarine logistics."
+
 "What can they do to us if we don't surface?"
 
-"Depends on how fucking violently inclined they are and what they are armed with." Said Percy. "Torpedoes, depth bombs --- all manner of hell fire they could rain down on our delicate little heads."
+"Depends on how fucking violently inclined they are and what they are armed with." Said Percy. "Torpedoes, depth bombs --- all manner of hell fire they could rain down on our delicate little heads. And the fuckers know we are unarmed or they wouldn't have been so free with using the fucking active sonar."
 
-"On an unarmed cargo sub?"
+She stretched the mic from the ship-to-ship radio to her lips and keyed the transmit button. "Ship on the surface, this is submerged sub. Acknowledged receipt of transmission. Please be aware: we are an unarmed cargo vessel hauling consumer goods."
 
-"They know we are unarmed or they wouldn't have been so free with using the fucking active sonar. On the other hand, if they thought we were armed they would already be firing on us. But we could be hauling blankets and bandaids, if they know our delivery is for their enemies in the Island Pact they might try to seize the cargo, maybe our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured. A fine way to end a career in submarine logistics"
+"To submerged submarine: you are ordered to surface for inspection of your cargo by the enforcement authority of the Alliance of Northern Empires whose sovereign waters we have documentation of your transiting."
 
+Percy paused, her thumb hanging in the air above the transmit button. "Hemi, start trimming our tanks to make it sound like we're blowing air into them to surface." Hemi started climbing the ladder to the control room. Percy depressed the transmit button. "Preparing to surface, please stand by."
 
+Percy reached across Cassandra and put the mic back on its clip. She flipped the switch to disconnect the ship-to-ship unit from the compartment's PA speakers.
+
+"What are we going to do Captain Percy?"
+
+"We're going to do what a submarine does best Cassandra: hide, and then fucking run. Keep an ear on that ship-to-ship and let me know if they have anything new to say for themselves."
+
+"Sure Captain Percy."
+
+"And we're going to be going through some maneuvers. Keep a close track on them, and let me know if they do anything fishy."
+
+"Yes Captain Percy." Cassandra settled the headset back over her ears as Captain Percy climbed the ladder back up to the control room.
 
 
 

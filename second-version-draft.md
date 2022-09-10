@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sat Sep 10, 2022  12:33PM
+Last modified: Sat Sep 10, 2022  01:57PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -256,7 +256,7 @@ The ping came. Off with the headset, the ringing blast like a shock pushing wake
 Just a second after the ping, she heard the servos of the dive planes softly hum again --- hopefully the sonar operator above missed that sound --- followed almost immediately by the bow dipping deeply down. Cassandra had to brace herself against the sonar unit, wedging her boots into the angle where the steel of the cabinet met the diamond-plate deck. She pressed her small hands against the console, her chipped-paint fingernails splayed out in front of her.
 
 
-[//]: # (Need to execute another turn, increase speed, flood tanks. Another ping in there somewhere, Then shut off the motors and drift down below the thermocline.)
+[//]: # (Need to execute another turn, increase speed, flood tanks. Another ping in there somewhere, Then shut off the motors and drift down below the thermocline. This might be a good place to talk about the idea of using 3-dimensionality to escape; the surface ship doesn't quite internalize the same 3-dimensional space.)
 
 
 

@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 13, 2022  02:10PM
+Last modified: Wed Sep 14, 2022  01:07PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -263,9 +263,26 @@ With the increased thrust the *Prospect* was now gaining depth quickly. Cassandr
 
 Not just depth, but layers too. The surface operators thought of the ocean as a single undifferentiated medium. The sub commander knew the ocean was made up of a complex variety of mediums, changing with temperature, salinity, concentrations of organic creatures, and currents. And --- most importantly to Cassandra --- all of these things could affect the way sound travelled through the medium. There were layers far down in the ocean where a sound could be transmitted thousands of miles, sometimes right around the whole planet. Towards the surface, things were more mixed where the sun warmed the surface and the cold sometimes pressed up from the deep. This mixing created confusion for a sonar operator. And opportunities for the sneaky sub commander.
 
+As the *Prospect* gained depth, Cassandra kept the microphones tracking the surface ship's diesel engine. She soon realized she wasn't listening so much to the engine noise of the ship as she was to the changing shape of its sound as they put more vertical distance between them, and as the makeup of the watery medium the sound was passing through shifted and changed. What had been a pulsing rattle when the *Prospect* was just under the surface became a muted rumble. 
+
+Now came another ping, shaking the air inside the *Prospect's* hull. The ruse ended there. The ping would reveal their exact depth and location to the surface ship, and there would no longer be any question that the *Prospect* was going down, not up.
+
+Almost immediately following the ping --- Captain Percy had certainly been anticipating it --- the sounds of the electric motors at the stern of the boat fell away and Cassandra swam in perfect silence. She observed the sounds of the ocean, the ship above, and the hole of the depths below. There was nothing to contaminate her signals now.
+
+The *Prospect* continued to drift downwards under its forward momentum. Cassandra heard a valve snap open somewhere far forward and a giant bubble of air burped out of the front of the boat. Hemi had decided the time had come to flood the forward tanks to help drive them further down.
+
+The contact in Cassandra's headset was on the move again. The *Prospect* was executing another turn towards some direction that hopefully the surface ship could not anticipate, and the contact was changing position relative to Cassandra. The sound of the contact was changing more dramatically now. An echo suddenly rose up from below, reflecting back the soft rumble from above until at one point it sounds uncannily to Cassandra like there were two ships: one above on the surface and one equally far below in the depths somehow.
+
+A moment later and the signal broke up, scattering in a number of different directions, and then was lost to Cassandra's ears. She scanned the microphones around, and managed to find the signal from the ship's diesels again right on the bearing she lost it, but now it was a far weaker signal, like the ship had suddenly jumped to 20 miles off. The signal barely shook the dials on the strength gauges.
+
+Cassandra pulled an earpiece off and leaned back. "Captain Percy, I think we passed through a thermocline."
+
+"Looks like it. The exterior water temperature plot is showing a steep drop. What does the signal sound like now?"
+
+"The signal strength is strongly reduced. I suspect we will be difficult to track under this thermocline."
 
 
-[//]: # (Need to execute another turn, increase speed, flood tanks. Another ping in there somewhere, Then shut off the motors and drift down below the thermocline. This might be a good place to talk about the idea of using 3-dimensionality to escape; the surface ship doesn't quite internalize the same 3-dimensional space.)
+[//]: # (Another ping has to happen in here --- that bounces back up to the ship and swamps there detecting capabilities)
 
 
 

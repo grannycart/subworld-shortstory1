@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Wed Sep 14, 2022  01:07PM
+Last modified: Thu Sep 15, 2022  08:02PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -267,11 +267,13 @@ As the *Prospect* gained depth, Cassandra kept the microphones tracking the surf
 
 Now came another ping, shaking the air inside the *Prospect's* hull. The ruse ended there. The ping would reveal their exact depth and location to the surface ship, and there would no longer be any question that the *Prospect* was going down, not up.
 
-Almost immediately following the ping --- Captain Percy had certainly been anticipating it --- the sounds of the electric motors at the stern of the boat fell away and Cassandra swam in perfect silence. She observed the sounds of the ocean, the ship above, and the hole of the depths below. There was nothing to contaminate her signals now.
+Almost immediately following the ping --- Captain Percy had certainly been anticipating it --- the sounds of the electric motors at the stern of the boat fell away and left Cassandra swimming in perfect silence. She observed the sounds of the ocean, the ship above, and the hole of the depths below. There was nothing to contaminate her signals now.
 
-The *Prospect* continued to drift downwards under its forward momentum. Cassandra heard a valve snap open somewhere far forward and a giant bubble of air burped out of the front of the boat. Hemi had decided the time had come to flood the forward tanks to help drive them further down.
+Somewhere far forward Cassandra heard valves snap open and a giant bubble of air burped out of the front of the boat. Hemi had decided the time had come to flood the forward tanks to help drive them further down. The bubbling only lasted for a moment before a massive weight of water had flooded up into the forward tanks and the valves shut with a heavy electromagnetic click.
 
-The contact in Cassandra's headset was on the move again. The *Prospect* was executing another turn towards some direction that hopefully the surface ship could not anticipate, and the contact was changing position relative to Cassandra. The sound of the contact was changing more dramatically now. An echo suddenly rose up from below, reflecting back the soft rumble from above until at one point it sounds uncannily to Cassandra like there were two ships: one above on the surface and one equally far below in the depths somehow.
+Now the *Prospect* continued to drift downwards under just its forward momentum and the extra weight of the water in the bow tanks. They left behind any sound or signal by which passive systems could track them.
+
+The contact in Cassandra's headset was on the move again. The *Prospect* was executing another turn towards some direction that hopefully the surface ship could not anticipate, and the contact was changing position relative to Cassandra. The spatial quality of the sound of the contact was changing more dramatically now as well. And then an echo rose up from below, reflecting back the soft rumble from above until at one point it sounds uncannily to Cassandra like there were two ships: one above on the surface and one equally far below in the depths somehow.
 
 A moment later and the signal broke up, scattering in a number of different directions, and then was lost to Cassandra's ears. She scanned the microphones around, and managed to find the signal from the ship's diesels again right on the bearing she lost it, but now it was a far weaker signal, like the ship had suddenly jumped to 20 miles off. The signal barely shook the dials on the strength gauges.
 
@@ -279,10 +281,16 @@ Cassandra pulled an earpiece off and leaned back. "Captain Percy, I think we pas
 
 "Looks like it. The exterior water temperature plot is showing a steep drop. What does the signal sound like now?"
 
-"The signal strength is strongly reduced. I suspect we will be difficult to track under this thermocline."
+"Greatly reduced in strength, diffuse and scattered."
+
+"With any luck 'diffuse and scattered' is exactly how we'll look to them next time they try to ping us too. Keep at it Cassandra!"
+
+The *Prospect* was still turning, apparently coming all the way around to something like a reverse course. With it constantly moving and floating in a warmer layer of water far above the much colder layer the *Prospect* now moved through it was getting difficult to keep the mics tracking the signal of the idling diesel engines of the ship. She gripped the steel of the directional control wheel --- still propping herself against the angle of the boat, which was starting to ease back towards level --- and turned it past the contact till the sound of it faded to almost nothing, and then back while watching the signal strength dials for the highest mark the needles could reach as the sound of distant churning cylinders swelled softly in her headset. But until the *Prospect* completed its turn, she just had to continually repeat the process to keep the signal in her ears.
+
+It was only a minute more before the signal stopped moving, and Cassandra realized it was because the *Prospect* had used up its reserve of forward momentum. She did a full circle with the microphones to make sure she wouldn't be surprised by anything unexpected in water around them. She could hear water very softly gurgling towards to the front. That would be Hemi pushing the excess water in the forward dive tanks overboard --- with very little pressure from the air system by barely hissing sound of it as he tried to stop the boat from sinking with as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must be deep enough to be near the maximum operating depth.
 
 
-[//]: # (Another ping has to happen in here --- that bounces back up to the ship and swamps there detecting capabilities)
+[//]: # (Another ping has to happen in here --- that bounces back up to the ship and swamps their detecting capabilities)
 
 
 

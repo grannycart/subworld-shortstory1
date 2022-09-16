@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 15, 2022  08:02PM
+Last modified: Fri Sep 16, 2022  01:17PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -294,7 +294,7 @@ It was only a minute more before the signal stopped moving, and Cassandra realiz
 
 
 
-[//]: # (See ticking watches section --- you might be able to lift whole sections of dialog from there)
+[//]: # (See 'ticking watches' section --- you might be able to lift whole sections of dialog from there)
 
 [//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
 

@@ -1,13 +1,11 @@
 README.md
-Last modified: Sun Sep 04, 2022  12:24PM
+Last modified: Thu Sep 15, 2022  08:10PM
 
-# Sub World Short Story 1 
-* By Mort Rye
+# Untitled Subworld Short Story 1 
+* By Mark Torrey
 
 
 ## How to read it:
-* Available for purchase on Amazon kindle:
-	* {url}
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
@@ -20,22 +18,6 @@ Last modified: Sun Sep 04, 2022  12:24PM
 	* Also the first draft version of listening to the watches ticking through the sonar.
 * second-version-draft.md
 	* First draft of an all-Cassandra/sonar set story. Starts with sonar and skips the radar chase section. 
-
-## Compilation notes:
-* Compiled using pandoc-ebook-template. For instructions see:
-	* https://github.com/evangoer/pandoc-ebook-template
-
-
-## Credits:
-* Compiled using pandoc-ebook-template:
-	* https://github.com/evangoer/pandoc-ebook-template
-* Cover from covervault:
-	* https://covervault.com/
-* Test readers:
-	* Your name here!
-	* Your name here!
-	* Your name here!
-
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International

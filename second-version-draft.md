@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Fri Sep 16, 2022  01:17PM
+Last modified: Sat Sep 17, 2022  12:29PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -275,22 +275,44 @@ Now the *Prospect* continued to drift downwards under just its forward momentum 
 
 The contact in Cassandra's headset was on the move again. The *Prospect* was executing another turn towards some direction that hopefully the surface ship could not anticipate, and the contact was changing position relative to Cassandra. The spatial quality of the sound of the contact was changing more dramatically now as well. And then an echo rose up from below, reflecting back the soft rumble from above until at one point it sounds uncannily to Cassandra like there were two ships: one above on the surface and one equally far below in the depths somehow.
 
-A moment later and the signal broke up, scattering in a number of different directions, and then was lost to Cassandra's ears. She scanned the microphones around, and managed to find the signal from the ship's diesels again right on the bearing she lost it, but now it was a far weaker signal, like the ship had suddenly jumped to 20 miles off. The signal barely shook the dials on the strength gauges.
+A moment later and the signal broke up, scattering in a number of different directions, and then was lost to Cassandra's ears. She scanned the microphones around, and managed to find the signal from the ship's diesels again right on the bearing she lost it, but now it was a far weaker signal, like the ship had suddenly jumped to 20 miles off. The signal barely buzzed the dials on the strength gauges.
 
 Cassandra pulled an earpiece off and leaned back. "Captain Percy, I think we passed through a thermocline."
 
-"Looks like it. The exterior water temperature plot is showing a steep drop. What does the signal sound like now?"
+"Looks like it. The exterior water temperature plot is showing a steep drop. What's it sound like now?"
 
 "Greatly reduced in strength, diffuse and scattered."
 
 "With any luck 'diffuse and scattered' is exactly how we'll look to them next time they try to ping us too. Keep at it Cassandra!"
 
-The *Prospect* was still turning, apparently coming all the way around to something like a reverse course. With it constantly moving and floating in a warmer layer of water far above the much colder layer the *Prospect* now moved through it was getting difficult to keep the mics tracking the signal of the idling diesel engines of the ship. She gripped the steel of the directional control wheel --- still propping herself against the angle of the boat, which was starting to ease back towards level --- and turned it past the contact till the sound of it faded to almost nothing, and then back while watching the signal strength dials for the highest mark the needles could reach as the sound of distant churning cylinders swelled softly in her headset. But until the *Prospect* completed its turn, she just had to continually repeat the process to keep the signal in her ears.
+The *Prospect* was still turning, apparently coming all the way around to something like a reverse course. With the signal constantly moving and the ship on the surface floating in a warmer layer of water far above the much colder layer the *Prospect* now moved through, it was getting difficult to keep the mics tracking the signal of the idling diesel engines. Cassandra gripped the steel of the directional control wheel --- still propping herself against the angle of the boat, which was starting to ease back towards level --- and turned it past the contact till the sound of it faded to almost nothing, and then back while watching the signal strength dials for the highest mark the needles could reach as the sound of distant churning cylinders swelled softly in her headset. But until the *Prospect* completed its turn, she would have to continually repeat this process to keep the signal in her ears.
 
-It was only a minute more before the signal stopped moving, and Cassandra realized it was because the *Prospect* had used up its reserve of forward momentum. She did a full circle with the microphones to make sure she wouldn't be surprised by anything unexpected in water around them. She could hear water very softly gurgling towards to the front. That would be Hemi pushing the excess water in the forward dive tanks overboard --- with very little pressure from the air system by barely hissing sound of it as he tried to stop the boat from sinking with as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must be deep enough to be near the maximum operating depth.
+A minute later the signal stopped moving, and Cassandra realized it was because the *Prospect* had used up its reserve of forward momentum. She did a full circle with the microphones to make sure she would not be surprised by anything unexpected in water around them. She could hear water very softly gurgling towards to the front. That would be Hemi pushing the excess water in the forward dive tanks overboard --- with very little pressure from the air system, by the barely hissing sound of it, as he tried to stop the boat from sinking with as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must be deep enough to be near the maximum operating depth.
+
+Another rising pulse of energy escaped from the far-off sounding signal as they let loose a ping. This time Cassandra left her headphones on, and closed her eyes as she listened to the chirp splatter against the cold-layer boundary above. The thermocline was bouncing the vast majority of the sound energy of the ping back upwards in random directions. For a split second there was a blurry splash of reverberating noise and Cassandra's receiving equipment made it sound in her ears like the ocean had split open above her until she could hear clear to the open sky. Enough of the ping's energy had permeated the thermocline to reach the *Prospect*, and Cassandra could still hear it straight through the hull, but it had the quality of someone lightly tapping a tuning fork in the next room. She opened her eyes and the ranging equipment showed a confused set of readings to her.
+
+"Captain Percy, if their signal for us is as shaky as ours is of them, I doubt they can track us under this thermocline at all."
+
+"Good. If they lost us, all we have to do is wait them out. And we can stay silent without moving down here for days if we have to."
+
+Often working on sonar made Cassandra feel like she had a super power --- the ability to hear, not just hear but see, through the ocean water for miles and miles in every direction. But that same ability --- when it went on for hours and hours without change or new input made her feel very small in a vast empty space. She did not relish the idea of another 48 hours without sleep tracking a weak signal. 
+
+For the next hour the pings came in more frantically frequent series, sometimes as many as twenty in a minute. But this made it clear that the surface ship had lost the *Prospect* completely, and was desperately searching. Between pings Cassandra could hear the slow roll of their engines and when she dialed in the filters just right she could hear the low swish of their turning props. They began a slow search pattern, circling in a widening spiral from the spot where they had lost contact with the *Prospect*. Because Captain Percy had slipped under the thermocline with the motors stopped the ship above had no hints on where the *Prospect* might lay.
+
+The pings came more slowly and regularly. At one point, as far as Cassandra could tell, the ship was directly overhead, and that was nerve-wracking. But it soon continued on its spiraling course. She was thankful that with the protection the thermocline she did not need to remove her headphones every time a ping passed through her equipment. She reflected that if she were the sonar operator on that ship she would switch to listening with passive microphones only. It was clear that the thermocline was reflecting back the high-energy sound waves of the active pinging sonar equipment. The lower-energy casual sounds of the ship seemed to do a better job of making their way through the thermocline. Her advice to the sonar operator on the ship would be to listen quietly for some kind of incidental sound --- a dropped tool or a tank trim adjustment. But in her opinion sonar operators on surface ships did not have that intuitive sense for how to search out objects in the expanses of deep water. Since submarines relied on their sonar operators as the only sensory input from outside the boat, submarine sonar operators just had a better ability to see the world through sound in the water around the boat. She was unsurprised that this ship was just banging away uselessly with active pings.
+
+As time passed Cassandra relaxed enough that the urge to sleep was coming back over her. She kept her bleary eyes opened and pinned on the gauges in front of her, and regularly did a full-circle look around the boat --- more to keep herself focused than because she expected a surprise guest.
+
+Hours passed like this, the *Prospect* sunk in a profound hovering silence. There was little movement through the boat. Percy had let her rudderman and planesman go to their racks to sleep. They were less likely to make a mistake that generated the kind of noise a passive sonar operator could detect on the ship above if they were asleep in bed than at sitting at the boat's controls with nothing to do. Percy was the only person remaining in the control room.
+
+Cassandra felt like an interred soul. The ocean sounded silent, black, and cold in every direction around her like a dream of death. Far above a demon circled, searching. But the quiet darkness had her mind sliding off of a bright conciousness. She knew she was going to lose herself to sleep if she didn't do something.
+
+Hemi, with his usual uncanny sense of every aspect of every person and machine that contributed to the boat's condition, arrived in the sonar compartment with another cup of coffee for her.
+
+She took it gratefully without a word. He sat down in the seat next to her and put on the spare sonar headset. Hemi was an excellent sonar operator himself --- he had initially trained Cassandra --- so giving him details of the situation by word was unnecessary. Instead Cassandra showed him the situation by turning the microphone directional control wheel in full circle while Hemi listened, taking in everything just as he had taught her to do herself.
 
 
-[//]: # (Another ping has to happen in here --- that bounces back up to the ship and swamps their detecting capabilities)
+
 
 
 

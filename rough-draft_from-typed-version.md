@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Thu Sep 08, 2022  01:20PM
+Last modified: Sat Sep 17, 2022  04:28PM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -496,7 +496,7 @@ Suddenly she opened her big eyes and looked at Percy. "What's that?" She whisper
 
 Percy turned up the volume on her headset. "I don't hear anything." Percy said. The younger woman had phenomenal ears, and Percy knew that.
 
-"Directly towards out bow. It's some kind of regular clicking."
+"Directly towards our bow. It's some kind of regular clicking."
 
 "Not a new contact then?"
 
@@ -505,7 +505,7 @@ Percy turned up the volume on her headset. "I don't hear anything." Percy said. 
 .... ...... ...  .... ..... ....... .. .....
 
 
-She tapped away vigorously. After a minute the patter had started to shift:
+She tapped away vigorously. After a minute the pattern had started to shift:
 
 ..... ..... .... ..... .... ...... ....
 

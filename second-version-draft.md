@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sat Sep 17, 2022  12:29PM
+Last modified: Sat Sep 17, 2022  03:52PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -309,15 +309,56 @@ Cassandra felt like an interred soul. The ocean sounded silent, black, and cold 
 
 Hemi, with his usual uncanny sense of every aspect of every person and machine that contributed to the boat's condition, arrived in the sonar compartment with another cup of coffee for her.
 
-She took it gratefully without a word. He sat down in the seat next to her and put on the spare sonar headset. Hemi was an excellent sonar operator himself --- he had initially trained Cassandra --- so giving him details of the situation by word was unnecessary. Instead Cassandra showed him the situation by turning the microphone directional control wheel in full circle while Hemi listened, taking in everything just as he had taught her to do herself.
+She took it gratefully without a word. He sat down in the seat next to her and put on the spare sonar headset. Hemi was an excellent sonar operator himself --- he had initially trained Cassandra --- so explicitly explaining the situation was unnecessary. Instead Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in everything just as he had taught her to do.
 
+"Hang on Cassandra... What is that sound... towards the bow, go back a bit."
 
+With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In hear ears she picked up what Hemi had caught.
+
+"Some kind of regularly clicking..."
+
+"It does not seem to be a new contact though."
+
+"No. Maybe something organic... like a dolphin or something." She breathed in and held her breath, listening deeply to the delicate and remote sound. The fingers of one hand very lightly turned the directional control wheel back and forth across the bearing of the sound trying to find the high point, while the fingertips of her other hand flipped switches to filter out certain frequencies and adjusted dials to bring up the volume on other frequencies. The sound was certainly directly in line with the bow of the boat. It was also extremely faint. She was impressed the Hemi had caught it.
+
+The sound was an array of clicks. She had indeed heard sounds like that from various cetaceans, but those animals emitted very strong sounds that had direction and purpose. They would pass the sound back and forth over whatever object or terrain they wanted information about --- like someone shining the beam of a light into a dark room. This sound had a rapid beat, with an irregular pattern:
+
+.... ...... ...  .... ..... ....... .. .....
+
+And it was not moving. She stopped making adjustments, satisfied that she had isolated the sound to the best of her equipment's ability.
+
+"Hemi, that sound is coming from the boat." She watched his face as he concentrated on the clicks in his headset.
+
+The pattern of the clicks remained irregular, presumably random, but it was slowly shifting:
+
+..... ..... .... ..... .... ...... ....
+
+Hemi lifted his headset from his ears and leaned back to call up to the control room. "Sylvia, you should probably hear this."
+
+Captain Percy slid down the ladder from the control room as Hemi flipped the switch to pipe the sound to the loudspeakers in the sonar compartment. Cassandra kept her headset on, preferring the higher definition of the earpieces to the loudspeakers.
+
+They listened for a few moments. Percy lit a cigarillo and sucked a long drag on it until the coal glowed. "What is that Hemi?"
+
+"I believe it is..."
+
+"I know what it is..." said Cassandra. "It's the wristwatches in the hold, ticking."
+
+"Can't fucking be... there's no way they would be so loud. And they would have wound down in storage."
+
+Hemi was listening intently. "No... Sylvia, I believe Cassandra is correct. The watches may have been wound up by some of the motion of the boat... and improbable as it may be, the ticking is slowly coming into alignment --- a single wristwatch would never be loud enough to be heard, but crates and crates of them --- if they were all ticking precisely at the same rate --- could potentially be heard on the sonar..."
+
+"Could potentially give us the fuck away Hemi! What are the fucking chances? This is some vengeful wrath-out-of-hell level shit. Like the rules of the games, strategy and cunning, don't fucking matter an iota if shit like this is going to happen to us!"
+
+"Randomness often aligns to some kind of order." Said Hemi.
+
+"What do we do?" Cassandra asked.
+
+"Call upon patience and luck." Said Hemi. "Order can arise from randomness, but entropy will re-assert itself eventually."
 
 
 
 
 [//]: # (See 'ticking watches' section --- you might be able to lift whole sections of dialog from there)
 
-[//]: # (This story might be able to capture the feeling of the nebula part of Wrath of Kahn --- slow, silent tension of watching the two ships pass silently by each other --- all happening in Cassandra's earphones maybe?)
 
 

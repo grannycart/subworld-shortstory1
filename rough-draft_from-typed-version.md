@@ -1,5 +1,5 @@
 ./rough-draft_from-typed-version.md
-Last modified: Sat Sep 17, 2022  04:28PM
+Last modified: Sun Sep 18, 2022  11:12AM
 
 # Subworld Short Story #1 -- Rough Draft From As-Typed Version
 
@@ -559,7 +559,7 @@ Percy watched the signal strength indicator on the sonar unit. With each pulse, 
 .
 .
 
-In the old days many submariners and sailors had been devoutly religious. It made sense: in a world of huge external forces, it was helpful to believe that one of those huge forces could be brought over to your side. "But," Percy thought to herself, "what kind of irony is it that now I need the forced of chaos to save us? I'm pretty sure no old sailor ever called on their got to impost chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
+In the old days many submariners and sailors had been devoutly religious. It made sense: in a world of huge external forces, it was helpful to believe that one of those huge forces could be brought over to your side. "But," Percy thought to herself, "what kind of irony is it that now I need the forces of chaos to save us? I'm pretty sure no old sailor ever called on their god to impose chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
 
 .
 .

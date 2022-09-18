@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sat Sep 17, 2022  03:52PM
+Last modified: Sun Sep 18, 2022  11:28AM
 
 # Subworld Short Story #1 -- Second version
 
@@ -355,10 +355,97 @@ Hemi was listening intently. "No... Sylvia, I believe Cassandra is correct. The 
 
 "Call upon patience and luck." Said Hemi. "Order can arise from randomness, but entropy will re-assert itself eventually."
 
+Cassandra closed her eyes and listened to the ticking. From the position of the passive sonar mics, it sounded like the whole boat was ticking. The beats of the thousands of ticking watches were slowly coming together into a regular rhythm.
+
+.... .. ..... .... 
+..... .... ...
+... .. ... ...
+... ... ...
+... .. ..
+.. ..
+.
+.
+
+Cassandra watched the signal strength indicator on the sonar unit. With each pulse, it climbed a little higher. There was some point --- she could hardly guess where --- that it would cross into an amplitude that the sonar operator on the ship above them would be able to hear. In Cassandra's headset the ticking pulsed with an energy that felt like it must be broadcasting through the water for miles. It was a sound that was centered right in the frequency ranges that traversed short distances of oceans well, potentially cutting right through the protection of the thermocline above.
+
+.
+.
+.
+.
+
+She rotated the directional wheel around to target the surface ship. Even with the mics pointed away from the watches in the forward part of the submarine, she could still hear them ticking in the background. The ship's engines on were still rolling along at a low RPM as they continued on their search pattern. She tracked them for a minute until she was sure they had not diverted from the arcing path of their current spiral.
+
+She turned the mics back around to point towards the bow of the submarine.
+
+.
+.
+.
+.
+
+In the old days many submariners and sailors had been devoutly religious. It made sense: in a world of huge external forces, it was helpful to believe that one of those huge forces could be brought over to your side. "But," Cassandra thought to herself, "what kind of irony is it that now we need the forces of chaos to save us? I'm pretty sure no old sailor ever called on their god to impose chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
+
+.
+.
+.
+.
+..
+
+"I've got a double-beat." Said Cassandra. Very suddenly a discernible second tick appeared in her headphones, inserting itself softly but surely in the gap between the strong slices marked out by the ticks one second apart.
+
+"That is almost certainly the beginning of the end of it..." Said Hemi.
+
+.
+..
+.
+.
+..
+.
+.
+...
+..
+.
+
+The beats slowly incorporated a chaotic rhythm into their pattern. And as each tick asserted its independence, the signal lost power.
+
+..
+...
+..
+....
+..
+.
+.....
+....
+...
+..
+
+"The ship on the surface has started their engines again." Said Cassandra. She swung the sonar direction over to the bearing of the engine noise.
+
+"Can you still hear the watches?"
+
+"No. Not at all." Said Hemi.
+
+"Captain Percy..." Cassandra was listening carefully to the headset.
+
+"What? More fucking bad news?"
+
+[//]: # (Obviously this ending needs work)
+
+"No... in fact it seems like we are quite a bit further from the contact than when they stopped their engines... nearly a quarter mile now."
+
+"We must have picked up a strong current in the depth Sylvia." Said Hemi.
+
+"So if we sit tight, we will float right away from those fuckers."
+
+"That seems right." Said Hemi.
+
+"Or, you might say randomness and chaos saved our ass twice in a matter of minutes."
+
+She lit a cigarillo and climbed to the control room. She smoked it down slowly while staring at the unmoving gauges on the wall in front of her."
 
 
 
-[//]: # (See 'ticking watches' section --- you might be able to lift whole sections of dialog from there)
+
+
 
 
 

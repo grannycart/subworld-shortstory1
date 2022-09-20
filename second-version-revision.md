@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Tue Sep 20, 2022  01:50PM
+Last modified: Tue Sep 20, 2022  01:57PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -21,17 +21,16 @@ The sound also had a direction to it. From the surface above came the unique and
 
 The pads of her fingers rested on the top of the smooth steel curve of the small wheel with its hard little finger-bumps molded into it. The wheel controlled the direction the underwater microphones pointed. Outside the boat, the microphones slowly rotated around with the turning wheel. She scanned her eyes over the instrumentation --- occasionally the electronic indicators could catch a signal before her ears did. But that was rare. Her primary equipment was the headphones. The sounds that came through transmitted a picture of the surrounding water to her. All the gauges and dials were supplemental to that picture that was in her head, like an engraved image that accompanied the text of a novel. 
 
+After a couple of passes, she was sure there was nothing nearby but empty water. Now she engaged some of the electronic filters that did a reasonable job of cutting down the frequencies of the sounds that came from the surface chop. This is where the more sophisticated electronics of the sonar rig could occasionally shine --- by filtering out specific frequencies she could focus in on more distant and dimmer sounds. Her ear interpreted the shift in the white-noise hiss of sound as the filters came online as listening further out. Scanning further out meant turning the directional wheel more slowly, since she was covering much greater distances. A careful scan at maximum range could take her ten minutes or more. The biggest challenge was remaining focused on the unchanging sound in her ears. The hovering little signal-strength gauges did help with that by giving her something to look at while scanning with her ears. Still, she often closed her eyes and would immerse herself in the slowly-shifting passes of ocean noise. Often it seemed she could feel the long-amplitude heave of the big global swells that passed her by, like giant parents stepping over small sleeping children with a fear of waking them.
+
+She took a sip of her coffee. It barely retained any heat, and now she could taste the caked char of the over-roasted stale coffee grounds spreading like an icing across her tongue buoyed by the chemical catalyst of the artificial creamer. Those damn metal cups: burn-your-fingers hot when the coffee is first poured, and always cold by the second sip.
+
+With one hand on the directional wheel, she rolled the microphones past the stern. The slightest extra whir in her ears told her to pause for a second as the microphones passed just to the side of their stern. She returned her coffee cup to the sill with its forest of brown rings and curled the fingers of both her hands around grip of the directional wheel.
+
+She closed her eyes and with barely perceptible movements turned back and forth across the bearing where she thought she had heard the distant whir. There was nothing. And then maybe there was something. Without opening her eyes she moved a hand to flip some adjusting switches that enabled and disabled various frequency gains. The hiss in her headphone changed with the switches --- slightly fewer higher frequencies, more rushing low notes. 
+
 [//]: # (--- EDITED TO HERE ---)
-
-After a couple of passes, she was sure there was nothing nearby but empty water. Now she engaged some of the electronic filters that did a reasonable job of cutting down the frequencies of the sounds that came from the surface chop. This is where the more sophisticated electronics of the sonar rig could occasionally shine --- by filtering out specific frequencies she could focus in on more distant and dimmer sounds. Her ear interpreted the shift in white-noise hiss of sound as the filters came online as listening further out. Scanning further out meant turning the directional wheel more slowly, since she was covering much greater distances. A careful scan at maximum range could take her ten minutes or more. The biggest challenge was remaining focused on the unchanging sound in her ears. The hovering little signal-strength gauges did help with that by giving her something to look at while scanning with her ears. Still, she often closed her eyes and would immerse herself in the slowly-shifting passes of ocean white noise. Often it seemed she could feel the long-amplitude heave of the big global swells that passed her by, like giant parents stepping over small sleeping children with a fear of waking them.
-
-She took a sip of her coffee. It barely retained any heat, and now she could taste the caked char of the over-roasted stale coffee grounds spreading like an icing across her tongue on the chemical catalyst of the artificial creamer. Those damn metal cups: burn-your-fingers hot when the coffee is first poured, and always cold by the second sip.
-
-With one hand on the directional wheel, she rolled the microphones past the direction of the stern. The slightest extra whir in her ears told her to pause for a second as the microphones passed just to the side of their stern. She returned her coffee cup to the sill with its forest of brown rings and curled the fingers of both her hands around the directional wheel.
-
 [//]: # (1k more words)
-
-She closed her eyes and with barely perceptible movements turned the directional wheel back and forth across the bearing where she thought she had heard the distant whir. There was nothing. And then maybe there was something. Without opening her eyes she moved a hand to flip some adjusting switches that enabled and disable various frequency gains. The hiss in her headphone changed with the switches --- slightly fewer higher frequencies, more rushing low notes. 
 
 As if sensing something, the control room requested a report from her. "Anything on the sonar Cassandra?"
 

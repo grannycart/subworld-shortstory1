@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 22, 2022  01:08PM
+Last modified: Thu Sep 22, 2022  05:27PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -87,25 +87,24 @@ The next time the diesels shut down, Cassandra quickly found the contact and cou
 
 The increased signal strength was unfortunate but not unexpected. If the ship behind was tracking them on radar, then seeing the radar signal weaken or disappear would spur them to close the distance to the point where they lost contact. Cassandra no longer had any doubt that they were being pursued. Speed was not the submarine's strong suit. If their pursuers were some kind of official or military vessel, they were going to overrun the submarine eventually. If they must lose these pursuers, other tactics would be required.  But it was likely Captain Percy was hoping to make it to dawn before employing those tactics.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (1k more words)
-
 For the next four hours it was start and stop with the diesels. Cassandra tracked the two vessels in her head from nothing but the sounds in her ears and the marks in her notes and on her gauges. 
 
-Each time the diesels stopped, Hemi would slide down the ladder, take her readings and mark down the relative positions of the two vessels on the navigation chart. When Cassandra looked at the chart she was pleased to see the hash marks coincided precisely with what she was holding in her mind's eye. But Hemi's hash marks marched steadily towards each other across the chart. There was no question that their pursuers were gaining on them.
+Each time the diesels stopped, Hemi would slide down the ladder, take her readings and mark down the relative positions of the two vessels on the navigation chart. When Cassandra looked at the chart she was pleased to see that Hemi's marks coincided precisely with what she was holding in her mind's eye. But the hash marks marched across the chart, one set closing in steadily on the other. There was no question that their pursuers were gaining on them.
 
 "This is unproductive Hemi. We can keep the wheels turning at full RPMs, and they can chase us across the open ocean for days. Eventually they will catch us though, don't you think?
 
-"There is no question about it. Though it would not be days. Look at the math: if you run out the speed they are gaining on us, they would catch us before noon tomorrow. Even in the days when ships had sails a sea chase was often just a matter of physics. Two ships rig for their fastest possible speeds, and the faster ship --- even if just slightly faster --- will eventually win out. It is not like a footrace where there is no telling the endurance of your opponent."
+"There is no question about it. Though it would not be days. Look at the arithmetic: if you run out the speed they are gaining on us to its end result, they would catch us before noon tomorrow. Even in the days when ships had sails a sea chase was often just a matter of physics. Two ships rig for their fastest possible speeds, and the faster ship --- even if just slightly faster --- will eventually win out. It is not like a footrace where there is no telling the endurance of your opponent."
 
 "But that is where we can take advantage of being a submarine --- we have other options we can employ."
 
 "And because of that we will dive sometime in the next hour, I think." Said Hemi. "I am sure Captain Percy will want to get under before the dawn light comes up."
 
-Cassandra was exhausted. The only sleep she had gotten in the last twenty-four hours was the little naps while the diesels were running. That was not the kind of sleep she needed by any means. As soon as the boat submerged she would lose even those little interstitial breaks. She would be expected to giving the sonar her full attention, without breaks.
+Cassandra was exhausted. The only sleep she had gotten in the last twenty-four hours was the little naps while the diesels were running. That was not the kind of sleep she needed. As soon as the boat submerged she would lose even those little interstitial breaks. She would be expected to give the sonar her full attention, without breaks.
 
-Two more more of the twenty-minute cycles passed. During each Cassandra dutifully reported the closing distance of the following ship. Between listening sessions Hemi came down and told her that the contact was close enough that they could make out the shadow of the superstructure against the horizon from the bridge now. Hemi was convinced it was some kind of military enforcer ship. He was sure it was an armed warship of some kind. Hemi was not often wrong about that kind of thing.
+Two more more of the twenty-minute cycles passed. During each, Cassandra dutifully reported the closing distance of the following ship. Between listening sessions Hemi came down and told her that the contact was close enough that from the bridge they could now make out details in the shadow of the superstructure against the horizon. Hemi was certain it was some kind of military enforcer ship. He was sure it was an armed warship of some kind. Hemi was not often wrong about that kind of thing.
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (1k more words)
 
 "Would you believe they even turned a spotlight on? Played it out over the water, clearly searching for us. Clearly not concerned about us knowing where they are."
 

@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 22, 2022  05:27PM
+Last modified: Fri Sep 23, 2022  01:11PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -101,32 +101,33 @@ Each time the diesels stopped, Hemi would slide down the ladder, take her readin
 
 Cassandra was exhausted. The only sleep she had gotten in the last twenty-four hours was the little naps while the diesels were running. That was not the kind of sleep she needed. As soon as the boat submerged she would lose even those little interstitial breaks. She would be expected to give the sonar her full attention, without breaks.
 
-Two more more of the twenty-minute cycles passed. During each, Cassandra dutifully reported the closing distance of the following ship. Between listening sessions Hemi came down and told her that the contact was close enough that from the bridge they could now make out details in the shadow of the superstructure against the horizon. Hemi was certain it was some kind of military enforcer ship. He was sure it was an armed warship of some kind. Hemi was not often wrong about that kind of thing.
-[//]: # (--- EDITED TO HERE ---)
+Two more more of the twenty-minute cycles passed. During each, Cassandra dutifully reported the shortening distance to the following ship. Between listening sessions Hemi came down and told her that the contact was close enough that from the bridge they could now make out details in the shadow of the superstructure against the horizon. Hemi was certain it was some kind of military enforcer ship --- an armed warship of some kind. Hemi was not often wrong about that kind of thing.
 
-[//]: # (1k more words)
-
-"Would you believe they even turned a spotlight on? Played it out over the water, clearly searching for us. Clearly not concerned about us knowing where they are."
+"Would you believe they even turned a spotlight on? Played it out over the water, searching for us. Clearly not concerned about us knowing where they are."
 
 "That's a terrifying thought. It means they know we're unarmed."
 
-"It also means that they do not know precisely where we are --- it is likely they are only tracking us via radar, so as soon as we dive we have a good chance of losing them."
+"It also means that they do not know precisely where we are --- they may only be tracking us with radar not sonar, and maybe having trouble with that. So as soon as we dive we have a good chance of losing them."
 
 "The sooner the better then."
 
-As if Captain Percy had been listening to their conversation, word came down to prepare to dive. The diesels died away one final time to leave the blessed silence behind them. But this time they left behind the more subtle hum of the electric motors --- still turning the props, but powered by the batteries now.
+As if Captain Percy had been listening to their conversation, word came down to prepare to dive. The diesels died away one final time to leave the blessed quiet behind them. But this time they also left behind the more subtle hum of the electric motors --- still turning the props, but powered by the batteries now.
 
-This was the configuration that Cassandra was most comfortable with. While running on batteries there was still plenty of sonic room for her to listen carefully to the water all around them. And she knew precisely which filters she liked to have applied to drain out the buzzing electric motors from her headset and leave behind the swishing and washing sound of just the ocean. At least in every direction except dead astern, where the turning props stirred up enough noise that it clipped off the distance she could hear at just the length of the boat.
+This was the configuration that Cassandra was most comfortable with. While running on batteries there was plenty of sonic room for her to listen carefully to the surrounding water. And she knew precisely which filters she liked to apply to drain out the buzzing electric motors from her headset and leave just the swishing and washing sound of the ocean, which she could hear for miles in every direction. At least this was true in every direction except dead astern, where the turning props stirred up enough noise that it clipped off the distance she could hear at more or less the length of the boat.
 
-The boat hadn't dived yet though. They were still running on the surface even though they were now powered by the batteries. Apparently Captain Percy was going to make sure everything was in the best order it could be before the boat submerged potentially for the next twelve hours of daylight. This was no emergency dive. They would go down slowly, with deliberation and full control.
+The boat had not dived yet though. They were still running on the surface even though they were now powered by the batteries. Apparently Captain Percy was going to make sure everything was in the best order it could be before the boat submerged for the next twelve hours of daylight or more. This was no emergency dive. They would go down slowly, with deliberation and full control.
 
-But after ten minutes or so the pipes in the sonar compartment once again were pressed through with thousands of gallons of water. This time, without the diesels running, Cassandra could hear the operations of the ship through her headset. She turned the directional wheel around listening to the machines do its work, making sure everything was happening the way it was supposed to, mostly to reassure herself. She was sure if something went wrong the system alarms in the control room would indicate it before she heard anything amiss. 
+But after ten minutes or so the pipes through the sonar compartment once again were rushing with the sound of thousands of gallons of water passing. This time, without the diesels running, Cassandra could hear the operations of the ship through her headset. She turned the microphones around listening to the buoyancy and control systems of the boat do their work, making sure everything was happening the way it was supposed to. Mostly this was just to reassure herself, if something went wrong the system alarms in the control room would probably indicate it before she heard anything amiss. 
 
-She could hear the valves at the top of the buoyancy tanks pop open, and the rush of air escaping from the top of the boat as the water flowed into the tanks from underneath. She turned the mics and could hear the servos driving the dive planes into a downward setting.
+She could hear the valves at the top of the buoyancy tanks pop open, and the rush of air escaping above the boat as the water flowed into the tanks from underneath. She turned the mics and could hear the servos steering the dive planes into a downward setting.
 
 The bottom dropped out from under her and the boat sank.
 
 It was only seconds before she heard the valves above the main buoyancy tanks snap closed again --- neutral buoyancy only required them to be partially full of water --- and the dive plane servos whirred slightly as the boat leveled off at a couple of hundred feet down. For the next few minutes she heard various pumps come on and off and valves open and close as Hemi trimmed the boat front to back and side to side by making adjustments to how much water was in the smaller buoyancy tanks that controlled trim.
+
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (1k more words)
 
 She focussed her attention on the sounds around the boat rather than the boat itself. The spatial quality she could hear had changed --- it now felt more three-dimensional. She could hear the surface farther away above her head, and the bottomless hole underneath her. Cassandra set her filters to block boat noises and circled the microphones around. The water was completely empty. She had lost her contact.
 

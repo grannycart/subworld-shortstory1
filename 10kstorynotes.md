@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Tue Sep 06, 2022  01:19PM
+Last modified: Sun Sep 25, 2022  04:35PM
 
 
 # 10k-word short story notes
@@ -11,6 +11,7 @@ Last modified: Tue Sep 06, 2022  01:19PM
 
 ## Initial notes
 :notes:
+* Go through story and see if you can more elegantly massage the dialog -- say, if a character enters, do you need to credit their dialog with a: character said.
 * For revised version of story:
 	* it's _all_ from Cassandra's perspective at the sonar station
 	* it's a little more stylistic/artier. Maybe do a draft with the style of Gaddis, including emdashes

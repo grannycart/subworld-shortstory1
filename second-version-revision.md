@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Sep 25, 2022  12:03PM
+Last modified: Sun Sep 25, 2022  04:42PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -377,11 +377,21 @@ Cassandra watched the signal strength indicator on the sonar unit. With each pul
 .
 .
 
-She rotated the directional wheel around to target the surface ship. Even with the mics pointed away from the watches in the forward part of the submarine, she could still hear them ticking in the background. The engines of the ship above were still rolling along at a low frequency as they continued their search pattern. She tracked them for a minute until she was sure they had not diverted from the arcing path of their current search spiral.
+She rotated the directional wheel around to target the surface ship. Even with the mics pointed away from the watches in the forward part of the submarine, she could still hear them ticking in the background. She focused on the engines of the ship above. They were emitting a growling low frequency that didn't vary --- the ship was moving very slowly, searching for the *Prospect* with their passive sonar microphones. Cassandra scratched down a continuous stream of notes marking the speed, direction, and bearing of the ship at tiny increments. When she looked over them, the marks drew the image of an arc in her mind --- the current path of their increasing search spiral.
 
-[//]: # (the ship should turn towards them, it should detect them and then track them, though confusedly -- on an off their course since the signal is faint --- all in Cs headphones of course)
+And then the sound of their diesels suddenly dropped away and left nothing but the ticking watches in her ears.
 
-She turned the mics back around to point towards the bow of the submarine.
+.
+.
+.
+
+Even with the mics aimed almost behind the boat to target the ship on the surface, she could still see the wristwatches ticking in their eerie synchronicity, bouncing the signal strength meter once per second, like a chopping knife slicing up time.
+
+.
+.
+.
+
+She kept the microphones pointed towards the last location she heard the ship. After a minute of nothing but the nerve-wracking ticking splashing over her senses, she heard a distant electric whine, and then the cough of the ship's diesels starting up again. Her fingers tightened around the microphone wheel. The signal was moving again. She slowly rolled the wheel under her palms. It only took seconds for her to understand that they had turned from their previous course. She tracked them another moment, and then was sure: they had turned towards the *Prospect*.
 
 .
 .
@@ -395,7 +405,7 @@ In the old days many submariners and sailors had been devoutly religious. It mad
 .
 ..
 
-A discernible second tick suddenly appeared in her headphones, inserting itself softly but surely in the gap between the strong slices marked out by the ticks one second apart. "I've got a double-beat." Said Cassandra.
+A discernible second tick suddenly appeared in her headphones, inserting itself softly but surely in the gap between the strong slices marked out by the ticks one second apart. "I've got a double-beat."
 
 "That is almost certainly the beginning of the end of it..." Said Hemi.
 
@@ -429,7 +439,7 @@ The beats slowly incorporated a chaotic rhythm into their pattern. And as each t
 
 "What? More fucking bad news?"
 
-[//]: # (Obviously this ending needs work)
+[//]: # (Obviously this ending needs work: even after the ticking breaks up, the ship is still approaching --- fear that they are still screwed, until C realizes by the sound that they have picked up a strong deep current and are steadily shifting away from the last location of the ticking even without starting the motors.)
 
 "No... in fact it seems like we are quite a bit further from the contact than when they stopped their engines... nearly a quarter mile now."
 

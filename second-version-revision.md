@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Thu Sep 29, 2022  01:24PM
+Last modified: Fri Sep 30, 2022  06:40PM
 
 # Subworld Short Story #1 -- Second version
 
@@ -285,11 +285,9 @@ The *Prospect* was still turning, apparently coming all the way around to someth
 
 [//]: # (--- EDITED TO HERE ---)
 
-[//]: # (1k more words)
+It was not long before the signal stopped moving through her headset. Cassandra understood the *Prospect* had used up its reserve of forward momentum and now sat unmoving in the water. She did a full circle with the microphones to make sure she would not be surprised by anything unexpected around them. As the mics turned passed the bow of the boat she could hear water very softly gurgling. That would be Hemi pushing the excess water in the forward dive tanks overboard --- from the soft hiss she guessed he was using only a small amount of pressure from the air system as he tried to stop the boat from sinking while still giving up as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must have already sank deep enough to be near the maximum operating depth of the boat. She was never comfortable when Captain Percy pushed the submarine to its limits. She did not have the faith in the qualities of the aging machines that Captain Percy and Hemi did.
 
-A minute later the signal stopped moving, and Cassandra realized it was because the *Prospect* had used up its reserve of forward momentum. She did a full circle with the microphones to make sure she would not be surprised by anything unexpected in water around them. She could hear water very softly gurgling towards to the front. That would be Hemi pushing the excess water in the forward dive tanks overboard --- with very little pressure from the air system, by the barely hissing sound of it, as he tried to stop the boat from sinking with as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must be deep enough to be near the maximum operating depth.
-
-Another rising pulse of energy escaped from the far-off sounding signal as they let loose a ping. This time Cassandra left her headphones on, and closed her eyes as she listened to the chirp splatter against the cold-layer boundary above. The thermocline was bouncing the vast majority of the sound energy of the ping back upwards in random directions. For a split second there was a blurry splash of reverberating noise and Cassandra's receiving equipment made it sound in her ears like the ocean had split open above her until she could hear clear to the open sky. Enough of the ping's energy had permeated the thermocline to reach the *Prospect*, and Cassandra could still hear it straight through the hull, but it had the quality of someone lightly tapping a tuning fork in the next room. She opened her eyes and the ranging equipment showed a confused set of readings to her.
+Another rising pulse of energy escaped from the far-off sounding signal as they let loose a ping. This time Cassandra left her headphones on, and closed her eyes as she listened to the chirp splatter against the cold-layer boundary above. The thermocline was bouncing the vast majority of the sound energy back upwards in random directions. For a split second there was a blurry splash of reverberating noise and Cassandra's receiving equipment made it sound in her ears like the ocean had split open above her until she could hear clear to the open sky. Enough of the ping's energy had permeated the thermocline to reach the *Prospect*, and Cassandra could still hear it through the hull without the aid of the sonar, but it had the quality of someone lightly tapping a tuning fork in the next room. She opened her eyes and the ranging equipment showed a confused set of readings to her.
 
 "Captain Percy, if their signal for us is as shaky as ours is of them, I doubt they can track us under this thermocline at all."
 
@@ -306,6 +304,8 @@ As time passed Cassandra relaxed enough that the urge to sleep was coming back o
 Hours passed like this, the *Prospect* sunk in a profound hovering silence. There was little movement through the boat. Percy had let her rudderman and planesman go to their racks to sleep. They were less likely to make a mistake that generated the kind of noise a passive sonar operator could detect on the ship above if they were asleep in bed than at sitting at the boat's controls with nothing to do. Percy was the only person remaining in the control room.
 
 Cassandra felt like an interred soul. The ocean sounded silent, black, and cold in every direction around her like a dream of death. Far above a demon circled, searching. But the darkness had her mind sliding off bright conciousness. She knew she was going to lose herself to sleep if she didn't do something.
+
+[//]: # (1k more words)
 
 [//]: # (Here begin ticking watches conclusion)
 

@@ -1,5 +1,5 @@
 README.md
-Last modified: Tue Sep 20, 2022  01:26PM
+Last modified: Sat Oct 01, 2022  03:12PM
 
 # Untitled Subworld Short Story 1 
 * By Mark Torrey
@@ -10,15 +10,19 @@ Last modified: Tue Sep 20, 2022  01:26PM
 	* (Or just read the markdown, available in source.) 
 
 ## Files
-* [second-version-revision.md](./second-version-revision.md)
-	* First draft of an all-Cassandra/sonar set story. Starts with sonar and skips the radar chase section. 
-* [rough-draft_from-typed_ensemble-cast-version.md](rough-draft_from-typed_ensemble-cast-version.md)
+* [second-version_revision1.md](second-version_revision1.md)
+* [second-version_draft_in-ears.md](second-version_draft_in-ears.md)
+	* Draft of an all-Cassandra/sonar focused version of the listening to watches ticking through sonar story. 
+	* Starts with sonar and skips the radar chase section. 
+* [first-version_rough-draft_from-typed_ensemble-cast.md](first-version_rough-draft_from-typed_ensemble-cast.md)
 	* The first draft version of listening to the watches ticking through the sonar.
 	* Ensemble cast version: follows the thoughts and dialog of a number of characters.
 	* This was the first version, typed on the typewriter and then entered as an .md file
 	* Includes a long chase scene, mostly set on the bridge (could be used in another story since it isn't really connected in any way to the sonar scenes)
-* 10kstorynotes.md
+* [10kstorynotes.md](10kstorynotes.md)
 	* Notes for content, plot outlines 
+* [submission-note-to-harpers.md](submission-note-to-harpers.md)
+	* Notes/draft for letter to accompany a submission to Harper's. (Or lots of other places with similar standards as Harper's.) 
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International

@@ -1,11 +1,8 @@
 second-version-draft.md
-Last modified: Sat Oct 01, 2022  12:03PM
+Last modified: Sat Oct 01, 2022  05:05PM
 
-# Subworld Short Story #1 -- Second version
 
-[//]: # (Think of the story as a sculpture.)
-
-[//]: # (When reviewing: make sure you are staying in Cassandras ears. Dont slip into telling whats happening, describe it via sound.)
+# Subworld Short Story #1 -- Second version, draft
 
 A cup of coffee appeared in the empty space before her eyes suspended from thick fingertips by the rim of the cup. The skin on those fingers was dry and cracked around thick callouses, and each crack was lined in black. The cup was made of stamped and rolled metal, the outside coated in a dipped rubber. The rubber coating was also cracked and worn away in places much like the fingers above.
 
@@ -17,7 +14,7 @@ There was a rush of noise -- the microphones were overwhelmed by the sound of th
 
 The silence was the signal for her to go to work. Her fingertips reversed the settings from a moment ago, and the signal in her headset grew louder as she increased the gain. The sound remained a white-noise hiss, but where the noise of the diesel engines had been flat and featureless, now she could hear an additional spatial quality. The sound expanded around her. She knew from experience that she could hear for miles and miles underwater. And experience had trained her mind to shift into a mode where she understood the particular hiss she now had in her headphones as depth -- miles and miles of a fat column of water in every direction that she pointed her microphones.
 
-The sound also had a direction to it. From the surface above came the unique and subtly varying roll and hiss of the waves, which gave her a sense of "up." And those waves also slid along the hull in a particular way, so her mind knew from the sound alone when the mics were pointed out to one side or the other of the boat. The bow also created the unique sound of waves cracking and splitting against it. So her ears knew which was was forward as well.
+The sound also had a direction to it. From the surface above came the unique and subtly varying roll and hiss of the waves, which gave her a sense of "up." And those waves also slid along the hull in a particular way, so her mind knew from the sound alone when the microphones were pointed out to one side or the other of the boat. The bow also created the unique sound of waves cracking and splitting against it. So her ears knew which was was forward as well.
 
 The pads of her fingers rested on the top of the smooth steel curve of the small wheel with its hard little finger-bumps molded into it. The wheel controlled the direction the underwater microphones pointed. Outside the boat, the microphones slowly rotated around with the turning wheel. She scanned her eyes over the instrumentation -- occasionally the electronic indicators could catch a signal before her ears did. But that was rare. Her primary equipment was the headphones. The sounds that came through transmitted a picture of the surrounding water to her. All the gauges and dials were supplemental to that picture that was in her head, like an engraved image that accompanied the text of a novel. 
 
@@ -119,7 +116,7 @@ The boat had not dived yet though. They were still running on the surface even t
 
 But after ten minutes or so the pipes through the sonar compartment once again were rushing with the sound of thousands of gallons of water passing. This time, without the diesels running, Cassandra could hear the operations of the ship through her headset. She turned the microphones around listening to the buoyancy and control systems of the boat do their work, making sure everything was happening the way it was supposed to. Mostly this was just to reassure herself, if something went wrong the system alarms in the control room would probably indicate it before she heard anything amiss. 
 
-She could hear the valves at the top of the buoyancy tanks pop open, and the rush of air escaping above the boat as the water flowed into the tanks from underneath. She turned the mics and could hear the servos steering the dive planes into a downward setting.
+She could hear the valves at the top of the buoyancy tanks pop open, and the rush of air escaping above the boat as the water flowed into the tanks from underneath. She turned the microphones and could hear the servos steering the dive planes into a downward setting.
 
 The bottom dropped out from under her and the boat sank.
 
@@ -233,7 +230,7 @@ Percy reached across Cassandra and put the mic back on its clip. She flipped the
 
 "Yes Captain Percy." Cassandra settled the headset back over her ears as Percy climbed to the control room.
 
-In her earphones Cassandra could hear the hiss of compressed air in every direction as she turned the mics around. The high pitch of the moving air was often accompanied by the much lower-pitched sound of rushing water. That was Hemi pushing water around inside the *Prospect's* trim tanks. The boat gently dipped forward and back like one of those drinking birds as he moved thousands of pounds of ballast water around. The goal was to leave the boat exactly as trim as before Hemi started, but to make it sound to someone listening on sonar as if they were blowing air in the tanks to gain buoyancy to surface. Cassandra was sure that she would never fall for that ruse -- the accompanying sound of water moving through the boat would tell the careful listener that they weren't just blowing in air. Besides, a submarine would have little call for blowing air into the tanks at the depth they were at. In most cases, they would just drive the neutrally-buoyant boat up to the just below the surface, and then blow air in with compressors running to fully break the surface. 
+In her earphones Cassandra could hear the hiss of compressed air in every direction as she turned the microphones around. The high pitch of the moving air was often accompanied by the much lower-pitched sound of rushing water. That was Hemi pushing water around inside the *Prospect's* trim tanks. The boat gently dipped forward and back like one of those drinking birds as he moved thousands of pounds of ballast water around. The goal was to leave the boat exactly as trim as before Hemi started, but to make it sound to someone listening on sonar as if they were blowing air in the tanks to gain buoyancy to surface. Cassandra was sure that she would never fall for that ruse -- the accompanying sound of water moving through the boat would tell the careful listener that they weren't just blowing in air. Besides, a submarine would have little call for blowing air into the tanks at the depth they were at. In most cases, they would just drive the neutrally-buoyant boat up to the just below the surface, and then blow air in with compressors running to fully break the surface. 
 
 But a sonar operator who works on a surface ship might not be as steeped in the finer points of submarine operation as someone who worked underwater daily. Unless they had been trained well at hunting submarines, the sonar operator on the ship above might very well mistake the sounds of lightly blowing tanks for the first moves towards surfacing, buying the *Prospect* a short window of time.
 
@@ -243,7 +240,7 @@ It did not last long though. Hemi only had to blast air a couple of times and th
 
 It hung in the water for just a beat of silent contemplation before the electric motors wound up and hummed at a low pitch, slowly pushing forward. Percy was clearly in no rush to move away. As she had told Cassandra: the plan was to hide first, then run. But how was it possible to hide? Cassandra figured they had exactly the amount of time until the sonar operator on the ship above decided to check their location with another ping. There was no reason for that operator to wait: it would likely be a matter of minutes, if not seconds.
 
-Cassandra caught the very short whine of the big servos that controlled the dive planes. That signaled a change in depth: down or up. There was no immediate way to tell from the sound, but she could feel from the angle of the deck that the bow was rising very slightly. So still the ruse. They were indeed very, very slowly climbing towards the surface. The sound of the softly idling diesel engine above slowly rotated around in her headphones, passing from one ear to the other. The *Prospect* was turning as if to come about and up to the surface near the point where the ship was stopped. Cassandra kept turning the mics to track the ship. The idling motor sound was soon nearly directly to the starboard side.
+Cassandra caught the very short whine of the big servos that controlled the dive planes. That signaled a change in depth: down or up. There was no immediate way to tell from the sound, but she could feel from the angle of the deck that the bow was rising very slightly. So still the ruse. They were indeed very, very slowly climbing towards the surface. The sound of the softly idling diesel engine above slowly rotated around in her headphones, passing from one ear to the other. The *Prospect* was turning as if to come about and up to the surface near the point where the ship was stopped. Cassandra kept turning the microphones to track the ship. The idling motor sound was soon nearly directly to the starboard side.
 
 The ping came. Off with the headset, the ringing blast waking Cassandra from her reverie. Even though she knew it was coming it still shook her. The scene in her head -- of the ship above, the *Prospect's* speed and course, the surrounding empty water -- quavered and rippled like she had been gazing at a reflected image in a puddle and someone had dropped a pebble in front of her. It took a minute or two after she returned the headsets and had a look around with the microphones for the scene to settle back into a clear image again.
 
@@ -281,7 +278,7 @@ Cassandra pulled an earpiece off and leaned back. "Captain Percy, I think we pas
 
 "With any luck 'diffuse and scattered' is exactly how we'll look to them next time they try to ping us too. Keep at it Cassandra!"
 
-The *Prospect* was still turning, apparently coming all the way around to something like a reverse course. With the signal constantly moving and the ship on the surface floating in a warmer layer of water far above the much colder layer the *Prospect* now moved through, it was getting difficult to keep the mics pointed at the signal of the idling diesel engines. Cassandra gripped the steel of the directional control wheel -- still propping herself against the angle of the boat, which was starting to ease back towards level -- and turned it past the contact till the sound of it faded to almost nothing, and then back while watching the signal strength dials for the highest mark the needles could reach. The sound of distant churning cylinders swelled softly in her headset. Until the *Prospect* completed its turn, she would have to continually repeat this process to keep the signal in her ears.
+The *Prospect* was still turning, apparently coming all the way around to something like a reverse course. With the signal constantly moving and the ship on the surface floating in a warmer layer of water far above the much colder layer the *Prospect* now moved through, it was getting difficult to keep the microphones pointed at the signal of the idling diesel engines. Cassandra gripped the steel of the directional control wheel -- still propping herself against the angle of the boat, which was starting to ease back towards level -- and turned it past the contact till the sound of it faded to almost nothing, and then back while watching the signal strength dials for the highest mark the needles could reach. The sound of distant churning cylinders swelled softly in her headset. Until the *Prospect* completed its turn, she would have to continually repeat this process to keep the signal in her ears.
 
 It was not long before the signal stopped moving through her headset. Cassandra understood the *Prospect* had used up its reserve of forward momentum and now sat unmoving in the water. She did a full circle with the microphones to make sure she would not be surprised by anything unexpected around them. As the mics turned passed the bow of the boat she could hear water very softly gurgling. That would be Hemi pushing the excess water in the forward dive tanks overboard -- from the soft hiss she guessed he was using only a small amount of pressure from the air system as he tried to stop the boat from sinking while still giving up as little noise as possible. Cassandra hoped he got the *Prospect* neutrally buoyant quickly, by her estimate they must have already sank deep enough to be near the maximum operating depth of the boat. She was never comfortable when Captain Percy pushed the submarine to its limits. She did not have the faith in the qualities of the aging machines that Captain Percy and Hemi did.
 
@@ -307,39 +304,39 @@ Cassandra felt like an interred soul. The ocean sounded silent, black, and cold 
 
 Hemi, with his usual uncanny sense of every aspect of every person and every machine that contributed to the boat's condition, arrived in the sonar compartment with another cup of coffee for her.
 
-She took it gratefully without a word. He sat down in the seat next to her and put on the second sonar headset. Hemi was an excellent sonar operator himself -- he had initially trained Cassandra -- so explicitly explaining the situation was unnecessary. Instead Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in the whole sweep of the ocean just as he had taught her to do.
+She took it gratefully without a word. He sat down in the seat next to her and put on the second sonar headset. Hemi was an excellent sonar operator himself -- he had initially trained Cassandra -- so instead of explicily explaining the situation, Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in the whole sweep of the ocean just as he had taught her to do.
 
 "Wait Cassandra. What is that sound... towards the bow, roll back the other way a small amount."
 
-With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In hear ears she picked up what Hemi had caught. A current of faintly pulsing rapid clicks, carried to her microphones on the underside of the typical swish and swell of active ocean sounds.
+With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In hear ears she picked up what Hemi had heard. A current of faintly pulsing rapid clicks, carried to her microphones on the underside of the typical swish and swell of active ocean sounds.
 
 "Some kind of regular clicking..."
 
 "I would not judge that a new contact though."
 
-"No. Maybe something organic... a dolphin or something." Cassandra breathed in and held her breath, listening deeply to the delicate and remote sound. The fingers of one hand very lightly turned the directional control wheel back and forth across the bearing of the sound trying to find the high point. The fingertips of her other hand flipped switches to filter out certain frequencies and adjusted dials to bring up the volume on frequencies that were more closely aligned to the sound. There was no question about its direction: it was perfectly in line with the bow of the boat. It was also extremely faint even with the filters and gain applied. She was impressed the Hemi had caught it.
+"No. Maybe something organic... a dolphin or something." Cassandra took a breath and held it, listening deeply to the delicate and remote sound. The fingers of one hand very lightly turned the directional control wheel back and forth across the bearing of the sound, as always, trying to find the high point. The fingertips of her other hand flipped switches to filter out certain frequencies and adjusted dials to bring up the volume on frequencies that were more closely aligned to the sound. There was no question about its direction: it was perfectly in line with the bow of the boat. It was also extremely faint even with the filters and gain applied. She was impressed the Hemi had caught it.
 
-The sound was an array of clicks. She had indeed heard sounds like that from various cetaceans, but those animals emitted very strong sounds that had direction and purpose. They sprayed clicks all over the ocean, passing the sound back and forth over whatever object or terrain they wanted information about -- like someone shining the beam of a light into a dark room. This sound didn't move at all. It just radiated like a fixed beacon from some point immediately in front of the boat. It had a rapid beat, and an irregular pattern:
+The sound was an array of clicks. She had indeed heard sounds like that emitted from various cetaceans. But those animals emitted very strong sounds that had direction and purpose. They sprayed clicks all over the ocean, passing the sound back and forth over whatever object or terrain they wanted information about -- like someone shining the beam of a light into a dark room. This sound did not move at all. It just radiated like a fixed beacon from some point immediately in front of the boat. It had a rapid beat, and an irregular pattern:
 
 .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. .....
 
-She stopped making adjustments, satisfied that she had isolated the sound to the best of her equipment's ability. She closed her eyes and set her mind out in the water in front of the boat: where was the location of the sound source? Despite being very low energy it had a quality of precision and definition to it that made it feel like it was not distant -- it did not sound like it had passed through miles of water. Which made her feel like it had to be something nearby and small -- say a swarm of crustaceans or other tiny sea creatures -- or it had to be the boat itself.
+She stopped making adjustments, satisfied that she had isolated the sound to the best of her equipment's ability. She closed her eyes and set her mind out in the water in front of the boat: where was the sound source located? Despite being very low energy it had a definition and clarity to it that made it feel like it was not distant -- it did not sound like it had passed through miles of water. Which made her feel like it had to be something nearby and small, say a swarm of crustaceans or other tiny sea creatures. Or it had to be the boat itself.
 
-"Hemi, that sound is coming from the boat." She watched his face as he concentrated on the clicks in his headset. She listened for a full minute. The pattern of the clicks remained irregular, presumably random, but it was slowly shifting:
+"Hemi, I believe that sound is coming from the boat." She watched his face as he concentrated on the clicks in his headset. She listened for a full minute. The pattern of the clicks remained irregular, presumably random, but it was slowly shifting:
 
 ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... 
 
 Hemi lifted his headset from his ears and leaned back to call up to the control room. "Sylvia, you should probably hear this."
 
-Captain Percy dropped down the ladder from the control room as Hemi flipped the switch to pipe the sound to the loudspeakers in the sonar compartment. Cassandra kept her headset on, preferring the higher definition of the earpieces to the loudspeakers.
+Captain Percy dropped down the ladder from the control room as Hemi flipped the switch to pipe the sound to the loudspeakers in the sonar compartment. Cassandra kept her headset on, preferring the higher definition of the earpieces to the imprecise blare of the loudspeakers.
 
-They listened for a few moments. Percy lit a cigarillo and sucked a long drag on it until the coal glowed, and then exhaled a brown-smelling puff into the already-stale air of the sonar compartment. "What is that Hemi?"
+They listened for a few moments. Percy lit a cigarillo and sucked a long drag on it until the coal glowed, and then exhaled a brown-smelling puff into the already stale air of the sonar compartment. "What is that Hemi?"
 
 "I know what it is..." said Cassandra. "It's the wristwatches in the hold. They're ticking."
 
 "Can't fucking be... There's no way they could be so loud." She paused. "And they've been in those crates for months without being wound. The works can't start moving on by their own fucking selves."
 
-Hemi continued to listen intently. "No... Sylvia, I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, crates and crates of them would by pure chance have many watches starting to tick in alignment -- and those ticks could potentially be heard on the sonar..."
+Hemi continued to listen intently. "No Sylvia... I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, crates and crates of them would by pure chance have many watches starting to tick in alignment -- and those ticks could potentially be heard on the sonar..."
 
 Captain Percy burst. "What are the fucking chances? You would have fuckin' thought that wristwatches could be counted among the most fuckin' benign cargoes you could haul, but here we're being chased across the open fuckin' sea for them, and the damned watches are down there in the hold apparently fuckin' conspiring together to give us the fuck away. This is some vengeful wrath-out-of-hell level shit. Like the rules of the game -- all strategy and cunning -- don't fucking matter an iota if shit like this is going to happen!"
 
@@ -347,7 +344,7 @@ Captain Percy burst. "What are the fucking chances? You would have fuckin' thoug
 
 "What do we do?" Cassandra asked.
 
-"Call upon patience and luck." Said Hemi. "You know order can arise from randomness, but eventually entropy always wind the day and re-asserts itself."
+"Call upon patience and luck." Said Hemi. "You know order can arise from randomness, but eventually entropy always wins the day and re-asserts itself."
 
 Cassandra closed her eyes and listened to the ticking. From the position of the passive sonar mics, it sounded like the whole boat was ticking, like a thousand tiny percussionists were down in the hold collaborating together to stir the masses to feel support for some mighty cause through their practiced precision performance. The beats of the thousands of ticking watches were slowly aligning.
 
@@ -359,96 +356,92 @@ Cassandra closed her eyes and listened to the ticking. From the position of the 
 ... .. ..
 .. .. ..
 .. ..
-.
-.
+.. .
+...
+**..**
+**.**
+**.**
+**.**
 
-Cassandra watched the signal strength indicator on the sonar unit. With each pulse, it climbed a little higher. There was some point -- she could hardly guess where -- that it would cross into an amplitude that the sonar operator on the ship above them would be able to hear. In Cassandra's headset the ticking pulsed with an energy that felt like it must be broadcasting out through the water for miles. It was a sound that was centered right in the frequency ranges that traversed short distances of oceans well, potentially cutting right through the protection of the thermocline above.
+Cassandra watched the signal strength indicator on the sonar unit. With each pulse, it climbed a little higher. There was some point -- she could hardly guess where -- where it would cross into an amplitude the sonar operator on the ship above them would be able to hear. In Cassandra's headset the ticking pulsed with an energy that felt like it must be broadcasting out through the water for miles. It was a sound that was centered right in the middle-low frequency ranges that traversed short distances of oceans well, potentially cutting right through the protection of the thermocline above.
 
-.
-.
-.
-.
+**.**
+**.**
+**.**
 
-She rotated the directional wheel around to target the surface ship. Even with the mics pointed away from the watches in the forward part of the submarine, she could still hear them ticking in the background. She focused on the engines of the ship above. They were emitting a growling low frequency that didn't vary -- the ship was moving very slowly, searching for the *Prospect* with their passive sonar microphones. Cassandra scratched down a continuous stream of notes marking the speed, direction, and bearing of the ship at tiny increments. When she looked over them, the marks drew the image of an arc in her mind -- the current path of their increasing search spiral.
+She rotated the directional wheel around to target the surface ship. Even with the microphones pointed away from the watches in the forward part of the submarine, she could still hear them ticking in the background. She focused on the engines of the ship above. They were emitting a growling low frequency that did not vary -- the ship was moving very slowly, now searching for the *Prospect* with their passive sonar instead of the active pinging. Cassandra scratched down a continuous stream of notes marking the speed, direction, and bearing of the ship in tiny increments. When she looked over the marks, they drew the image of an arc in her mind -- the current path of the ship's increasing search spiral.
 
 And then the sound of their diesels suddenly dropped away and left nothing but the ticking watches in her ears.
 
-.
-.
-.
+**.**
+**.**
+**.**
 
 Even with the mics aimed almost behind the boat to target the ship on the surface, she could still see the wristwatches ticking in their eerie synchronicity, bouncing the signal strength meter once per second, like a chopping knife slicing up time.
 
-.
-.
-.
+**.**
+**.**
+**.**
 
-She kept the microphones pointed towards the last location she heard the ship. After a minute of nothing but the nerve-wracking ticking splashing over her senses, she heard a distant electric whine, and then the cough of the ship's diesels starting up again. Her fingers tightened around the microphone wheel. The signal was moving again. She slowly rolled the wheel under her palms. It only took seconds for her to understand that they had turned from their previous course. She tracked them another moment, and then was sure: they had turned towards the *Prospect*.
+She kept the microphones pointed towards the last location where she had heard the ship. After a minute of nothing but the nerve-wracking ticking splashing over her senses, she heard a distant electric whine, and then the cough of the ship's diesels starting up again. Her fingers tightened around the directional wheel. The signal was moving again. She slowly rolled the wheel under her palms. It only took seconds for her to understand that they had turned from their previous course. She tracked them another moment, and then was sure: they had turned towards the *Prospect*.
 
-.
-.
-.
+"The ship on the surface has started their engines again." Said Cassandra. She swung the sonar direction over to center on the engine noise. 
+
+**.**
+**.**
+**.**
 
 In the old days many submariners and sailors had been devoutly religious. It made sense: in a world of huge external forces, it was helpful to believe that one of those huge forces could be brought over to your side. "But," Cassandra thought to herself, "what kind of irony is it that now we need the forces of chaos to save us? I'm pretty sure no old sailor ever called on their god to impose chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
 
-.
-.
-.
-.
-..
+**.**
+**.**
+**.**
+**.**
+**..**
 
-A discernible second tick suddenly appeared in her headphones, inserting itself softly but surely in the gap between the strong slices marked out by the ticks one second apart. "I've got a double-beat."
+A discernible second tick suddenly appeared in her headphones inserting itself softly but surely into the silent gap between the strong slices marked out by the needle bouncing on the signal strength gauge.  
 
 "That is almost certainly the beginning of the end of it..." Said Hemi.
 
-.
-..
-.
-..
-.
-.
+**..**
+**..**
+**..**
+**..**
 ...
-..
+...
 
 The beats slowly incorporated a chaotic rhythm into their pattern. And as each tick asserted its independence, the signal lost power.
 
-..
 ...
-..
-....
-..
-..
-.....
-....
-
-"The ship on the surface has started their engines again." Said Cassandra. She swung the sonar direction over to the bearing of the engine noise.
+... .
+... ..
+.... ..
 
 "Can you still hear the watches?"
 
-"No. Not at all." Said Hemi.
+"No. Not at all." Said Hemi. "Though that may be largely because Cassandra is tracking the approach of the ship, not our bow with the wristwatches."
 
-"Captain Percy..." Cassandra was listening carefully to the headset.
+"As she fuckin' should. What's the range on the ship Cassandra?"
 
-"What? More fucking bad news?"
+"Closing fast, Captain Percy. Within 500 meters, and engines running at what must be near their maximum... I think they have us." Cassandra kept turning the directional wheel with enough precision to keep the sound of the ship's props centered in her ears. They were running directly at her. Her eyes locked on the tip of the signal strength needle. It was rapidly rising with the increasing energy of the signal, arcing its way up and over the graduations. And then it stopped climbing and hung there pointing off at an obtuse angle. 
 
-[//]: # (Obviously this ending needs work: even after the ticking breaks up, the ship is still approaching -- fear that they are still screwed, until C realizes by the sound that they have picked up a strong deep current and are steadily shifting away from the last location of the ticking even without starting the motors.)
+The sonar was no longer necessary, the twisted sound of the props of the ship was clearly audible through every compartment in the *Prospect*.
 
-"No... in fact it seems like we are quite a bit further from the contact than when they stopped their engines... nearly a quarter mile now."
+But it was no longer getting louder. It had reached its maximum, as close as they were going to come to being directly above the point where the *Prospect* hung suspended in the deep.
 
-"We must have picked up a strong current in the depth Sylvia." Said Hemi.
+Cassandra looked at her hands on the directional control wheel. The sonar microphones were pointed off to the hard starboard side. "Wait..." Hemi put his heavy hand with his calloused fingers on her shoulder. She increased the gain on the sonar. Faintly in her earpieces she heard the splash far above of a pair of heavy objects hitting the water. "They've dropped something in the water."
 
-"So if we sit tight, we will float right away from those fuckers."
+"Depth bombs." Hemi said, his other hand pressed against one earpiece of the spare sonar headset.
 
-"That seems right." Said Hemi.
+They both removed their headsets. The three people in the sonar compartment stared blankly at the wall of gauges in front of them, fear widening Hemi and Cassandra's eyes.
 
-"Or, you might say randomness and chaos saved our ass twice in a matter of minutes."
+When the explosions came it was a very low frequency double-beat that drummed on the hull of the *Prospect*.
 
-She lit a cigarillo and climbed to the control room. She smoked it down slowly while staring at the unmoving gauges on the wall in front of her."
+"They missed." Cassandra looked at the range calculator. "They are off by hundreds of meters, to starboard. Not even close to our position. That was lucky."
 
+"You make your own fucking luck in a chaotic fucking world Cassandra. This cold deep water isn't sitting fucking still. There's a stiff current here, we drifted. You didn't feel the boat sliding sideways since we went deep, eh?" Percy sucked at her cigarillo. "No inspections for us today. Let me know when they give up trying to kill us and are well and good out of range, and we'll get the fuck out of here."
 
-
-
-
+"Sure Captain Percy." Cassandra put the headset back over her ears.
 
 
 

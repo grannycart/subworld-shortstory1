@@ -1,8 +1,9 @@
 second-version-draft.md
-Last modified: Sat Oct 01, 2022  05:11PM
+Last modified: Sun Oct 02, 2022  02:13PM
 
 
 # Subworld Short Story #1 -- Second version, draft
+
 
 A cup of coffee appeared in the empty space before her eyes suspended from thick fingertips by the rim of the cup. The skin on those fingers was dry and cracked around thick callouses, and each crack was lined in black. The cup was made of stamped and rolled metal, the outside coated in a dipped rubber. The rubber coating was also cracked and worn away in places much like the fingers above.
 
@@ -10,7 +11,7 @@ She took the cup and the fingers withdrew from her line of vision. She realized 
 
 She sipped at the coffee. It was too hot to have any taste. She set the cup on the shallow wooden sill in front of her, among the thousands of rings that had preceded this particular cup -- a pattern that was clearly random yet retained some kind of intention. She powered up the equipment in front of her and slipped the headphones over her ears.
 
-There was a rush of noise -- the microphones were overwhelmed by the sound of the diesel engines that shook the steel walls and penetrated to every corner of the compartment. Her fingertips found the filter switches and volume knobs rote muscle memory, and she shut down the wash of sound in her ears until the ambient sound in the room from the diesel engines was louder than in her headset. The stack of gauges on the wall in front of her eyes still showed by their quavering needles that the sound detection equipment continued to be overwashed by engine noise. Her eyes scanned the needles for a few seconds, but then silence passed like a wave through the compartment and all the needles dropped down to hover near their zero pins.
+There was a rush of noise -- the microphones were overwhelmed by the sound of the diesel engines that shook the steel walls and penetrated to every corner of the compartment. Her fingertips found the filter switches and volume knobs by rote muscle memory, and she shut down the wash of sound in her ears until the ambient sound in the room from the diesel engines was louder than in her headset. The stack of gauges on the wall in front of her eyes still showed by their quavering needles that the sound detection equipment continued to be overwashed by engine noise. Her eyes scanned the needles for a few seconds, but then silence passed like a wave through the compartment and all the needles dropped down to hover near their zero pins.
 
 The silence was the signal for her to go to work. Her fingertips reversed the settings from a moment ago, and the signal in her headset grew louder as she increased the gain. The sound remained a white-noise hiss, but where the noise of the diesel engines had been flat and featureless, now she could hear an additional spatial quality. The sound expanded around her. She knew from experience that she could hear for miles and miles underwater. And experience had trained her mind to shift into a mode where she understood the particular hiss she now had in her headphones as depth -- miles and miles of a fat column of water in every direction that she pointed her microphones.
 

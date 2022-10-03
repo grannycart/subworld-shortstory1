@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Sun Oct 02, 2022  12:31PM
+Last modified: Mon Oct 03, 2022  11:17AM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -32,11 +32,43 @@ After a couple of passes, she was sure there was nothing nearby but empty water.
 
 She took a sip of her coffee. It barely retained any heat, and now she could taste the caked char of the over-roasted stale coffee grounds spreading like an icing across her tongue, buoyed by the chemical catalyst of the artificial creamer. Those damn metal cups: burn-your-fingers hot when the coffee is first poured, and always cold by the second sip.
 
-With one hand on the directional wheel, she rolled the microphones past the stern. The slightest extra whir in her ears told her to pause for a second as the microphones passed just to the side of their stern. She returned her coffee cup to the sill with its forest of brown rings and curled the fingers of both her hands around grip of the directional wheel.
+With one hand on the directional wheel, she slowly circled the microphones, listening around the boat. Just as she passed to the starboard side of the stern, the slightest extra whir appeared in her headphones. She returned her coffee cup to the sill with its forest of brown rings and curled the fingers of both her hands around grip of the directional wheel.
 
+She closed her eyes and with barely perceptible movements turned back and forth across the bearing where she thought she had heard the whir.
 
+There was nothing. 
 
+And then, maybe there was something. Without opening her eyes she moved a hand to flip some switches that enabled and disabled various frequency gains. The hiss in her headphone changed with the switches: fewer higher frequencies, more rushing low notes. 
 
+As if sensing something, the control room requested a report from her. "Anything on the sonar Cassandra?"
+
+She did not respond. Not responding to a query from the captain might qualify for insubordination on a military vessel, but for a commercial freight hauler, the sonar operator was a position of some authority, since she was the ears -- and the eyes -- of the boat.
+
+The wheel slipped between her fingers. Back and forth, inching across the bearing of the signal. The sound there was just strong enough to register on some of the more sensitive gauges, popping the thin black needle up a few ticks each time the microphones rolled over the sound. To her ears it sounded like some kind of distant music, the hum and thrum of an orchestra heard through marble walls and from down a city block. But she knew what the sound really was: a ship.
+
+She slipped one headphone off an ear and leaned back in her chair to call up through the hatch to the control room. "Captain Percy, I've got a contact."
+
+Hemi -- he of the thick fingers that had delivered the coffee to her -- lowered his meaty body down the steel ladder from the control room and stepped up to the sonar rig. He put the second set of headphones over his ears, and Cassandra turned the directional control wheel back and forth across the bearing of the contact. She pointed to the signal popping up on the indicator gauges. Hemi listened for a minute and then nodded to her. "Alright. Nice work. That signal is barely there. I am sure it is too far off for us to get an accurate distance from the ranging equipment, and too far to see from the lookout ring. But we know what direction to look in. I will speak to Sylvia and see if she wants to re-start the diesels." He climbed the ladder behind Cassandra, and she could hear him having a conversation with Captain Percy in the control room above.
+
+Cassandra returned her attention to her contact. But it was only a minute before she heard the popping whine of compressed air turning over the diesel engines. She winced and yanked the headset off her ears before the diesels fired and washed out all the ambient noise in both the compartment and her headset.
+
+Hemi came back down the ladder, moving with an agility that would be unexpected in a man of his size, except people working on a submarine were never clumsy. He stood at the foot of the ladder, one foot on the lowest rung. "Sylvia wants to run on diesels to try to out-distance that contact. Her plan is to shut down the diesels every twenty minutes or so, and give you a chance to listen on sonar."
+
+"Let her know when we lose the contact? Or if they gain on us?"
+
+"That is right. If we do not lose then, see if you can calculate their heading. It would be useful to know if they maintain the same direction as us, or just happened to wander into your sonar range."
+
+"Alright Hemi."
+
+Hemi disappeared through the hatch up to the control room.
+
+Cassandra hung her headphones on their peg. She leaned back, crossed her arms, and closed her eyes. There was nothing for her to do until the diesels stopped. She tried to let her mind relax. She tried not to hear the penetrating drone of the diesels. But they were loud enough to make her feel like they had swallowed her whole body. Unlike on a surface ship and some other submarines, the *Prospect's* diesels had no direct drive to the propellers. Instead they just acted as huge generators when they were running, charging the boat's batteries and at the same time generating electricity that powered the huge electric motors that did the actual turning of the props. Due to this configuration, the diesels were set to run at one consistent RPM that was most efficient for generating electricity. This meant that no matter how fast or slow the boat was going, no matter if they were plowing through heavy seas or making good time on a smooth surface, there was never any variation in the pitch or intensity of the engine sound. To Cassandra's ears they felt like they were just all-on, all the time when they were running. She found it disconcerting to not be able to associate the motion of the boat with the pitch of the engines. The engine noise was also loud enough to make her sonar rig all but useless. She wished there was a way for the submarine to run on just the electric motors all the time. They were nearly silent when powered by battery.
+
+Since darkness had fallen hours ago, the compartment was lit with the red night lighting. The glow of it penetrated through her closed eyelids. Half-dozing in her chair, she imagined the color of the red lights was somehow an exact visual representation of the unchanging drone of the diesel engines. Like she had been entirely enveloped in some hellscape of noise and light.
+
+The thought floated through her dazed mind that she could ask Captain Percy to switch off the lights. But as the thought came up, Hemi was shaking her shoulder and she sat upright. The diesels died away. It was her turn to work again.
+
+The headset went back on. She immediately turned the microphones to the bearing of the sound she had detected earlier. It was still there. Had it changed? Increased in amplitude? Her ears said maybe, but that was based on a memory of the sound from 20 minutes earlier. If it had gotten stronger, the change was still within the wavering variation of the signal-strength needle, which was not registering any further along the graduated scale than before. With a dull pencil nub she scratched out a note on a piece of scrap paper clipped to the sill with her coffee cup. She put down the signal strength and the bearing, and a few cryptic marks of her own private notation about the quality of the sound and what direction she thought it might be headed in. To be thorough, she swung the microphones in a full 360-degree scan around the submarine to make sure there were no other surprise signals popping up out there in the expanse of water she could hear surrounding her.
 
 
 

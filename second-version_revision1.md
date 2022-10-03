@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Mon Oct 03, 2022  11:17AM
+Last modified: Mon Oct 03, 2022  01:08PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -44,7 +44,7 @@ As if sensing something, the control room requested a report from her. "Anything
 
 She did not respond. Not responding to a query from the captain might qualify for insubordination on a military vessel, but for a commercial freight hauler, the sonar operator was a position of some authority, since she was the ears -- and the eyes -- of the boat.
 
-The wheel slipped between her fingers. Back and forth, inching across the bearing of the signal. The sound there was just strong enough to register on some of the more sensitive gauges, popping the thin black needle up a few ticks each time the microphones rolled over the sound. To her ears it sounded like some kind of distant music, the hum and thrum of an orchestra heard through marble walls and from down a city block. But she knew what the sound really was: a ship.
+The wheel slipped between her fingers. Back and forth, inching across the bearing of the signal. The sound there was just strong enough to register on some of the more sensitive gauges, popping the thin black needle up a few ticks each time the microphones rolled over the sound. She picked up a grease pencil and made a mark on the gauge at the point where the signal was at its greatest strength. To her ears it sounded like some kind of distant music, the hum and thrum of an orchestra heard through marble walls and from down a city block. But she knew what the sound really was: a ship.
 
 She slipped one headphone off an ear and leaned back in her chair to call up through the hatch to the control room. "Captain Percy, I've got a contact."
 
@@ -70,5 +70,36 @@ The thought floated through her dazed mind that she could ask Captain Percy to s
 
 The headset went back on. She immediately turned the microphones to the bearing of the sound she had detected earlier. It was still there. Had it changed? Increased in amplitude? Her ears said maybe, but that was based on a memory of the sound from 20 minutes earlier. If it had gotten stronger, the change was still within the wavering variation of the signal-strength needle, which was not registering any further along the graduated scale than before. With a dull pencil nub she scratched out a note on a piece of scrap paper clipped to the sill with her coffee cup. She put down the signal strength and the bearing, and a few cryptic marks of her own private notation about the quality of the sound and what direction she thought it might be headed in. To be thorough, she swung the microphones in a full 360-degree scan around the submarine to make sure there were no other surprise signals popping up out there in the expanse of water she could hear surrounding her.
 
+"Signal unchanged." She reported upwards to the control room. A moment later the compressed air system hissed and the diesels rolled up to their usual all-engulfing sound. Cassandra returned the sonar headset to its peg and closed her eyes again.
 
+Twenty more minutes passed and she repeated this process. Then another twenty minutes. And another. Each time the signal behind stubbornly refused to change to in any of its characteristics. But the unchanging nature of the sound already told her something. "Signal remains unchanged." She reported. "Therefore they must be on, or close to, our own course."
+
+"And you can't determine range?"
+
+"No. The signal is at the very limits of detectability with sonar. Roughly, that puts the range at something like 12-15 nautical miles." According to the readings off the gauges, the signal had not changed in the last hour she had been tracking it. Every time she dialed in the contact, the signal strength gauge rose and set itself precisely at the height of her black grease pencil mark. But looking over her notation, Cassandra was seeing something suspicious arising in the more subtle qualities of the sound. She took this last minute of silence before the diesels started again to listen deeply to the signal. To her ear it felt like the sound of powerful engines. And it felt like the prop wash was moving away from her, meaning the ship was moving towards her. No serious sonar operator would claim to be able to hear that kind of detail at the distance she was listening at, but Cassandra felt there were both signal qualities that were empirically verifiable -- the stuff detected by the gauges on the wall, the stuff that could be reported to one's captain -- and then there were signal qualities that were understood more intuitively. These were the things that she made her private little marks about.
+
+Her intuition was telling her that this particular signal was following them.
+
+The diesels started again and blew away any further consideration for the time being. It was only a few minutes later when Cassandra heard a mild commotion in the control room above. Captain Percy was shouting questions up to the topside bridge -- presumably to Hemi, or whoever else might be up in the lookout ring above the sail. Since the questions were directed upwards, Cassandra could not make out what was being discussed.
+
+The drone of the diesels was suddenly punctuated by the sound of water rushing through the pipes that lined the walls of the sonar compartment she sat in. Cassandra sensed a sinking motion in the boat. Were they diving? The motion was gradual and slight, like descending a gentle hill on a bicycle -- not a dive then. After a few seconds of flushing in the pipes, she could hear a change in the sound of the water that ran along the hull. Now it was muted and flowing where previously it had been slapping and rushing with a more chaotic energy.
+
+Hemi's large boots preceded him back into the sonar compartment. "The lookouts finally got a shadow of your sonar contact in sight against the horizon. Captain Percy is up on the bridge making observations. She was not pleased with the silhouette: it has a militant shape to it."
+
+"And you lowered the boat to create less of a radar profile?"
+
+"Correct. We are running sail-out now. Though since we are lower in the water, that likely means we lost the visual back over the horizon. The plan is to continue to give you an opportunity to listen every twenty minutes or so."
+
+Cassandra nodded. Lowering the boat would make it more difficult to track on radar while still allowing them to use the diesels which needed to breathe air to run. The diesels provided much more power and higher speeds than running the electric motors on batteries. But being lower also put more of the diesels engine noise underwater. While they might be harder to track on radar, they may in fact be easier to track by sonar now.
+
+The next time the diesels shut down, Cassandra quickly found the contact and could clearly see that the signal had gained strength -- by a small increment, the needle had crept up and hovered just above her grease pencil mark. That meant it had closed some of the distance between them.
+
+"Signal strengthened since last contact." She reported up to the control room. She used a rag hanging from a hook next to the display to wipe off the old grease pencil mark and scraped a new one onto the signal-strength gauge at the point where the needle now stood quivering. "Still too far to estimate range with any precision."
+
+The increased signal strength was unfortunate but not unexpected. If the ship behind was tracking them on radar, then seeing the radar signal weaken or disappear would spur them to close the distance to the point where they lost contact. Cassandra no longer had any doubt that they were being pursued. 
+
+Speed was not the submarine's strong suit. If their pursuers were some kind of official or military vessel, they were going to overrun the submarine eventually. If they must lose these pursuers, other tactics would be required.  But it was likely Captain Percy was hoping to make it to dawn before employing those tactics.
+
+
+[//]: # (3k)
 

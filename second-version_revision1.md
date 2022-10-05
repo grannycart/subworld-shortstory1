@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Wed Oct 05, 2022  01:42PM
+Last modified: Wed Oct 05, 2022  02:52PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -194,9 +194,12 @@ The pitch of the *Prospect's* propellers whined a little higher. Captain Percy w
 
 It was only a matter of a couple of minutes and a handful of further pings before their pursuers also put on more speed so as to not let their quarry slip away. With the increased speed the pinging stopped and as soon as it did Cassandra had to resume tracking the moving contact. Captain Percy executed another turn, and, as always, Cassandra lost the contact as it crossed the stern. 
 
-The two vessels again locked into a struggle of nearly-matched capabilities. Cassandra could hear the engines of the following ship rev up as they put on a burst of speed towards the *Prospect*. The sound of their engines was loud enough to overpower anything else she could hear in her headset, even the sound of the *Prospect's* own motors. After ten minutes, their diesels fell back to a pattering churn, and a ping came. The ping was followed by a course-correction to point their bow at the *Prospect's* location and then another driving forward of the engines. They repeated this tactic dozens of times.
+The two vessels again engaged in a struggle of matching capabilities. Cassandra could hear the engines of the following ship rev up as they put on a burst of speed towards the *Prospect*. The sound of their engines was loud enough to overpower anything else she could hear in her headset, even the sound of the *Prospect's* own motors. After ten minutes, their diesels fell back to a pattering churn, and a ping came. The ping was followed by a course-correction to point their bow at the *Prospect's* location and then another driving forward of the engines. They repeated this tactic a number of times.
 
+Cassandra had to carefully maintain her track of the contact -- back and forth from one ear through her head to the other ear -- across a wide range of bearings behind the *Prospect* as Captain Percy sliced out a zigzag course intended to trip up their pursuers. Things were going in the favor of their pursuers. In under an hour they had closed to within a quarter of a nautical mile of the *Prospect*. Being that close, the signal from their running engines was so overwhelming that it drove all of Cassandra's signal gauges up into the far range of their scales.
 
-[//]: # (5k)
+The next time their engine noise dropped off, Cassandra realized that the *Prospect's* own motor noise had disappeared too. Captain Percy had stopped the *Prospect* and it was hanging suspended in the water column, a couple of hundred feet below the surface.
+
+[//]: # (6k)
 
 

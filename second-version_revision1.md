@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Wed Oct 05, 2022  02:52PM
+Last modified: Thu Oct 06, 2022  01:05PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -198,8 +198,58 @@ The two vessels again engaged in a struggle of matching capabilities. Cassandra 
 
 Cassandra had to carefully maintain her track of the contact -- back and forth from one ear through her head to the other ear -- across a wide range of bearings behind the *Prospect* as Captain Percy sliced out a zigzag course intended to trip up their pursuers. Things were going in the favor of their pursuers. In under an hour they had closed to within a quarter of a nautical mile of the *Prospect*. Being that close, the signal from their running engines was so overwhelming that it drove all of Cassandra's signal gauges up into the far range of their scales.
 
-The next time their engine noise dropped off, Cassandra realized that the *Prospect's* own motor noise had disappeared too. Captain Percy had stopped the *Prospect* and it was hanging suspended in the water column, a couple of hundred feet below the surface.
+The next time their engine noise dropped off, Cassandra realized that the *Prospect's* own motor noise had disappeared too. Captain Percy had stopped the *Prospect* and it was hanging suspended in the water column, a couple of hundred feet below the surface. "They're too close Cassandra. Gonna pause for a moment and see what their next move is."
 
-[//]: # (6k)
+Their next move, unsurprisingly, was a ping. Cassandra anticipated its arrival and popped the headset off once again. The ring of it ricocheted around inside the *Prospect's* hollow hull.
+
+Cassandra slipped the headphones back over her head and set the directional control wheel to track the contact. Their engine noise wound up. They were moving again. More slowly this time, moving into position nearly over the *Prospect's* location.
+
+"Contact moving closer." It was hardly necessary for her to tell Captain Percy this, the sound of the ship's screws had becomes clearly audible through the hull of the submarine without the aid of amplification technology. Cassandra pulled the headphones off again and listened to the whirring sound growing louder. The resolution of the sound was exceptional, as it was transmitted through the dense water and resonated by the steel tube of the *Prospect's* hull. The ship moved slowly closer until the sound of the propellers indicated that it was directly above them. She could hear the gear disengage, and the engine snapped into idle.
+
+Cassandra's peripheral vision was caught by the sudden movement of the signal needles on a rarely-used piece of equipment: the ship-to-ship radio. She flipped the switch that piped the sound from the ship-to-ship into her headset.
+
+*...To the submerged submarine: You are hereby ordered to surface immediately, open your hatches, and prepare for inspection. This order is given under the authority of the Alliance of Northern Empires...*
+
+Cassandra turned her head and called up to the control room. "They're talking to us on the ship-to-ship!" Captain Percy's boots almost immediately appeared on the top of the steel ladder from the control room. The toes of her boots hooked around the side rails and slipped down to land with a flat smack on the deck of the sonar compartment. Hemi followed behind, more carefully and deliberately climbing down the ladder rung under rung.
+
+"Put it on the speaker Cassandra."
+
+Another click of a switch and the transmission from the pursuing ship filled the sonar compartment. Captain Percy's eyes tracked the bouncing signal needle on the ship-to-ship radio unit.
+
+*...tracked you from a port known for contraband logistics. You are suspected of hauling parts that could be utilized as weapons or weapons components by enemies of the Alliance of Northern Empires. If you do not immediately begin surfacing procedures, further measures will be taken against you up to and including the use of deadly force. ...Repeating message...* 
+
+Percy reached over and dialed down the volume on the radio.
+
+"Weapons?" Cassandra asked skeptically, "I thought we were hauling a shipment of wristwatches?"
+
+"Indeed we are." Said Percy. "Un-fucking-fortunately, the destination for the watches is the Independent Island Pact forces... to be distributed to infantry who need them for timing artillery strikes."
+
+"Hardly *weapons* though..."
+
+"Indeed," put in Hemi, "if they thought we had actual weapons in our hold, they likely would have already fired on us instead of requesting we surface."
+
+"Doesn't really matter. We could be hauling blankets and fuckin' bandaids, if they know our delivery is for their enemies in the Island Pact, they'll do everything they can to surface us -- and then they might try to seize the cargo, maybe our whole boat. We'll likely end up in non-combatant detention... where at least we won't be tortured. A fine way to wrap up a career in submarine logistics."
+
+"What can they do to us if we don't surface?"
+
+"Depends on how fucking violently inclined they are and what they are armed with." Said Percy. "Torpedoes, depth bombs -- all manner of hell fire within the margins of possibility for raining down on our delicate little heads. And the fuckers know we are unarmed or they wouldn't have been so free with using that fucking active sonar."
+
+She stretched the mic from the ship-to-ship radio to her lips and keyed the transmit button. "Ship on the surface, this is submerged sub. Acknowledge receipt of transmission. Please be aware: we are an unarmed cargo vessel hauling consumer goods."
+
+*To submerged submarine: you are ordered to surface for inspection of your cargo by the enforcement authority of the Alliance of Northern Empires, whose sovereign waters we have documented your transiting.*
+
+Percy paused, her thumb hanging in the air above the transmit button. "Hemi, start trimming our tanks to make it sound like we're blowing air into them for surfacing." Hemi nodded and climbed the ladder to the control room. Percy depressed the transmit button. "Preparing to surface, please stand by."
+
+Percy reached across Cassandra and put the mic back on its clip. She flipped the switch to disconnect the ship-to-ship unit from the compartment's PA speakers.
+
+"What are we going to do Captain Percy?"
+
+"We're going to do what a submarine does best: hide, and then fucking run. Keep an ear on that ship-to-ship and let me know if they have anything new to say for themselves. And we're going to be going through some maneuvers. Keep a close track on them, and if they do anything fishy, you know where I am."
+
+"Yes Captain Percy." Cassandra settled the headset back over her ears as the captain climbed to the control room.
+
+The hiss of compressed air filled her ears in every direction as she turned the microphones around. The high pitch of the moving air was often accompanied by the much lower-pitched sound of rushing water. That was Hemi pushing water around inside the *Prospect's* trim tanks. The boat gently dipped forward and back like one of those drinking birds as he moved thousands of pounds of ballast water around. The goal was to leave the boat exactly as trim as before he started, but to make it sound to someone listening on sonar as if they were blowing air in the tanks to gain buoyancy for rising to the surface. Cassandra was sure that was a ruse she would never fall for herself -- the accompanying sound of water moving through the boat would tell the careful listener that they were not just blowing in air. Besides, a submarine would have little call for blowing air into the tanks at the depth they were at. In most cases, they would just drive the neutrally-buoyant boat up to the just below the surface, and then blow air in with compressors to fully break above the surface. 
+
+[//]: # (7k)
 
 

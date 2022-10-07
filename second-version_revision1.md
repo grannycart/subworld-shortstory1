@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Thu Oct 06, 2022  01:05PM
+Last modified: Fri Oct 07, 2022  06:22PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -249,6 +249,25 @@ Percy reached across Cassandra and put the mic back on its clip. She flipped the
 "Yes Captain Percy." Cassandra settled the headset back over her ears as the captain climbed to the control room.
 
 The hiss of compressed air filled her ears in every direction as she turned the microphones around. The high pitch of the moving air was often accompanied by the much lower-pitched sound of rushing water. That was Hemi pushing water around inside the *Prospect's* trim tanks. The boat gently dipped forward and back like one of those drinking birds as he moved thousands of pounds of ballast water around. The goal was to leave the boat exactly as trim as before he started, but to make it sound to someone listening on sonar as if they were blowing air in the tanks to gain buoyancy for rising to the surface. Cassandra was sure that was a ruse she would never fall for herself -- the accompanying sound of water moving through the boat would tell the careful listener that they were not just blowing in air. Besides, a submarine would have little call for blowing air into the tanks at the depth they were at. In most cases, they would just drive the neutrally-buoyant boat up to the just below the surface, and then blow air in with compressors to fully break above the surface. 
+
+But a sonar operator who works on a surface ship might not be as steeped in the finer points of submarine operation as someone who worked underwater daily. Unless they had been well trained specifically for hunting submarines, the sonar operator on the ship above might very well mistake the sounds of lightly blowing tanks for the first moves towards surfacing, buying the *Prospect* a short window of time.
+
+Cassandra could hear Hemi's boat-balancing act play out in the water. Air rushed through the pipes that passed near or through the sonar compartment. The sound from the pipes reverberated with the ever-so-slightly delayed sound in the headphones creating the effect in her mind that she was being swallowed up by a gaping maelstrom of air and water.
+
+It did not last long. Hemi only had to blast air a couple of times and then balance the air by returning the water to the tanks it came from. It took a matter of a minute or so before silence made its way back through the boat, paaing in Cassandra's headphones like a wave from bow to stern. The last little flush of Hemi's ballast water returned the boat to a dead-even keel.
+
+They hung in the water for just a beat of silent contemplation before the electric motors wound up and hummed along at a low pitch. They slowly pushed forward. Percy was clearly in no rush to move away. As she had told Cassandra: the plan was to hide first, then run. But how was it possible to hide? Cassandra figured they had exactly the amount of time until the sonar operator on the ship above decided to check their location with another ping. There was no reason for that operator to wait: it would likely be a matter of minutes, if not seconds.
+
+Cassandra caught the very short whine of the big servos that controlled the dive planes. That signaled a change in depth: down or up. There was no immediate way to tell from the sound, but she could feel from the angle of the deck that the bow was rising very slightly. So still the ruse. They were indeed very, very slowly climbing towards the surface. The sound of the idling diesel engine above slowly rotated around in her headphones, passing from one ear to the other. The *Prospect* was turning as if to come about and up to the surface near the point where the ship was stopped. Cassandra kept turning the microphones to track the ship. The idling motor sound was soon nearly directly to the starboard side.
+
+The ping came. Off with the headset, the ringing blast waking Cassandra from her reverie. Even though she knew it was coming it still shook her. The scene in her head -- of the ship above, the *Prospect's* speed and course, the surrounding empty water -- quavered and rippled like she had been gazing at a reflected image in a puddle and someone had dropped a pebble in. It took a minute or two after she returned the headsets and had a look around with the microphones for the scene to settle back into a clear image again.
+
+Just a second after the ping, she heard the servos of the dive planes softly buzz again -- a weak signal hopefully missed by the sonar operator above -- followed almost immediately by the bow dipping deeply down. She braced herself against the sonar unit, wedging her boots into the angle where the steel of the cabinet met the diamond-plate deck. She pressed her small hands flat against the console, against the pull of gravity. Her chipped-paint fingernails splayed out in front of her. The boat was diving. She waited to hear the flush of water into the forward tanks which typically accompanied a fast dive, but it did not come. It must be that Captain Percy figured the somewhat slower descent of driving down by dive planes alone outweighed the risk of the sonar operator above hearing their big dive tanks flooding and realizing they were not about to surface.
+
+The sound of the contact stopped rotating. Captain Percy had straightened the boat out. Cassandra set the directional control wheel for the microphones at the bearing of the surface ship and then habitually jogged the wheel slightly back and forth, constantly trying to center the strongest part of the signal from their idling engines.
+
+The whine of the *Prospect's* electric motors slowly increased in pitch. She followed the rising pitch of the motors both in her headphones and in the compartment as the sound traveled along the hull and jumped across the air to her ea. The boat was picking up speed. The sonar operator on the surface ship was sure to hear that. The question was how their pursuers would interpret an increase in speed.
+
 
 [//]: # (7k)
 

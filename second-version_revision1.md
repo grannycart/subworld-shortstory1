@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Fri Oct 07, 2022  06:22PM
+Last modified: Tue Oct 11, 2022  02:07PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -266,9 +266,38 @@ Just a second after the ping, she heard the servos of the dive planes softly buz
 
 The sound of the contact stopped rotating. Captain Percy had straightened the boat out. Cassandra set the directional control wheel for the microphones at the bearing of the surface ship and then habitually jogged the wheel slightly back and forth, constantly trying to center the strongest part of the signal from their idling engines.
 
-The whine of the *Prospect's* electric motors slowly increased in pitch. She followed the rising pitch of the motors both in her headphones and in the compartment as the sound traveled along the hull and jumped across the air to her ea. The boat was picking up speed. The sonar operator on the surface ship was sure to hear that. The question was how their pursuers would interpret an increase in speed.
+The whine of the *Prospect's* electric motors slowly increased in pitch. She followed the rising pitch of the motors both in her headphones and in the compartment as the sound traveled along the hull and jumped across the air to her ear. The boat was picking up speed. The sonar operator on the surface ship was sure to hear that. The question was how their pursuers would interpret an increase in speed.
 
+Cassandra imagined herself on the surface tracking a submarine in the depths. If she had detected it, how would she read a sudden increase in speed? Much depended on the demeanor of the commander of the ship. A suspicious commander might see moving faster as a move to escape. A commander that was more trusting -- or more confident in the intimidating power of their weapons -- might see it as a typical increase in thrust to gain the surface. Cassandra suspected the latter was more likely. A heavily-armed surface ship normally could expect a cargo sub to surface for inspection since most cargo subs were at least semi-legitimate cargo haulers just trying to complete their deliveries while keeping interactions with authorities to a non-confrontational minimum. Once found and contacted, most cargo subs would surface rather than risk being fired upon. It seemed likely that the experience of this ship's commander in the past favored the assumption that the *Prospect* was on its way up. And it now made complete sense that Hemi had not flooded the express dive tanks -- combined with more quickly turning props, that would have been a dead giveaway that the *Prospect* was running. If the only thing the surface ship knew about their movement at the moment was they were going a bit faster, there was plenty of gray-area remaining to give the impression that the sub was rising.
 
-[//]: # (7k)
+With the increased thrust the *Prospect* was now gaining depth quickly. Cassandra could hear the idling diesel of the surface ship receding away above and behind her. With every second that passed they were putting more distance between themselves and the surface ship -- vertical distance. There was one big advantage submarines had over surface ships, and it was the primary reason those shipping cargo that would be better off not seeing the inspection lights of authorities chose submarines as their means of transport -- the capability to move three-dimensionally. The depths offered submarines exponentially more space to maneuver in, something that was enhanced by the fact that many surface ship commanders simply did not have an intuitive understanding of three-dimensional maneuvers. Most surface ship operators conceived of the world as a flat open plane. The submarine commander, at least the good ones, knew the world had depth.
+
+Not just depth, but layers too. The surface operators thought of the ocean as a single undifferentiated bowl of plain water. The sub commander knew water to be the complex medium it is, and that the ocean was made up of a variety forms of water changing with temperature, salinity, concentrations of organic creatures, and currents. And -- most importantly to Cassandra -- all of these things could affect the way sound travelled through the medium. There were layers far down in the deep ocean where a sound could be transmitted thousands of miles, sometimes right around the sphere of the planet. Towards the surface, things were more mixed where the sun warmed the surface and the cold sometimes pressed up from the deep. This mixing created confusion for a sonar operator. And opportunities for the sneaky sub commander.
+
+As the *Prospect* gained depth, Cassandra kept the microphones tracking the surface ship's diesel engine. She soon realized she was not listening so much to the engine noise of the ship as she was to the changing shape of its sound as they put more vertical distance between them. As the makeup of the watery medium changed, the sound that was passing through shifted and mutated. What had been a pulsing rattle when the *Prospect* was just under the surface became a muted rumble. 
+
+Another ping came. The air inside the *Prospect's* hull shook with the energy of it. The ruse ended there. The ping would reveal their exact depth and location to the surface ship, and there would no longer be any question that the *Prospect* was going down, not up.
+
+Almost immediately following the ping -- Captain Percy had certainly been anticipating it -- the sounds of the electric motors at the stern of the boat fell away and left Cassandra swimming in perfect silence. She observed the sounds of the ocean, the ship above, and the bottomless hole in the depths below. There was nothing to contaminate her signals now. The ship's diesel continued to slowly fade in her headset as the *Prospect* silently continued to travel forward and downward under its remaining momentum.
+
+Somewhere far forward Cassandra heard valves snap open and a giant bubble of air burped out of the front of the boat. That would be Hemi flooding the forward tanks to help drive them further down. The bubbling only lasted for a moment before a massive weight of water had flooded up into the forward tanks and the valves shut with a heavy electromagnetic click that pulsed through Cassandra's headset.
+
+The *Prospect* continued to drift downwards under just its forward momentum and the extra weight of the water in the bow tanks. The boat no longer generated any sound or signal by which passive sonar systems might track them.
+
+The contact was on the move again in Cassandra's headset. The *Prospect* was executing another turn towards some direction that hopefully the surface ship would not anticipate, and the contact was changing position relative to Cassandra. 
+
+The spatial quality of the signal was changing more dramatically now as well: an echo came up to her from below, reflecting back the soft rumble from above until at one point it sounded to Cassandra uncannily like somehow there were two ships: one above on the surface and one equally far below in the depths.
+
+A moment later the signal broke up, scattering in a number of different directions, and then dissolved completely in Cassandra's ears. A space of nothingness passed. Then she scanned the microphones around, and managed to find the ship's diesels again right on the bearing she lost it. But now it was a far weaker signal, like the ship had suddenly jumped to 20 miles off. The signal barely nudged the dials off their zero pins on the strength gauges.
+
+Cassandra pulled an earpiece off and leaned back. "Captain Percy, I think we passed through a thermocline."
+
+"Looks like it. The exterior water temperature plot is showing a steep drop. What's it sound like now?"
+
+"Greatly reduced in strength, diffuse and scattered."
+
+"With any luck 'diffuse and scattered' is exactly how we'll look to them next time they try to ping us too. Keep at it Cassandra!"
+
+[//]: # (9k)
 
 

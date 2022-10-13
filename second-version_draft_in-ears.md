@@ -1,5 +1,5 @@
 second-version-draft.md
-Last modified: Sun Oct 02, 2022  02:13PM
+Last modified: Thu Oct 13, 2022  01:09PM
 
 
 # Subworld Short Story #1 -- Second version, draft
@@ -325,11 +325,11 @@ Cassandra felt like an interred soul. The ocean sounded silent, black, and cold 
 
 Hemi, with his usual uncanny sense of every aspect of every person and every machine that contributed to the boat's condition, arrived in the sonar compartment with another cup of coffee for her.
 
-She took it gratefully without a word. He sat down in the seat next to her and put on the second sonar headset. Hemi was an excellent sonar operator himself -- he had initially trained Cassandra -- so instead of explicily explaining the situation, Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in the whole sweep of the ocean just as he had taught her to do.
+She took it gratefully without a word. He sat down in the seat next to her and put on the second sonar headset. Hemi was an excellent sonar operator himself -- he had initially trained Cassandra -- so instead of explicitly explaining the situation, Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in the whole sweep of the ocean just as he had taught her to do.
 
 "Wait Cassandra. What is that sound... towards the bow, roll back the other way a small amount."
 
-With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In hear ears she picked up what Hemi had heard. A current of faintly pulsing rapid clicks, carried to her microphones on the underside of the typical swish and swell of active ocean sounds.
+With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In her ears she picked up what Hemi had heard. A current of faintly pulsing rapid clicks, carried to her microphones on the underside of the typical swish and swell of active ocean sounds.
 
 "Some kind of regular clicking..."
 
@@ -355,7 +355,7 @@ They listened for a few moments. Percy lit a cigarillo and sucked a long drag on
 
 "I know what it is..." said Cassandra. "It's the wristwatches in the hold. They're ticking."
 
-"Can't fucking be... There's no way they could be so loud." She paused. "And they've been in those crates for months without being wound. The works can't start moving on by their own fucking selves."
+"Can't fucking be... There's no way they could be so loud." She paused. "And they've been in those crates for months without being wound. The works can't start moving on their own fucking selves."
 
 Hemi continued to listen intently. "No Sylvia... I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, crates and crates of them would by pure chance have many watches starting to tick in alignment -- and those ticks could potentially be heard on the sonar..."
 

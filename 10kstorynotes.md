@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Mon Sep 26, 2022  10:43AM
+Last modified: Thu Oct 13, 2022  01:04PM
 
 
 # 10k-word short story notes
@@ -11,13 +11,16 @@ Last modified: Mon Sep 26, 2022  10:43AM
 
 ## Initial notes
 :notes:
-* revision notes:
-	* Put as much of the action into Cassandra's ears --- and rich descriptions of the sounds --- as possible
-		* Avoid talking tactics without describing the sound.
+* For 2nd version rev2 pass:
+	* Consider dropping all names? Or all names except Cassandra and Percy?
 	* Go through story and see if you can more elegantly massage the dialog -- say, if a character enters, do you need to credit their dialog with a: character said.
 	* Check any sentence with a conjunction, and make the segments are related. Otherwise, break into separate sentences.
 	* (Add these review notes to review notes for book1)
-* For revised version of story:
+	* Strip it down a minimalist thing?
+* 2nd version rev1 notes:
+	* Put as much of the action into Cassandra's ears --- and rich descriptions of the sounds --- as possible
+		* Avoid talking tactics without describing the sound.
+* For second version of story:
 	* it's _all_ from Cassandra's perspective at the sonar station
 	* it's a little more stylistic/artier. Maybe do a draft with the style of Gaddis, including emdashes
 	* less specificity, more about the _feeling_ of things: Cassandra's feeling of things

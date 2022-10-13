@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Wed Oct 12, 2022  01:13PM
+Last modified: Thu Oct 13, 2022  01:09PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -318,9 +318,48 @@ The ship began a slow search pattern, circling in a widening spiral from the spo
 
 As time passed, the pings shifted to coming more slowly and regularly. At one point, as far as Cassandra could tell, the ship was directly overhead, and that was nerve-wracking. But it soon continued on its spiraling course. She was thankful that with the protection the thermocline she did not need to remove her headphones every time a ping passed through her equipment. She thought that if she were the sonar operator on that ship, she would switch to listening with passive microphones only. It was clear that the thermocline was reflecting back the high-energy sound waves of the active pinging sonar equipment. The lower-energy casual sounds of the ship seemed to do a better job of making their way through the thermocline. Her advice to the sonar operator on the ship would be to listen quietly for some kind of incidental sound -- a dropped tool or a tank trim adjustment. But in her opinion sonar operators on surface ships did not have that intuitive sense for how to search out objects in the expanses of deep water. Since submarines relied on their sonar operators as the only sensory input from outside the boat, they just had a better ability to see the world through sound in the water around the boat. Sonar on surface ships was just another accoutrement. So she was unsurprised that this ship was just banging away uselessly with active pings.
 
-As time passed Cassandra relaxed to the point where the pressure to sleep returned. She kept her bleary eyes opened and pinned on the gauges in front of her, and regularly did a full-circle look around the boat -- more to keep herself focused than because she expected any surprises to show up in the water.
+With time, Cassandra relaxed to the point where the pressure to sleep returned. She kept her bleary eyes opened and pinned on the gauges in front of her, and regularly did a full-circle look around the boat -- more to keep herself focused than because she expected any surprises to show up in the water.
 
+Hours passed like this. The *Prospect* lay in a profound hovering silence. There was little movement through the boat. Percy had let her rudderman and planesman go to their racks to sleep. They were less likely to make a mistake that generated the kind of noise that could detected by the ship above if they were asleep in bed than sitting at the boat's controls with nothing to do. Percy was the only person who remained in the control room.
 
-[//]: # (10k)
+Cassandra felt like an interred soul. The sounds of the ocean were silent, black, and cold in every direction around her, like a dream of death. Far above a demon circled, searching. Her mind was sliding off bright conciousness as the darkness surrounded her. She knew she was going to lose herself to sleep if she did not do something.
+
+Hemi, with his usual uncanny sense of every aspect of every person and every machine that contributed to the boat's condition, arrived in the sonar compartment with another cup of coffee for her.
+
+She took it gratefully without a word. He sat down in the seat next to her and put on the second sonar headset. Hemi was an excellent sonar operator himself -- he had initially trained Cassandra -- so instead of explicitly explaining the situation, Cassandra showed him what was going on by turning the microphone directional control wheel in full circle while Hemi listened, taking in the whole sweep of the ocean just as he had taught her to do.
+
+"Wait Cassandra. What is that sound... towards the bow. Roll back the other way a small amount."
+
+With two fingers resting on the top of the control wheel she rotated the direction of the underwater mics back until they lined up along the axis of the boat. In her ears she picked up what Hemi had heard. A current of faintly pulsing rapid clicks, carried to her microphones on the underside of the typical swish and swell of active ocean sounds.
+
+"Some kind of regular clicking..."
+
+"I would not judge that a new contact though."
+
+"No. Maybe something organic... a dolphin or something." Cassandra took a breath and held it, listening deeply to the delicate and remote sound. The fingers of one hand very lightly turned the directional control wheel back and forth across the bearing of the sound, as always, trying to find the high point. The fingertips of her other hand flipped switches to filter out certain frequencies and adjusted dials to bring up the volume on frequencies that were more closely aligned to the sound. There was no question about its direction: it was perfectly in line with the bow of the boat. It was also extremely faint even with the filters and gain applied. She was impressed the Hemi had caught it.
+
+The sound was an array of clicks. She had indeed heard sounds like that emitted from various cetaceans. But those animals emitted very strong sounds that had direction and purpose. They sprayed clicks all over the ocean, passing the sound back and forth over whatever object or terrain they wanted information about -- like someone shining the beam of a light into a dark room. This sound did not move at all. It just radiated like a fixed beacon from some point immediately in front of the boat. It had a rapid beat, and an irregular pattern:
+
+.... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. ..... .... ...... ...  .... ..... ....... .. .....
+
+She stopped making adjustments, satisfied that she had isolated the sound to the best of her equipment's ability. She closed her eyes and set her mind out in the water in front of the boat: where was the sound source located? Despite being very low energy it had a definition and clarity to it that made it feel like it was not distant -- it did not sound like it had passed through miles of water. Which made her feel like it had to be something nearby and small, say a swarm of crustaceans or other tiny sea creatures. Or it had to be the boat itself.
+
+"Hemi, I believe that sound is coming from the boat." She watched his face as he concentrated on the clicks in his headset. She listened for a full minute. The pattern of the clicks remained irregular, presumably random, but it was slowly shifting:
+
+...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... ...... ..... ....  ...... ...... .... ..... .... 
+
+Hemi lifted his headset from his ears and leaned back to call up to the control room. "Sylvia, you should probably hear this."
+
+Captain Percy dropped down the ladder from the control room as Hemi flipped the switch to pipe the sound to the loudspeakers in the sonar compartment. Cassandra kept her headset on, preferring the higher definition of the earpieces to the imprecise blare of the loudspeakers.
+
+They listened for a few moments. Percy lit a cigarillo and sucked a long drag on it until the coal glowed, and then exhaled a brown-smelling puff into the already stale air of the sonar compartment. "So what is that Hemi?"
+
+"I know what it is..." said Cassandra. "The wristwatches in the hold. They're ticking."
+
+"Can't fucking be... There's no way they could be so loud." She paused. "And they've been in those crates for months without being wound. The works can't start moving by their own fucking selves."
+
+Hemi continued to listen intently. "No Sylvia... I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, many crates of them could by pure chance have a number of watches begin ticking in alignment -- together those ticks could potentially be heard on the sonar..."
+
+[//]: # (11k)
 
 

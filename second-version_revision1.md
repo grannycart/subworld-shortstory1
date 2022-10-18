@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Tue Oct 18, 2022  01:09PM
+Last modified: Tue Oct 18, 2022  02:41PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -394,11 +394,13 @@ Cassandra watched the signal strength indicator on the sonar unit. With each pul
 
 She rotated the directional wheel around to target the surface ship. She focused on the engines of the ship above. They were emitting a growling low frequency that did not vary -- the ship was moving very slowly, now searching for the *Prospect* with their passive sonar instead of the active pinging. Cassandra scratched down a stream of notes marking the speed, direction, and bearing of the ship by tiny increments. When she looked over the marks, they drew the image of an arc in her mind -- the current path of the ship's increasing search spiral.
 
+And then the ship's engine noise stopped. The image of the arc she was drawing in her mind abruptly reached an end. She jogged the directional wheel back and forth, searching. But there was nothing there. Most likely, they had stopped their engines to clear extraneous sounds for the sonar operator. It made Cassandra feel suddenly very exposed.
+
 **.**
 **.**
 **.**
 
-Even with the mics aimed almost behind the boat to target the ship on the surface, she could still see the wristwatches ticking in their eerie synchronicity, bouncing the signal strength meter once per second, like a chopping knife slicing up time.
+Even with the mics aimed almost behind the boat to try to target the ship on the surface, she could still see the wristwatches ticking in their eerie synchronicity, bouncing the signal strength meter once per second, like a chopping knife slicing up time.
 
 **.**
 **.**
@@ -406,12 +408,49 @@ Even with the mics aimed almost behind the boat to target the ship on the surfac
 
 She kept the microphones pointed towards the last location where she had heard the ship. After a minute of nothing but the nerve-wracking ticking splashing over her senses, she heard a distant electric whine, and then the cough of the ship's diesels starting up again. Her fingers tightened around the directional wheel. The signal was moving again. She slowly rolled the wheel under her palms. It only took seconds for her to understand that they had turned from their previous course. She tracked them another moment, and then was sure: they had turned towards the *Prospect*.
 
+"The ship on the surface has started their engines again." Said Cassandra. She swung the sonar direction over to center on the engine noise. 
+
+**.**
+**.**
+**.**
+
+In the old days many sailors had been devoutly religious. It made sense: in a world of huge external forces, Cassandra thought to herself, it was helpful to believe that one of those huge forces could be brought over to your side. 
+
+"What kind of irony is it that now we need the forces of chaos to save us?" Said Hemi, as if he could hear her thoughts. "I'm pretty sure no old sailor ever called on their god to impose chaos and disorder on their lives to save them from what appeared to be some kind of incredibly unlikely and potentially divine and wrathful order."
+
+**.**
+**.**
+**.**
+**.**
+**..**
+
+A discernible second tick suddenly appeared in her headphones, a grace note inserted softly but surely into the silent gap between the strong slices marked out by the needle bouncing on the signal strength gauge.  
+
+"That is almost certainly the beginning of the end of it..." Said Hemi.
+
+**..**
+**..**
+**..**
+**..**
+...
+...
+
+The beats slowly incorporated a chaotic rhythm into their pattern. And as each tick asserted its independence, the signal lost power.
+
+...
+... .
+... ..
+.... ..
+
+"Can you still hear the watches?" Percy Asked.
+
+"No. Not at all." Said Hemi. "Though that may be largely because Cassandra is tracking the approach of the ship, not our bow with the wristwatches."
+
+"As she fuckin' should. What's the range to the ship Cassandra?"
+
+"Closing fast. Within 500 meters, and engines running at what must be near their maximum... I think they have us." Cassandra kept turning the directional wheel with enough precision to keep the sound of the ship's props centered in her ears. The ship was running directly at her. Her eyes locked on the tip of the signal strength needle. It was rapidly rising with the increasing energy of the signal, arcing its way up and over the graduations. And then it stopped climbing and hung there pointing off at an obtuse angle. 
 
 
-
-
-
-
-[//]: # (11k)
+[//]: # (12k)
 
 

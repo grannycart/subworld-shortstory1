@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Thu Oct 13, 2022  01:09PM
+Last modified: Tue Oct 18, 2022  01:09PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -358,7 +358,59 @@ They listened for a few moments. Percy lit a cigarillo and sucked a long drag on
 
 "Can't fucking be... There's no way they could be so loud." She paused. "And they've been in those crates for months without being wound. The works can't start moving by their own fucking selves."
 
-Hemi continued to listen intently. "No Sylvia... I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, many crates of them could by pure chance have a number of watches begin ticking in alignment -- together those ticks could potentially be heard on the sonar..."
+Hemi continued to listen intently. "No Sylvia... I believe Cassandra is correct. The watches may have been wound up by the motion of the boat... And while a single wristwatch would never be loud enough to be heard, many crates of them could by pure chance have a number of watches begin ticking in alignment -- together those ticks could potentially have enough energy to be picked up on the sonar..."
+
+Captain Percy burst. "What are the fucking chances? You would have fuckin' thought that wristwatches could be counted among the most fuckin' benign cargoes you could haul, but here we're being chased across the open fuckin' sea for a hold full of watches, and the damned watches are down there in the hold apparently fuckin' conspiring together to give us the fuck away. This is some vengeful wrath-out-of-hell level shit. Like the rules of the game -- all strategy and cunning -- don't fucking matter an iota if the evil will of the universe, or its equivalent in callous and arbitrary bad luck, is out to get you!"
+
+"Randomness often aligns into some kind of order." Said Hemi.
+
+"What do we do?" Cassandra asked.
+
+"Call upon patience and luck." Said Hemi. "You know order can arise from randomness, but eventually entropy always wins the day and re-asserts itself."
+
+Cassandra closed her eyes and listened to the ticking. From the position of the passive sonar mics, it sounded like the whole boat was ticking, like a thousand tiny percussionists were down in the hold collaborating together to stir the masses to feel support for some mighty cause through their practiced precision performance. The beats of the thousands of ticking watches were slowly aligning.
+
+..... .... ...  .... ... .. .. .. 
+... ... .. .. ... . .. 
+.... .. ..... .... 
+..... . ... ...
+... .. .. ...
+... .. ..
+.. .. ..
+.. ..
+.. .
+...
+**..**
+**.**
+**.**
+**.**
+
+Cassandra watched the signal strength indicator on the sonar unit. With each pulse, its thin needle climbed a little higher. There was some point -- she could hardly guess -- when it would cross into an amplitude the sonar operator on the ship above them would be able to hear. In Cassandra's headset the ticking pulsed with an energy that felt like it must be broadcasting out through the water for miles. It was a sound that was centered right in the middle-low frequency ranges that traversed short distances of oceans well, potentially cutting right through the protection of the thermocline above.
+
+
+**.**
+**.**
+**.**
+
+She rotated the directional wheel around to target the surface ship. She focused on the engines of the ship above. They were emitting a growling low frequency that did not vary -- the ship was moving very slowly, now searching for the *Prospect* with their passive sonar instead of the active pinging. Cassandra scratched down a stream of notes marking the speed, direction, and bearing of the ship by tiny increments. When she looked over the marks, they drew the image of an arc in her mind -- the current path of the ship's increasing search spiral.
+
+**.**
+**.**
+**.**
+
+Even with the mics aimed almost behind the boat to target the ship on the surface, she could still see the wristwatches ticking in their eerie synchronicity, bouncing the signal strength meter once per second, like a chopping knife slicing up time.
+
+**.**
+**.**
+**.**
+
+She kept the microphones pointed towards the last location where she had heard the ship. After a minute of nothing but the nerve-wracking ticking splashing over her senses, she heard a distant electric whine, and then the cough of the ship's diesels starting up again. Her fingers tightened around the directional wheel. The signal was moving again. She slowly rolled the wheel under her palms. It only took seconds for her to understand that they had turned from their previous course. She tracked them another moment, and then was sure: they had turned towards the *Prospect*.
+
+
+
+
+
+
 
 [//]: # (11k)
 

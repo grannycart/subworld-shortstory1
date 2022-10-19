@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Tue Oct 18, 2022  02:41PM
+Last modified: Wed Oct 19, 2022  01:07PM
 
 [//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
 
@@ -450,7 +450,33 @@ The beats slowly incorporated a chaotic rhythm into their pattern. And as each t
 
 "Closing fast. Within 500 meters, and engines running at what must be near their maximum... I think they have us." Cassandra kept turning the directional wheel with enough precision to keep the sound of the ship's props centered in her ears. The ship was running directly at her. Her eyes locked on the tip of the signal strength needle. It was rapidly rising with the increasing energy of the signal, arcing its way up and over the graduations. And then it stopped climbing and hung there pointing off at an obtuse angle. 
 
+The sonar was no longer necessary, the twisted sound of the ship's props was clearly audible through every compartment in the *Prospect*.
 
-[//]: # (12k)
+But it was no longer getting louder. It had leveled off at its maximum. The ship was as close as it was going to come to being directly above the point where the *Prospect* hung suspended in the deep, and had stopped there.
+
+Cassandra looked at her hands resting on the directional control wheel. The sonar microphones were pointed off to the hard starboard side. "Wait..." Hemi put his heavy hand on her shoulder. 
+
+She increased the gain on the sonar. Faintly in her earpieces she heard the splash far above of a pair of heavy objects hitting the water. "They've dropped something in the water."
+
+"Depth bombs." Hemi said, his other hand pressed against one earpiece of the spare sonar headset.
+
+They both removed their headsets. The three people in the sonar compartment stared blankly at the wall of gauges in front of them, fear widening Hemi and Cassandra's eyes.
+
+When the explosions came it was a very low frequency double-beat that drummed on the hull of the *Prospect*.
+
+"They missed." Cassandra looked at the range calculator. "They were off by hundreds of meters, to starboard. Not even close to our position. That was lucky."
+
+"You make your own fucking luck in a chaotic fucking world Cassandra." Said Captain Percy, speaking through the smoke of the cigarillo she had just pulled her lips. "This cold deep water isn't sitting fucking still. There's a stiff current here, we drifted. You didn't feel the boat sliding sideways since we went deep, eh?" 
+
+"So much subtlety to that silent movement that I did not even recognize we had moved position. I wonder at my own loss of spatial positioning." Said Hemi.
+
+Percy sucked again at her cigarillo. "We slipped out of this one -- no inspections for us today. It's just a inevitable matter of waiting it out now. Let me know when they give up trying to kill us and we are well and good out of range. We'll get the fuck out of here."
+
+"Sure Captain Percy." Cassandra put the headset back over her ears and aimed the microphones at the bearing where she knew the ship had been.
+
+
+
+
+
 
 

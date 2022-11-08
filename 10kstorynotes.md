@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Thu Oct 13, 2022  01:04PM
+Last modified: Tue Nov 08, 2022  05:10PM
 
 
 # 10k-word short story notes
@@ -21,12 +21,13 @@ Last modified: Thu Oct 13, 2022  01:04PM
 	* Put as much of the action into Cassandra's ears --- and rich descriptions of the sounds --- as possible
 		* Avoid talking tactics without describing the sound.
 * For second version of story:
+	* This could be an opportunity for doing a story that is nothing but what is heard through the sonar. It's all about sound. Fear of what's out there in the darkness. Trying to remain silent
 	* it's _all_ from Cassandra's perspective at the sonar station
 	* it's a little more stylistic/artier. Maybe do a draft with the style of Gaddis, including emdashes
 	* less specificity, more about the _feeling_ of things: Cassandra's feeling of things
 	* Maybe for this story write it as if it _is_ real --- just drop the reader into a filthy cargo-sub filled world
 		* And out there wandering back and forth in that filth are thousands of cargo submarines, pushing their way through that filth, below the surface, below our consciousness. This is how the world's cargo moves, silent, and away from our attention. (it's true even without submarines! also: for reference there's about 10k cargo ships in the world today.) 
-	* _Don'_ have any consideration for whether things are being explained or not --- just have stuff happen
+	* _Don't_ have any consideration for whether things are being explained or not --- just have stuff happen
 		* (At least as you go through writing the draft; on revisions you can see if things HAVE to be added for things to make sense) 
 * You'll probably have to fix the references to exhaust --- diesel subs exhausted below the surface
 	* see notes in research files 

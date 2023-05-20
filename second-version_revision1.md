@@ -1,12 +1,7 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: Wed Oct 19, 2022  01:07PM
-
-[//]: # (Process for creating this file: open side-by-side with second version draft, and paste in one paragraph at a time, revising each as you go.)
-
-[//]: # (When reviewing: make sure you are staying in Cassandras ears. Dont slip into telling whats happening, describe it via sound.)
+Last modified: 2023-05-20 18:16
 
 [//]: # (Think of the story as a sculpture.)
-
 
 
 # Subworld Short Story #1 -- Second version, revision #1

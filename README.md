@@ -1,5 +1,5 @@
 README.md
-Last modified: Sat Oct 01, 2022  03:12PM
+Last modified: 2023-05-20 18:13
 
 # Untitled Subworld Short Story 1 
 * By Mark Torrey
@@ -11,6 +11,7 @@ Last modified: Sat Oct 01, 2022  03:12PM
 
 ## Files
 * [second-version_revision1.md](second-version_revision1.md)
+	* Most recent version, developed from in-ears version. 
 * [second-version_draft_in-ears.md](second-version_draft_in-ears.md)
 	* Draft of an all-Cassandra/sonar focused version of the listening to watches ticking through sonar story. 
 	* Starts with sonar and skips the radar chase section. 

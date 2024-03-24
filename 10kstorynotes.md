@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: 2024-03-24 15:14
+Last modified: 2024-03-24 18:35
 
 
 # 10k-word short story notes
@@ -11,6 +11,10 @@ Last modified: 2024-03-24 15:14
 
 ## Initial notes
 :notes:
+* Make sure there's no reference/explanation of "Authorities."
+    * Keep even references to cargo subs to a minimum
+    * the story should stand alone without having to expain the world it exists in
+    * don't bog a new reader down with explanations of WHY there's watches in the hold, just let it pass by
 * For 2nd version rev2 pass:
 	* Consider dropping all names? Or all names except Cassandra and Percy?
 	* Go through story and see if you can more elegantly massage the dialog -- say, if a character enters, do you need to credit their dialog with a: character said.

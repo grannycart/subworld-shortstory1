@@ -1,5 +1,5 @@
 10kstorynotes.md
-Last modified: Tue Nov 08, 2022  05:10PM
+Last modified: 2024-03-24 15:14
 
 
 # 10k-word short story notes
@@ -14,7 +14,7 @@ Last modified: Tue Nov 08, 2022  05:10PM
 * For 2nd version rev2 pass:
 	* Consider dropping all names? Or all names except Cassandra and Percy?
 	* Go through story and see if you can more elegantly massage the dialog -- say, if a character enters, do you need to credit their dialog with a: character said.
-	* Check any sentence with a conjunction, and make the segments are related. Otherwise, break into separate sentences.
+	* Check any sentence with a conjunction, and make the sure segments are related. Otherwise, break into separate sentences.
 	* (Add these review notes to review notes for book1)
 	* Strip it down a minimalist thing?
 * 2nd version rev1 notes:
@@ -29,27 +29,18 @@ Last modified: Tue Nov 08, 2022  05:10PM
 		* And out there wandering back and forth in that filth are thousands of cargo submarines, pushing their way through that filth, below the surface, below our consciousness. This is how the world's cargo moves, silent, and away from our attention. (it's true even without submarines! also: for reference there's about 10k cargo ships in the world today.) 
 	* _Don't_ have any consideration for whether things are being explained or not --- just have stuff happen
 		* (At least as you go through writing the draft; on revisions you can see if things HAVE to be added for things to make sense) 
-* You'll probably have to fix the references to exhaust --- diesel subs exhausted below the surface
+* ~~You'll probably have to fix the references to exhaust --- diesel subs exhausted below the surface~~
 	* see notes in research files 
 	* but also see note in book1 todos on how maybe this wouldn't apply to a cargo sub
+    * Also modern nuclear subs exhaust their diesel engines from the top of the sail.
 * they smuggle a hold full of expensive watches. the watches get wound up with the movement of the boat. while running silent under the authority ship the sonar realizes they can hear the watches. down in the silence of the hold with no engine running, the ticking is clearly audible, like the telltale heart. possibly audible to the authority ship.
 * probably should re-read telltale heart to hold a current reference point in my head.
 * the watches are a shipment from one of the authority govts to field troops to use for artillery 
 * maybe it through sheer chance that many of the watches start ticking in synchronicity.
 * what are the Authority ships doing? depth charging them? What the consequence of the ticking watches being heard?
 * (See note on Authorities 'pulling over' a sub in main subworld story elements list)
-
-
-## Promotional notes
-:promotion:
-* 10k words
-* free story on Amazon as a promo/loss leader
-* If you enjoy this story, here are 3 ways you can support this work:
-	1. Pass it on! It's free. The audience that enjoys this kind of story is very particular and hard to reach. You can help by giving it to a friend or enemy who you think would like it.
-	2. Join the mailing list. This is the most important thing you can do if you like someone's creative work. A mailing list is like a concrete fanbase that is controlled by the creator instead of some corporate overlord. You should get on the mailing list of anyone whose work you admire (as long as they don't abuse your trust by sending lots of spam). Speaking of which, fear not the spam! This is a friends and family thing, blah blah blah. You can sign up here (github page/google form something) or email me directly and ask to be added: blah@protonmail.com
-	3. Buy a book: link-to-purchase-page.com; compelling description of book contents.
 * cover:
-* one possibility: type up the first couple of pages, then approximate a stack that would hold the whole story;
+* one possibility for a grphic: type up the first couple of pages, then approximate a stack that would hold the whole story;
 	* Or just do the whole first full draft as a typed document --- as you planned to do for book 2. No reason not to, I think
 	* photograph that for the cover
 	* make the title visible: but the title will have to have the word 'submarine' in it so people know what the story is about with no visual cover

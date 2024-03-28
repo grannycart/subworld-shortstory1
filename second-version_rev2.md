@@ -1,5 +1,5 @@
 subworld/subworld-shortstory1/second-version_revision1.md
-Last modified: 2024-03-26 23:20
+Last modified: 2024-03-27 22:17
 
 [//]: # (Think of the story as a sculpture.)
 
@@ -137,21 +137,19 @@ That was impossible though. They were too close to just disappear. They could ha
 
 "Will do, Cassandra."
 
-[//]: # (----- EDITED TO HERE -----)
+She could hear Captain Percy giving muffled instructions to the men who sat at the rudder controls. And a moment later the boat was swinging to port. As the props swung out of the way Cassandra immediately picked up the contact again.
 
-She could hear Captain Percy giving muffled instructions to the boys who sat at the rudder controls. And a moment later the boat was swinging to port. As the props swung out of the way Cassandra immediately picked up the contact again.
-
-It was much closer now. She eased the directional control wheel back and forth across the signal. The sound described an image in her head: the pursuing ship, as seen from the underside. She could see the two props of the ship spinning. She could see the relatively shallow draft --- it was definitely not some heavy cargo ship displacing a massive amount of water. She could see the bow-wave curled up against both sides of its hull. It was close enough now that she could see the ship's direction --- pointed directly towards her.
+It was much closer now. She eased the directional control wheel back and forth across the signal. The sound described an image in her head: the pursuing ship, as seen from the underside. She could see the two props of the ship spinning. She could see the relatively shallow draft --- it was definitely not some heavy cargo ship displacing a massive amount of water. She could see the bow-wave curled up against both sides of its hull --- it was moving relatively quickly. It was close enough now that she could see the ship's direction --- pointed directly towards her.
 
 "They have increased speed Captain Percy. They are closing much faster now. They are within ten nautical miles."
 
 "And we're moving slower now. Give me a report every five minutes Cassandra."
 
-At the speed the pursuing ship was moving their engines would be making far too much noise to track anything by sonar. Apparently, now that the target they had been tracking with radar had disappeared, they were trying to close the distance as quickly as possible to the last point where they were sure the sub had been. Presumably they would resume their search with sonar when they felt they had a better chance at detection. But the high speed provided the *Prospect* a short window where their pursuers were essentially blind. 
+At the speed the pursuing ship was moving their engines would be making far too much noise to track anything by sonar. Apparently, now that the target they had been tracking with radar had disappeared, they were trying to close the distance as quickly as possible to the last point where they were sure the sub had been. Presumably they would slow to a quiet speed and resume their search with sonar when they felt they had a better chance at detection. But the high speed provided the *Prospect* a short window where their pursuers were essentially blind. 
 
 In the headset she could hear the ship on the surface slipping off to her side. She adjusted the directional wheel, keeping the signal strength at its maximum. She had the thought that the ship was turning for some reason. It was a couple of breaths before she reoriented herself and realized that the *Prospect* was turning, not the contact. Captain Percy was taking the opportunity offered to her by their pursuer's temporary blindness to make an evasive maneuver and head her boat off in some presumably random direction from where she had submerged.
 
-The situation between the two vessels had changed significantly from the grinding chase they had been engaged in overnight. The distance between them closed quickly now. Within fifteen minutes the pursuing ship was within five nautical miles. With each passing minute, Cassandra could hear more detail and got a clearer picture of their pursuer's ship --- at least of the bottom side of it. They were equipped with a powerful set of engines, and large props shaped for torque and power without much regard for noise. The left propeller was slightly damaged and bubbled in her headset with cavitation. All hallmarks of a warship, or at least of some kind of official vessel tasked with enforcement. Enforcing... what? That was something the bottom side of the ship could not tell Cassandra, no matter how good the resolution of its sounds got.
+The situation between the two vessels had changed significantly from the grinding chase they had been engaged in overnight. The distance between them closed quickly now. Within fifteen minutes the pursuing ship was within five nautical miles. With each passing minute, Cassandra could hear more detail and got a clearer picture of their pursuer's ship --- at least of the bottom side of it. They were equipped with a powerful set of engines, and large props shaped for torque and power without much regard for noise. The left propeller was slightly damaged and bubbled in her headset with cavitation. All hallmarks of a warship, or at least of some kind of official vessel tasked with enforcement. Enforcing... what? That was something the bottom side of the ship could not tell Cassandra, no matter how good the resolution of its sound got.
 
 The signal grew in intensity. The ranging equipment showed a calculation of within two nautical miles now. Cassandra scratched out a number of notes describing the characteristics of the signal and what those characteristics said about the ship that made them. It was often the case that at some future point notes like that could help identify a questionable signal, or provide a useful reference when it came to choosing maneuvers to elude their pursuers. 
 
@@ -159,11 +157,13 @@ The sound of the ship's engines suddenly faded from her ears leaving just the so
 
 "Captain Percy, they've slowed dramatically. I estimate they have reduced speed to under five knots." Cassandra's report was followed almost immediately by the dwindling away of the *Prospect's* electric motors in her headset.
 
-Captain Percy's voice filled the sonar compartment, amplified over the submarine's PA as she addressed the whole boat. "Until further notice, keep it fuckin' quiet if you please. I would like to avoid an encounter with any authority figures today. Thank you."
+Captain Percy's voice filled the sonar compartment, amplified over the submarine's PA, but still keeping to a low murmur, she addressed the whole boat. "Until further notice, keep it fuckin' quiet if you please. I would like to avoid an encounter with any authority figures today. Thank you."
 
 Submerged and hovering without the electric motors running granted Cassandra a perfect quiet. This was an opportunity to do some very deep listening. The props of the ship were spinning with slow waving swishes in her headset. One prop was turning more quickly than the other, generating a slightly higher pitch. She put little hash marks down on the scrap paper on the sill in front of her, carefully tracking the ship's movements. They had begun a slow turn to starboard. That was a good sign, being that it was the opposite direction from the way the *Prospect* had turned. But it was also possible it was just a short jog to enable the ship to listen behind their propellers and make sure they had not directly overshot the target they were looking for.
 
 In a matter of a few minutes her suspicions were confirmed as she could hear the slosh of the bow wake more clearly. The strength of the signal increased. They put themselves right back on their previous course towards the point where the *Prospect* had submerged. Now within two nautical miles.
+
+[//]: # (----- EDITED TO HERE -----)
 
 That was when a pulse of energy escaped from the hull of the ship, which Cassandra almost instinctively felt through the feedback of the sonar equipment more than heard. She yanked the headphones off her head and a second later a loud ping resonated off of, and straight through, the hull of the submarine.
 

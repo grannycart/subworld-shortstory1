@@ -7,7 +7,7 @@ Last modified: 2024-04-13 16:41
 
 ## How to read it:
 * Compile from this source code using pandoc:
-    * ```pandoc -s --from=markdown ./second-version_rev2.md --to=pdf -o second-version_rev2.pdf```
+    * `pandoc -s --from=markdown ./second-version_rev2.md --to=pdf -o second-version_rev2.pdf`
 	* (Or just read the markdown, available in source.) 
 
 ## Files
